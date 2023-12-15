@@ -1,0 +1,68 @@
+[
+    {
+        "item_id": 2400009,
+        "item_name": "Weapon Design",
+        "item_type": "Weapon",
+        "item_description": "Used to level up weapons",
+        "item_current_rarity": 1,
+        "quantity": 0,
+        "isDesign": true,
+        "isItem": false,
+        "isMaterial": false
+    },
+    {
+        "item_id": 2400011,
+        "item_name": "Necklace Design",
+        "item_type": "Necklace",
+        "item_description": "Used to level up necklaces",
+        "item_current_rarity": 1,
+        "quantity": 0,
+        "isDesign": true,
+        "isItem": false,
+        "isMaterial": false
+    },
+    {
+        "item_id": 2400013,
+        "item_name": "Gloves Design",
+        "item_type": "Gloves",
+        "item_description": "Used to level up gloves",
+        "item_current_rarity": 1,
+        "quantity": 0,
+        "isDesign": true,
+        "isItem": false,
+        "isMaterial": false
+    },
+    {
+        "item_id": 2400010,
+        "item_name": "Armor Design",
+        "item_type": "Armor",
+        "item_description": "Used to level up armors",
+        "item_current_rarity": 1,
+        "quantity": 0,
+        "isDesign": true,
+        "isItem": false,
+        "isMaterial": false
+    },
+    {
+        "item_id": 2400012,
+        "item_name": "Belt Design",
+        "item_type": "Belt",
+        "item_description": "Used to level up belts",
+        "item_current_rarity": 1,
+        "quantity": 0,
+        "isDesign": true,
+        "isItem": false,
+        "isMaterial": false
+    },
+    {
+        "item_id": 2400014,
+        "item_name": "Shoes Design",
+        "item_type": "Shoes",
+        "item_description": "Used to level up shoes",
+        "item_current_rarity": 1,
+        "quantity": 0,
+        "isDesign": true,
+        "isItem": false,
+        "isMaterial": false
+    }
+]

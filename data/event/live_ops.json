@@ -1,0 +1,5336 @@
+{
+  "live_ops_event": [
+    {
+      "event_id": 3000003,
+      "event_name": "Autumn Event",
+      "event_start": 0,
+      "event_start_value": 0,
+      "event_expiry": 1,
+      "event_expiry_value": 240,
+      "event_special_condition": 1,
+      "event_special_condition_value": 2,
+      "event_exchange_time": 24,
+      "event_sign_in": {
+        "pack_id": 3000200,
+        "iap_id": "com.nmg.survivalhero.mega.reward.event.3000200",
+        "pack_name": "Mega Reward",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 9.99
+        },
+        "mega_reward": false,
+        "current_value": 0,
+        "tabs": [
+          {
+            "tab_name": 1,
+            "conditions": {
+              "condition_type": 3,
+              "condition_value": 1
+            },
+            "tasks": [
+              {
+                "task_name": 1,
+                "status": 0,
+                "condition_reward": true,
+                "item_list": [
+                  {
+                    "content": "Design",
+                    "item_id": 2400001,
+                    "item_name": "Random Scroll",
+                    "item_type": "All",
+                    "item_description": "Random Scroll",
+                    "item_current_rarity": 1,
+                    "value": 10
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "status": 0,
+                "condition_reward": false,
+                "item_list": [
+                  {
+                    "content": "Gem",
+                    "item_id": 2400002,
+                    "item_name": "Gem",
+                    "item_type": "Gem",
+                    "item_description": "Gem",
+                    "item_current_rarity": 4,
+                    "value": 100
+                  },
+                  {
+                    "content": "ReviveToken",
+                    "item_id": 2400007,
+                    "item_name": "Revive Token",
+                    "item_type": "ReviveToken",
+                    "item_description": "Miracle token that revives people",
+                    "item_current_rarity": 4,
+                    "value": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tab_name": 2,
+            "conditions": {
+              "condition_type": 3,
+              "condition_value": 2
+            },
+            "tasks": [
+              {
+                "task_name": 1,
+                "status": 0,
+                "condition_reward": true,
+                "item_list": [
+                  {
+                    "content": "Gem",
+                    "item_id": 2400002,
+                    "item_name": "Gem",
+                    "item_type": "Gem",
+                    "item_description": "Gem",
+                    "item_current_rarity": 4,
+                    "value": 100
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "status": 0,
+                "condition_reward": false,
+                "item_list": [
+                  {
+                    "content": "Gem",
+                    "item_id": 2400002,
+                    "item_name": "Gem",
+                    "item_type": "Gem",
+                    "item_description": "Gem",
+                    "item_current_rarity": 4,
+                    "value": 150
+                  },
+                  {
+                    "content": "Design",
+                    "item_id": 2400001,
+                    "item_name": "Random Scroll",
+                    "item_type": "All",
+                    "item_description": "Random Scroll",
+                    "item_current_rarity": 1,
+                    "value": 20
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tab_name": 3,
+            "conditions": {
+              "condition_type": 3,
+              "condition_value": 3
+            },
+            "tasks": [
+              {
+                "task_name": 1,
+                "status": 0,
+                "condition_reward": true,
+                "item_list": [
+                  {
+                    "content": "PatrolGold",
+                    "item_id": 2400016,
+                    "item_name": "Patrol Gold",
+                    "item_type": "PatrolGold",
+                    "item_description": "Gain 1h of Patrol Gold",
+                    "item_current_rarity": 3,
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "status": 0,
+                "condition_reward": false,
+                "item_list": [
+                  {
+                    "content": "Gem",
+                    "item_id": 2400002,
+                    "item_name": "Gem",
+                    "item_type": "Gem",
+                    "item_description": "Gem",
+                    "item_current_rarity": 4,
+                    "value": 200
+                  },
+                  {
+                    "content": "ReviveToken",
+                    "item_id": 2400007,
+                    "item_name": "Revive Token",
+                    "item_type": "ReviveToken",
+                    "item_description": "Miracle token that revives people",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tab_name": 4,
+            "conditions": {
+              "condition_type": 3,
+              "condition_value": 4
+            },
+            "tasks": [
+              {
+                "task_name": 1,
+                "status": 0,
+                "condition_reward": true,
+                "item_list": [
+                  {
+                    "content": "Key",
+                    "item_id": 2400006,
+                    "item_name": "Gold Key",
+                    "item_type": "Key",
+                    "item_description": "Opens Executive Supply Crate",
+                    "item_current_rarity": 4,
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "status": 0,
+                "condition_reward": false,
+                "item_list": [
+                  {
+                    "content": "Gem",
+                    "item_id": 2400002,
+                    "item_name": "Gem",
+                    "item_type": "Gem",
+                    "item_description": "Gem",
+                    "item_current_rarity": 4,
+                    "value": 250
+                  },
+                  {
+                    "content": "Design",
+                    "item_id": 2400001,
+                    "item_name": "Random Scroll",
+                    "item_type": "All",
+                    "item_description": "Random Scroll",
+                    "item_current_rarity": 1,
+                    "value": 30
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tab_name": 5,
+            "conditions": {
+              "condition_type": 3,
+              "condition_value": 5
+            },
+            "tasks": [
+              {
+                "task_name": 1,
+                "status": 0,
+                "condition_reward": true,
+                "item_list": [
+                  {
+                    "content": "Design",
+                    "item_id": 2400001,
+                    "item_name": "Random Scroll",
+                    "item_type": "All",
+                    "item_description": "Random Scroll",
+                    "item_current_rarity": 1,
+                    "value": 10
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "status": 0,
+                "condition_reward": false,
+                "item_list": [
+                  {
+                    "content": "Gem",
+                    "item_id": 2400002,
+                    "item_name": "Gem",
+                    "item_type": "Gem",
+                    "item_description": "Gem",
+                    "item_current_rarity": 4,
+                    "value": 300
+                  },
+                  {
+                    "content": "Equipment",
+                    "item_id": 2400025,
+                    "item_name": "Excellent Equipment Chest",
+                    "item_type": "All",
+                    "item_description": "Get 1 random Excellent Equipment (excluding S grade)",
+                    "item_current_rarity": 4,
+                    "value": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tab_name": 6,
+            "conditions": {
+              "condition_type": 3,
+              "condition_value": 6
+            },
+            "tasks": [
+              {
+                "task_name": 1,
+                "status": 0,
+                "condition_reward": true,
+                "item_list": [
+                  {
+                    "content": "Gem",
+                    "item_id": 2400002,
+                    "item_name": "Gem",
+                    "item_type": "Gem",
+                    "item_description": "Gem",
+                    "item_current_rarity": 4,
+                    "value": 100
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "status": 0,
+                "condition_reward": false,
+                "item_list": [
+                  {
+                    "content": "Gem",
+                    "item_id": 2400002,
+                    "item_name": "Gem",
+                    "item_type": "Gem",
+                    "item_description": "Gem",
+                    "item_current_rarity": 4,
+                    "value": 400
+                  },
+                  {
+                    "content": "ReviveToken",
+                    "item_id": 2400007,
+                    "item_name": "Revive Token",
+                    "item_type": "ReviveToken",
+                    "item_description": "Miracle token that revives people",
+                    "item_current_rarity": 4,
+                    "value": 3
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tab_name": 7,
+            "conditions": {
+              "condition_type": 3,
+              "condition_value": 7
+            },
+            "tasks": [
+              {
+                "task_name": 1,
+                "status": 0,
+                "condition_reward": true,
+                "item_list": [
+                  {
+                    "content": "PatrolGold",
+                    "item_id": 2400016,
+                    "item_name": "Patrol Gold",
+                    "item_type": "PatrolGold",
+                    "item_description": "Gain 1h of Patrol Gold",
+                    "item_current_rarity": 3,
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "status": 0,
+                "condition_reward": false,
+                "item_list": [
+                  {
+                    "content": "Gem",
+                    "item_id": 2400002,
+                    "item_name": "Gem",
+                    "item_type": "Gem",
+                    "item_description": "Gem",
+                    "item_current_rarity": 4,
+                    "value": 450
+                  },
+                  {
+                    "content": "Design",
+                    "item_id": 2400001,
+                    "item_name": "Random Scroll",
+                    "item_type": "All",
+                    "item_description": "Random Scroll",
+                    "item_current_rarity": 1,
+                    "value": 40
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tab_name": 8,
+            "conditions": {
+              "condition_type": 3,
+              "condition_value": 8
+            },
+            "tasks": [
+              {
+                "task_name": 1,
+                "status": 0,
+                "condition_reward": true,
+                "item_list": [
+                  {
+                    "content": "Key",
+                    "item_id": 2400006,
+                    "item_name": "Gold Key",
+                    "item_type": "Key",
+                    "item_description": "Opens Executive Supply Crate",
+                    "item_current_rarity": 4,
+                    "value": 1
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "status": 0,
+                "condition_reward": false,
+                "item_list": [
+                  {
+                    "content": "Gem",
+                    "item_id": 2400002,
+                    "item_name": "Gem",
+                    "item_type": "Gem",
+                    "item_description": "Gem",
+                    "item_current_rarity": 4,
+                    "value": 500
+                  },
+                  {
+                    "content": "ReviveToken",
+                    "item_id": 2400007,
+                    "item_name": "Revive Token",
+                    "item_type": "ReviveToken",
+                    "item_description": "Miracle token that revives people",
+                    "item_current_rarity": 4,
+                    "value": 4
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tab_name": 9,
+            "conditions": {
+              "condition_type": 3,
+              "condition_value": 9
+            },
+            "tasks": [
+              {
+                "task_name": 1,
+                "status": 0,
+                "condition_reward": true,
+                "item_list": [
+                  {
+                    "content": "Design",
+                    "item_id": 2400001,
+                    "item_name": "Random Scroll",
+                    "item_type": "All",
+                    "item_description": "Random Scroll",
+                    "item_current_rarity": 1,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "status": 0,
+                "condition_reward": false,
+                "item_list": [
+                  {
+                    "content": "Gem",
+                    "item_id": 2400002,
+                    "item_name": "Gem",
+                    "item_type": "Gem",
+                    "item_description": "Gem",
+                    "item_current_rarity": 4,
+                    "value": 550
+                  },
+                  {
+                    "content": "Design",
+                    "item_id": 2400001,
+                    "item_name": "Random Scroll",
+                    "item_type": "All",
+                    "item_description": "Random Scroll",
+                    "item_current_rarity": 1,
+                    "value": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tab_name": 10,
+            "conditions": {
+              "condition_type": 3,
+              "condition_value": 10
+            },
+            "tasks": [
+              {
+                "task_name": 1,
+                "status": 0,
+                "condition_reward": true,
+                "item_list": [
+                  {
+                    "content": "Gem",
+                    "item_id": 2400002,
+                    "item_name": "Gem",
+                    "item_type": "Gem",
+                    "item_description": "Gem",
+                    "item_current_rarity": 4,
+                    "value": 200
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "status": 0,
+                "condition_reward": false,
+                "item_list": [
+                  {
+                    "content": "Gem",
+                    "item_id": 2400002,
+                    "item_name": "Gem",
+                    "item_type": "Gem",
+                    "item_description": "Gem",
+                    "item_current_rarity": 4,
+                    "value": 600
+                  },
+                  {
+                    "content": "Equipment",
+                    "item_id": 2400025,
+                    "item_name": "Excellent Equipment Chest",
+                    "item_type": "All",
+                    "item_description": "Get 1 random Excellent Equipment (excluding S grade)",
+                    "item_current_rarity": 4,
+                    "value": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "event_mission": [
+        {
+          "task_name": "Login for total of days",
+          "tab_name": 1,
+          "conditions": {
+            "condition_type": 3,
+            "current_value": 0,
+            "condition_mission": [
+              {
+                "task_name": 1,
+                "condition_value": 1,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "condition_value": 2,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 3,
+                "condition_value": 3,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 4,
+                "condition_value": 4,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 5,
+                "condition_value": 5,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 6,
+                "condition_value": 6,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 7,
+                "condition_value": 7,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "task_name": "Play Main Chapter Stage times",
+          "tab_name": 2,
+          "conditions": {
+            "condition_type": 4,
+            "current_value": 0,
+            "condition_mission": [
+              {
+                "task_name": 1,
+                "condition_value": 3,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "condition_value": 6,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 3,
+                "condition_value": 9,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 4,
+                "condition_value": 12,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 5,
+                "condition_value": 15,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 6,
+                "condition_value": 18,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 7,
+                "condition_value": 21,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 8,
+                "condition_value": 24,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 9,
+                "condition_value": 27,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 10,
+                "condition_value": 30,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "task_name": "Defeat monters",
+          "tab_name": 3,
+          "conditions": {
+            "condition_type": 14,
+            "current_value": 0,
+            "condition_mission": [
+              {
+                "task_name": 1,
+                "condition_value": 50000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "condition_value": 100000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 3,
+                "condition_value": 150000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 4,
+                "condition_value": 200000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 5,
+                "condition_value": 300000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 6,
+                "condition_value": 400000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 7,
+                "condition_value": 500000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 8,
+                "condition_value": 600000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 50
+                  }
+                ]
+              },
+              {
+                "task_name": 9,
+                "condition_value": 700000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 50
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "task_name": "Quick Patrol times",
+          "tab_name": 4,
+          "conditions": {
+            "condition_type": 10,
+            "current_value": 0,
+            "condition_mission": [
+              {
+                "task_name": 1,
+                "condition_value": 3,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "condition_value": 6,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 3,
+                "condition_value": 9,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 4,
+                "condition_value": 12,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 5,
+                "condition_value": 15,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 6,
+                "condition_value": 18,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 7,
+                "condition_value": 21,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 8,
+                "condition_value": 24,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 20
+                  }
+                ]
+              },
+              {
+                "task_name": 9,
+                "condition_value": 27,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 50
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "task_name": "Open chests",
+          "tab_name": 5,
+          "conditions": {
+            "condition_type": 8,
+            "current_value": 0,
+            "condition_mission": [
+              {
+                "task_name": 1,
+                "condition_value": 2,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "condition_value": 4,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 3,
+                "condition_value": 6,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 4,
+                "condition_value": 8,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 5,
+                "condition_value": 12,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 6,
+                "condition_value": 16,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 7,
+                "condition_value": 20,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 8,
+                "condition_value": 25,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 9,
+                "condition_value": 35,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 50
+                  }
+                ]
+              },
+              {
+                "task_name": 10,
+                "condition_value": 50,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000031,
+                    "item_name": "Autumn Event Token",
+                    "item_type": "Event Token",
+                    "item_description": "Autumn Event Token",
+                    "item_current_rarity": 4,
+                    "value": 50
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "event_exchange": [
+        {
+          "exchange_id": 300000320,
+          "exchange_chance": 1,
+          "max_exchange_chance": 1,
+          "token_cost": 1300,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 1110003,
+              "item_name": "Light Savior",
+              "item_type": "Weapon",
+              "item_description": "Was crafted on May 4th.",
+              "item_mainstats": "+75 ATK",
+              "item_starting_rarity": 4,
+              "item_effect": ["ATK +15%", "All skill cooldown -15%", "Triggers a backward slash every 5 attacks", "ATK +25%", "Leaves behind a sword array every 10 attacks"],
+              "item_current_rarity": 4,
+              "item_super": true,
+              "isDesign": false,
+              "isItem": true,
+              "isMaterial": false,
+              "isEquipped": false,
+              "base_stats": [
+                {
+                  "type": "Atk",
+                  "value": 75
+                }
+              ],
+              "effect_bonus": [
+                {
+                  "type": "Atk",
+                  "value": 15
+                }
+              ],
+              "level_up_price": [
+                {
+                  "type": "Gold",
+                  "value": 1000
+                },
+                {
+                  "type": "Design",
+                  "value": 1
+                }
+              ],
+              "level_down_reward": [],
+              "level_bonus": [],
+              "min_level": 1,
+              "max_level": 50,
+              "level": 1,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000321,
+          "exchange_chance": 1,
+          "max_exchange_chance": 1,
+          "token_cost": 1000,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2130002,
+              "item_name": "Immortal Suit",
+              "item_type": "Armor",
+              "item_description": "Mysterious technology of a higher life form.",
+              "item_mainstats": "+300 HP",
+              "item_starting_rarity": 4,
+              "item_effect": ["Revives with full HP once", "HP +15%", "After revival, ATK +15%, Movement speed +15%", "HP +25%", "+1 Revival"],
+              "item_current_rarity": 4,
+              "item_super": true,
+              "isDesign": false,
+              "isItem": true,
+              "isMaterial": false,
+              "isEquipped": false,
+              "base_stats": [
+                {
+                  "type": "Hp",
+                  "value": 300
+                }
+              ],
+              "effect_bonus": [
+                {
+                  "type": "Hp",
+                  "value": 15
+                }
+              ],
+              "level_up_price": [
+                {
+                  "type": "Gold",
+                  "value": 1000
+                },
+                {
+                  "type": "Design",
+                  "value": 1
+                }
+              ],
+              "level_down_reward": [],
+              "level_bonus": [],
+              "min_level": 1,
+              "max_level": 50,
+              "level": 1,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000322,
+          "exchange_chance": 1,
+          "max_exchange_chance": 1,
+          "token_cost": 800,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2150005,
+              "item_name": "Immortal Boots",
+              "item_type": "Shoes",
+              "item_description": "Scorching earth beneath your feet",
+              "item_mainstats": "+225 HP",
+              "item_starting_rarity": 4,
+              "item_effect": ["Base Movement Speed +2", "HP +15%", "Leaves behind a trail of fire when moving", "HP +20%", "Increase fire trail damage. It also slows enemies"],
+              "item_current_rarity": 4,
+              "item_super": true,
+              "isDesign": false,
+              "isItem": true,
+              "isMaterial": false,
+              "isEquipped": false,
+              "base_stats": [
+                {
+                  "type": "Hp",
+                  "value": 225
+                }
+              ],
+              "effect_bonus": [
+                {
+                  "type": "Hp",
+                  "value": 15
+                }
+              ],
+              "level_up_price": [
+                {
+                  "type": "Gold",
+                  "value": 1000
+                },
+                {
+                  "type": "Design",
+                  "value": 1
+                }
+              ],
+              "level_down_reward": [],
+              "level_bonus": [],
+              "min_level": 1,
+              "max_level": 50,
+              "level": 1,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000323,
+          "exchange_chance": 50,
+          "max_exchange_chance": 50,
+          "token_cost": 20,
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400009,
+              "item_name": "Weapon Design",
+              "item_type": "Weapon",
+              "item_description": "Used to level up weapons",
+              "item_current_rarity": 1,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000324,
+          "exchange_chance": 50,
+          "max_exchange_chance": 50,
+          "token_cost": 20,
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400010,
+              "item_name": "Armor Design",
+              "item_type": "Armor",
+              "item_description": "Used to level up armors",
+              "item_current_rarity": 1,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000325,
+          "exchange_chance": 50,
+          "max_exchange_chance": 50,
+          "token_cost": 20,
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400011,
+              "item_name": "Necklace Design",
+              "item_type": "Necklace",
+              "item_description": "Used to level up necklaces",
+              "item_current_rarity": 1,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000326,
+          "exchange_chance": 50,
+          "max_exchange_chance": 50,
+          "token_cost": 20,
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400012,
+              "item_name": "Belt Design",
+              "item_type": "Belt",
+              "item_description": "Used to level up belts",
+              "item_current_rarity": 1,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000327,
+          "exchange_chance": 50,
+          "max_exchange_chance": 50,
+          "token_cost": 20,
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400013,
+              "item_name": "Gloves Design",
+              "item_type": "Gloves",
+              "item_description": "Used to level up gloves",
+              "item_current_rarity": 1,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000328,
+          "exchange_chance": 50,
+          "max_exchange_chance": 50,
+          "token_cost": 20,
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400014,
+              "item_name": "Shoes Design",
+              "item_type": "Shoes",
+              "item_description": "Used to level up shoes",
+              "item_current_rarity": 1,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000329,
+          "exchange_chance": 100,
+          "max_exchange_chance": 100,
+          "token_cost": 30,
+          "item_list": [
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens Executive Supply Crate",
+              "item_current_rarity": 4,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000330,
+          "exchange_chance": 100,
+          "max_exchange_chance": 100,
+          "token_cost": 10,
+          "item_list": [
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "value": 20000
+            }
+          ]
+        }
+      ],
+      "event_shop": [
+        {
+          "tab_name": "token",
+          "tab_type": 1,
+          "event_pack_id": 3000200,
+          "iap_id": "",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "Free",
+            "value": 0
+          },
+          "event_pack_discount_value": -1,
+          "event_pack_purchase_chance": 1,
+          "item_list": [
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 20
+            },
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "value": 20
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "value": 5000
+            }
+          ]
+        },
+        {
+          "tab_name": "token",
+          "tab_type": 1,
+          "event_pack_id": 3000201,
+          "iap_id": "com.nmg.survivalhero.event.shop.pack.1.3000201",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 4.99
+          },
+          "event_pack_discount_value": 400,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 100
+            },
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "value": 500
+            },
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Gain 1h of Patrol Gold",
+              "item_current_rarity": 3,
+              "value": 5
+            },
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "value": 3
+            }
+          ]
+        },
+        {
+          "tab_name": "token",
+          "tab_type": 1,
+          "event_pack_id": 3000202,
+          "iap_id": "com.nmg.survivalhero.event.shop.pack.2.3000202",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 9.99
+          },
+          "event_pack_discount_value": 400,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 200
+            },
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "value": 1200
+            },
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Gain 1h of Patrol Gold",
+              "item_current_rarity": 3,
+              "value": 10
+            },
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "value": 6
+            }
+          ]
+        },
+        {
+          "tab_name": "token",
+          "tab_type": 1,
+          "event_pack_id": 3000203,
+          "iap_id": "com.nmg.survivalhero.event.shop.pack.3.3000203",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 19.99
+          },
+          "event_pack_discount_value": 400,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 400
+            },
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "value": 2500
+            },
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Gain 1h of Patrol Gold",
+              "item_current_rarity": 3,
+              "value": 20
+            },
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "value": 15
+            }
+          ]
+        },
+        {
+          "tab_name": "token",
+          "tab_type": 1,
+          "event_pack_id": 3000204,
+          "iap_id": "com.nmg.survivalhero.event.shop.pack.4.3000204",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 49.99
+          },
+          "event_pack_discount_value": 400,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 1000
+            },
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "value": 6500
+            },
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Gain 1h of Patrol Gold",
+              "item_current_rarity": 3,
+              "value": 50
+            },
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "value": 30
+            }
+          ]
+        },
+        {
+          "tab_name": "equipment",
+          "tab_type": 2,
+          "event_pack_id": 3000205,
+          "iap_id": "",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "Free",
+            "value": 0
+          },
+          "event_pack_discount_value": -1,
+          "event_pack_purchase_chance": 1,
+          "item_list": [
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 20
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "value": 5
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "value": 5000
+            }
+          ]
+        },
+        {
+          "tab_name": "equipment",
+          "tab_type": 2,
+          "event_pack_id": 3000206,
+          "iap_id": "com.nmg.survivalhero.event.shop.pack.5.3000206",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 4.99
+          },
+          "event_pack_discount_value": 400,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2400019,
+              "item_name": "Excellent Weapon Chest",
+              "item_type": "All",
+              "item_description": "Get 1 random Excellent Weapon (excluding S Grade)",
+              "item_current_rarity": 4,
+              "value": 1
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens Executive Supply Crate",
+              "item_current_rarity": 4,
+              "value": 2
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "value": 50
+            },
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Gain 1h of Patrol Gold",
+              "item_current_rarity": 3,
+              "value": 5
+            }
+          ]
+        },
+        {
+          "tab_name": "equipment",
+          "tab_type": 2,
+          "event_pack_id": 3000207,
+          "iap_id": "com.nmg.survivalhero.event.shop.pack.6.3000207",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 4.99
+          },
+          "event_pack_discount_value": 400,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2400020,
+              "item_name": "Excellent Armor Chest",
+              "item_type": "All",
+              "item_description": "Get 1 random Excellent Armor (excluding S Grade)",
+              "item_current_rarity": 4,
+              "value": 1
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens Executive Supply Crate",
+              "item_current_rarity": 4,
+              "value": 2
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "value": 50
+            },
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Gain 1h of Patrol Gold",
+              "item_current_rarity": 3,
+              "value": 5
+            }
+          ]
+        },
+        {
+          "tab_name": "equipment",
+          "tab_type": 2,
+          "event_pack_id": 3000208,
+          "iap_id": "com.nmg.survivalhero.event.shop.pack.7.3000208",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 19.99
+          },
+          "event_pack_discount_value": 400,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2400039,
+              "item_name": "Epic Weapon Chest",
+              "item_type": "All",
+              "item_description": "Get 1 random Epic Weapon (excluding S grade)",
+              "item_current_rarity": 7,
+              "value": 1
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens Executive Supply Crate",
+              "item_current_rarity": 4,
+              "value": 10
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "value": 200
+            },
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Gain 1h of Patrol Gold",
+              "item_current_rarity": 3,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "tab_name": "equipment",
+          "tab_type": 2,
+          "event_pack_id": 3000209,
+          "iap_id": "com.nmg.survivalhero.event.shop.pack.8.3000209",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 19.99
+          },
+          "event_pack_discount_value": 400,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2400040,
+              "item_name": "Epic Armor Chest",
+              "item_type": "All",
+              "item_description": "Get 1 random Epic Armor (excluding S grade)",
+              "item_current_rarity": 7,
+              "value": 1
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens Executive Supply Crate",
+              "item_current_rarity": 4,
+              "value": 10
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "value": 200
+            },
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Gain 1h of Patrol Gold",
+              "item_current_rarity": 3,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "tab_name": "gadget",
+          "tab_type": 3,
+          "event_pack_id": 3000210,
+          "iap_id": "",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "Free",
+            "value": 0
+          },
+          "event_pack_discount_value": -1,
+          "event_pack_purchase_chance": 1,
+          "item_list": [
+            {
+              "content": "Gadget",
+              "item_id": 2161000,
+              "item_name": "Normal Random Gadget",
+              "item_type": "All",
+              "item_description": "Normal Random Gadget",
+              "item_current_rarity": 1,
+              "value": 1
+            },
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 20
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "value": 5000
+            }
+          ]
+        },
+        {
+          "tab_name": "gadget",
+          "tab_type": 3,
+          "event_pack_id": 3000211,
+          "iap_id": "com.nmg.survivalhero.event.shop.pack.9.3000211",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 1.99
+          },
+          "event_pack_discount_value": 400,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "Gadget",
+              "item_id": 2161002,
+              "item_name": "Better Random Gadget",
+              "item_description": "Better Random Gadget",
+              "item_type": "All",
+              "item_current_rarity": 3,
+              "value": 1
+            },
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "value": 180
+            },
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 20
+            },
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Gain 1h of Patrol Gold",
+              "item_current_rarity": 3,
+              "value": 2
+            }
+          ]
+        },
+        {
+          "tab_name": "gadget",
+          "tab_type": 3,
+          "event_pack_id": 3000212,
+          "iap_id": "com.nmg.survivalhero.event.shop.pack.10.3000212",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 4.99
+          },
+          "event_pack_discount_value": 400,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "Gadget",
+              "item_id": 2161003,
+              "item_name": "Excellent Random Gadget",
+              "item_description": "Excellent Random Gadget",
+              "item_type": "All",
+              "item_current_rarity": 4,
+              "value": 1
+            },
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "value": 500
+            },
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 50
+            },
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Gain 1h of Patrol Gold",
+              "item_current_rarity": 3,
+              "value": 5
+            }
+          ]
+        },
+        {
+          "tab_name": "gadget",
+          "tab_type": 3,
+          "event_pack_id": 3000213,
+          "iap_id": "com.nmg.survivalhero.event.shop.pack.11.3000213",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 9.99
+          },
+          "event_pack_discount_value": 400,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "Gadget",
+              "item_id": 2161003,
+              "item_name": "Excellent Random Gadget",
+              "item_description": "Excellent Random Gadget",
+              "item_type": "All",
+              "item_current_rarity": 4,
+              "value": 2
+            },
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "value": 1200
+            },
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 100
+            },
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Gain 1h of Patrol Gold",
+              "item_current_rarity": 3,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "tab_name": "gadget",
+          "tab_type": 3,
+          "event_pack_id": 3000214,
+          "iap_id": "com.nmg.survivalhero.event.shop.pack.12.3000214",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 19.99
+          },
+          "event_pack_discount_value": 400,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "Gadget",
+              "item_id": 2161003,
+              "item_name": "Excellent Random Gadget",
+              "item_description": "Excellent Random Gadget",
+              "item_type": "All",
+              "item_current_rarity": 4,
+              "value": 4
+            },
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "value": 2500
+            },
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 200
+            },
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Gain 1h of Patrol Gold",
+              "item_current_rarity": 3,
+              "value": 20
+            }
+          ]
+        }
+      ],
+      "event_daily_discount": {
+        "pack_id": 30001614,
+        "iap_id": "",
+        "type": "Daily",
+        "refresh_time": 24,
+        "price": {
+          "_id": "643d0dbdfafdf624af6fcd71",
+          "price_type": "Ads",
+          "value": 0
+        },
+        "value": null,
+        "item_list": [
+          {
+            "content": "EventToken",
+            "item_id": 30000031,
+            "item_name": "Autumn Event Token",
+            "item_type": "Event Token",
+            "item_description": "Autumn Event Token",
+            "item_current_rarity": 4,
+            "value": 10
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "value": 5
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "event_id": 3000005,
+      "event_name": "Autumn Extravaganza",
+      "event_start": 0,
+      "event_start_value": 0,
+      "event_expiry": 1,
+      "event_expiry_value": 168,
+      "event_special_condition": 1,
+      "event_special_condition_value": 9,
+      "event_exchange_time": 24,
+      "event_lottery": {
+        "tile_item": [
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 10
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 10
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 10
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 10
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 10
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 50
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 50
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 200
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 400
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "display_in_bag": false,
+                "value": 1000
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "display_in_bag": false,
+                "value": 1000
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "display_in_bag": false,
+                "value": 1000
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "display_in_bag": false,
+                "value": 1000
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "display_in_bag": false,
+                "value": 1000
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "display_in_bag": false,
+                "value": 10000
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "display_in_bag": false,
+                "value": 10000
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "display_in_bag": false,
+                "value": 10000
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Design",
+                "item_id": 2400001,
+                "item_name": "Random Scroll",
+                "item_type": "All",
+                "item_description": "Random Scroll",
+                "item_current_rarity": 1,
+                "display_in_bag": false,
+                "value": 1
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Design",
+                "item_id": 2400001,
+                "item_name": "Random Scroll",
+                "item_type": "All",
+                "item_description": "Random Scroll",
+                "item_current_rarity": 1,
+                "display_in_bag": false,
+                "value": 1
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Design",
+                "item_id": 2400001,
+                "item_name": "Random Scroll",
+                "item_type": "All",
+                "item_description": "Random Scroll",
+                "item_current_rarity": 1,
+                "display_in_bag": false,
+                "value": 1
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Design",
+                "item_id": 2400001,
+                "item_name": "Random Scroll",
+                "item_type": "All",
+                "item_description": "Random Scroll",
+                "item_current_rarity": 1,
+                "display_in_bag": false,
+                "value": 1
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Design",
+                "item_id": 2400001,
+                "item_name": "Random Scroll",
+                "item_type": "All",
+                "item_description": "Random Scroll",
+                "item_current_rarity": 1,
+                "display_in_bag": false,
+                "value": 1
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gadget",
+                "item_id": 2161000,
+                "item_name": "Normal Random Gadget",
+                "item_type": "All",
+                "item_description": "Normal Random Gadget",
+                "item_current_rarity": 1,
+                "display_in_bag": false,
+                "value": 1
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gadget",
+                "item_id": 2161000,
+                "item_name": "Normal Random Gadget",
+                "item_type": "All",
+                "item_description": "Normal Random Gadget",
+                "item_current_rarity": 1,
+                "display_in_bag": false,
+                "value": 1
+              }
+            ]
+          },
+          {
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gadget",
+                "item_id": 2161000,
+                "item_name": "Normal Random Gadget",
+                "item_type": "All",
+                "item_description": "Normal Random Gadget",
+                "item_current_rarity": 1,
+                "display_in_bag": false,
+                "value": 1
+              }
+            ]
+          }
+        ],
+        "reward_item": [
+          {
+            "tier": "S",
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Equipment",
+                "item_id": 2130002,
+                "item_name": "Immortal Suit",
+                "item_type": "Armor",
+                "item_description": "Mysterious technology of a higher life form.",
+                "item_current_rarity": 4,
+                "is_supper": true,
+                "item_super": true,
+                "display_in_bag": false,
+                "value": 1
+              }
+            ]
+          },
+          {
+            "tier": "S",
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Equipment",
+                "item_id": 2140005,
+                "item_name": "Immortal Belt",
+                "item_type": "Belt",
+                "item_description": "It even fits dad's bod!",
+                "item_current_rarity": 4,
+                "is_supper": true,
+                "item_super": true,
+                "display_in_bag": false,
+                "value": 1
+              }
+            ]
+          },
+          {
+            "tier": "A",
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gadget",
+                "item_id": 2161003,
+                "item_name": "Excellent Random Gadget",
+                "item_description": "Excellent Random Gadget",
+                "item_type": "All",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 2
+              }
+            ]
+          },
+          {
+            "tier": "A",
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 2000
+              }
+            ]
+          },
+          {
+            "tier": "B",
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gadget",
+                "item_id": 2161003,
+                "item_name": "Excellent Random Gadget",
+                "item_description": "Excellent Random Gadget",
+                "item_type": "All",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 1
+              }
+            ]
+          },
+          {
+            "tier": "B",
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Key",
+                "item_id": 2400006,
+                "item_name": "Gold Key",
+                "item_type": "Key",
+                "item_description": "Opens Executive Supply Crate",
+                "item_current_rarity": 4,
+                "display_in_bag": true,
+                "value": 5
+              }
+            ]
+          },
+          {
+            "tier": "B",
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Equipment",
+                "item_id": 2400023,
+                "item_name": "Excellent Gloves Chest",
+                "item_type": "All",
+                "item_description": "Get 1 random Excellent Gloves (excluding S Grade)",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 1
+              }
+            ]
+          },
+          {
+            "tier": "B",
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Equipment",
+                "item_id": 2400024,
+                "item_name": "Excellent Shoes Chest",
+                "item_type": "All",
+                "item_description": "Get 1 random Excellent Boots (excluding S Grade)",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 1
+              }
+            ]
+          },
+          {
+            "tier": "C",
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "display_in_bag": false,
+                "value": 300
+              }
+            ]
+          },
+          {
+            "tier": "D",
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "display_in_bag": false,
+                "value": 10000
+              }
+            ]
+          },
+          {
+            "tier": "D",
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "display_in_bag": false,
+                "value": 30000
+              }
+            ]
+          },
+          {
+            "tier": "D",
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "display_in_bag": false,
+                "value": 60000
+              }
+            ]
+          }
+        ],
+        "final_reward": [
+          {
+            "exchange_chance": 1,
+            "status": 0,
+            "item_list": [
+              {
+                "content": "Equipment",
+                "item_id": 2400046,
+                "item_name": "S equipment choice chest",
+                "item_type": "Choice",
+                "item_description": "S equipment choice chest",
+                "item_current_rarity": 4,
+                "item_super": true,
+                "display_in_bag": true,
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      "event_mission": [
+        {
+          "task_name": "Login for total of days",
+          "tab_name": 1,
+          "conditions": {
+            "condition_type": 3,
+            "current_value": 0,
+            "condition_mission": [
+              {
+                "task_name": 1,
+                "condition_value": 1,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 60
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "condition_value": 2,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 60
+                  }
+                ]
+              },
+              {
+                "task_name": 3,
+                "condition_value": 3,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 60
+                  }
+                ]
+              },
+              {
+                "task_name": 4,
+                "condition_value": 4,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 60
+                  }
+                ]
+              },
+              {
+                "task_name": 5,
+                "condition_value": 5,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 80
+                  }
+                ]
+              },
+              {
+                "task_name": 6,
+                "condition_value": 6,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 80
+                  }
+                ]
+              },
+              {
+                "task_name": 7,
+                "condition_value": 7,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 100
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "task_name": "Open chests",
+          "tab_name": 2,
+          "conditions": {
+            "condition_type": 8,
+            "current_value": 0,
+            "condition_mission": [
+              {
+                "task_name": 1,
+                "condition_value": 2,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "condition_value": 4,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 3,
+                "condition_value": 8,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 4,
+                "condition_value": 12,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 5,
+                "condition_value": 20,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 6,
+                "condition_value": 30,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 60
+                  }
+                ]
+              },
+              {
+                "task_name": 7,
+                "condition_value": 40,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 60
+                  }
+                ]
+              },
+              {
+                "task_name": 8,
+                "condition_value": 50,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 100
+                  }
+                ]
+              },
+              {
+                "task_name": 9,
+                "condition_value": 60,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 100
+                  }
+                ]
+              },
+              {
+                "task_name": 10,
+                "condition_value": 90,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 150
+                  }
+                ]
+              },
+              {
+                "task_name": 11,
+                "condition_value": 120,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 150
+                  }
+                ]
+              },
+              {
+                "task_name": 12,
+                "condition_value": 150,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 150
+                  }
+                ]
+              },
+              {
+                "task_name": 13,
+                "condition_value": 200,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 150
+                  }
+                ]
+              },
+              {
+                "task_name": 14,
+                "condition_value": 250,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 200
+                  }
+                ]
+              },
+              {
+                "task_name": 15,
+                "condition_value": 300,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 200
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "task_name": "Claim daily challenge chests",
+          "tab_name": 3,
+          "conditions": {
+            "condition_type": 44,
+            "condition_value": 0,
+            "condition_mission": [
+              {
+                "task_name": 1,
+                "condition_value": 2,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 50
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "condition_value": 4,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 50
+                  }
+                ]
+              },
+              {
+                "task_name": 3,
+                "condition_value": 6,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 50
+                  }
+                ]
+              },
+              {
+                "task_name": 4,
+                "condition_value": 8,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 50
+                  }
+                ]
+              },
+              {
+                "task_name": 5,
+                "condition_value": 10,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 80
+                  }
+                ]
+              },
+              {
+                "task_name": 6,
+                "condition_value": 12,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 80
+                  }
+                ]
+              },
+              {
+                "task_name": 7,
+                "condition_value": 16,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 100
+                  }
+                ]
+              },
+              {
+                "task_name": 8,
+                "condition_value": 20,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 100
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "task_name": "Quick Patrol times",
+          "tab_name": 4,
+          "conditions": {
+            "condition_type": 10,
+            "current_value": 0,
+            "condition_mission": [
+              {
+                "task_name": 1,
+                "condition_value": 2,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "condition_value": 4,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 3,
+                "condition_value": 6,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 4,
+                "condition_value": 8,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 5,
+                "condition_value": 10,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 6,
+                "condition_value": 12,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 60
+                  }
+                ]
+              },
+              {
+                "task_name": 7,
+                "condition_value": 14,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 60
+                  }
+                ]
+              },
+              {
+                "task_name": 8,
+                "condition_value": 16,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 100
+                  }
+                ]
+              },
+              {
+                "task_name": 9,
+                "condition_value": 18,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 100
+                  }
+                ]
+              },
+              {
+                "task_name": 10,
+                "condition_value": 20,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 150
+                  }
+                ]
+              },
+              {
+                "task_name": 11,
+                "condition_value": 24,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 150
+                  }
+                ]
+              },
+              {
+                "task_name": 12,
+                "condition_value": 28,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 150
+                  }
+                ]
+              },
+              {
+                "task_name": 13,
+                "condition_value": 32,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 150
+                  }
+                ]
+              },
+              {
+                "task_name": 14,
+                "condition_value": 36,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 200
+                  }
+                ]
+              },
+              {
+                "task_name": 15,
+                "condition_value": 40,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 200
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "task_name": "Play Main Chapter Stage times",
+          "tab_name": 5,
+          "conditions": {
+            "condition_type": 4,
+            "current_value": 0,
+            "condition_mission": [
+              {
+                "task_name": 1,
+                "condition_value": 2,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "condition_value": 4,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 3,
+                "condition_value": 6,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 4,
+                "condition_value": 8,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 5,
+                "condition_value": 10,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 6,
+                "condition_value": 15,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 60
+                  }
+                ]
+              },
+              {
+                "task_name": 7,
+                "condition_value": 20,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 60
+                  }
+                ]
+              },
+              {
+                "task_name": 8,
+                "condition_value": 30,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 100
+                  }
+                ]
+              },
+              {
+                "task_name": 9,
+                "condition_value": 40,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 100
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "task_name": "Defeat monters",
+          "tab_name": 6,
+          "conditions": {
+            "condition_type": 14,
+            "current_value": 0,
+            "condition_mission": [
+              {
+                "task_name": 1,
+                "condition_value": 20000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 2,
+                "condition_value": 40000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 3,
+                "condition_value": 60000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 4,
+                "condition_value": 80000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 5,
+                "condition_value": 100000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 30
+                  }
+                ]
+              },
+              {
+                "task_name": 6,
+                "condition_value": 150000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 60
+                  }
+                ]
+              },
+              {
+                "task_name": 7,
+                "condition_value": 200000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 60
+                  }
+                ]
+              },
+              {
+                "task_name": 8,
+                "condition_value": 250000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 100
+                  }
+                ]
+              },
+              {
+                "task_name": 9,
+                "condition_value": 300000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 100
+                  }
+                ]
+              },
+              {
+                "task_name": 10,
+                "condition_value": 350000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 150
+                  }
+                ]
+              },
+              {
+                "task_name": 11,
+                "condition_value": 400000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 150
+                  }
+                ]
+              },
+              {
+                "task_name": 12,
+                "condition_value": 450000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 150
+                  }
+                ]
+              },
+              {
+                "task_name": 13,
+                "condition_value": 500000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 150
+                  }
+                ]
+              },
+              {
+                "task_name": 14,
+                "condition_value": 550000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 200
+                  }
+                ]
+              },
+              {
+                "task_name": 15,
+                "condition_value": 600000,
+                "status": 0,
+                "item_list": [
+                  {
+                    "content": "EventTicket",
+                    "item_id": 30000051,
+                    "item_name": "Lottery Ticket",
+                    "item_type": "Event Token",
+                    "item_description": "Lottery Ticket",
+                    "item_current_rarity": 4,
+                    "value": 2
+                  },
+                  {
+                    "content": "EventToken",
+                    "item_id": 30000052,
+                    "item_name": "Golden Heart Token",
+                    "item_type": "Event Token",
+                    "item_description": "Golden Heart Token",
+                    "item_current_rarity": 4,
+                    "value": 200
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "event_exchange": [
+        {
+          "exchange_id": 300000510,
+          "exchange_chance": 1,
+          "max_exchange_chance": 1,
+          "token_cost": 1800,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 1110010,
+              "item_name": "Black Hole Cannon",
+              "item_type": "Weapon",
+              "item_description": "The end of everything.",
+              "item_mainstats": "+75 ATK",
+              "item_starting_rarity": 4,
+              "item_effect": ["ATK +15%", "All projectile size +15%", "Blackhole explodes before disappearing", "ATK +25%", "Energy veil explodes before disappearing"],
+              "item_current_rarity": 4,
+              "item_super": true,
+              "isDesign": false,
+              "isItem": true,
+              "isMaterial": false,
+              "isEquipped": false,
+              "base_stats": [
+                {
+                  "type": "Atk",
+                  "value": 75
+                }
+              ],
+              "effect_bonus": [
+                {
+                  "type": "Atk",
+                  "value": 15
+                }
+              ],
+              "level_up_price": [
+                {
+                  "type": "Gold",
+                  "value": 1000
+                },
+                {
+                  "type": "Design",
+                  "value": 1
+                }
+              ],
+              "level_down_reward": [],
+              "level_bonus": [],
+              "min_level": 1,
+              "max_level": 50,
+              "level": 1,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000511,
+          "exchange_chance": 1,
+          "max_exchange_chance": 1,
+          "token_cost": 1600,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2150005,
+              "item_name": "Immortal Boots",
+              "item_type": "Shoes",
+              "item_description": "Scorching earth beneath your feet",
+              "item_mainstats": "+225 HP",
+              "item_starting_rarity": 4,
+              "item_effect": ["Base Movement Speed +2", "HP +15%", "Leaves behind a trail of fire when moving", "HP +20%", "Increase fire trail damage. It also slows enemies"],
+              "item_current_rarity": 4,
+              "item_super": true,
+              "isDesign": false,
+              "isItem": true,
+              "isMaterial": false,
+              "isEquipped": false,
+              "base_stats": [
+                {
+                  "type": "Hp",
+                  "value": 225
+                }
+              ],
+              "effect_bonus": [
+                {
+                  "type": "Hp",
+                  "value": 15
+                }
+              ],
+              "level_up_price": [
+                {
+                  "type": "Gold",
+                  "value": 1000
+                },
+                {
+                  "type": "Design",
+                  "value": 1
+                }
+              ],
+              "level_down_reward": [],
+              "level_bonus": [],
+              "min_level": 1,
+              "max_level": 50,
+              "level": 1,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000512,
+          "exchange_chance": 8,
+          "max_exchange_chance": 8,
+          "token_cost": 150,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2400019,
+              "item_name": "Excellent Weapon Chest",
+              "item_type": "All",
+              "item_description": "Get 1 random Excellent Weapon (excluding S Grade)",
+              "item_current_rarity": 4,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000513,
+          "exchange_chance": 8,
+          "max_exchange_chance": 8,
+          "token_cost": 150,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2400020,
+              "item_name": "Excellent Armor Chest",
+              "item_type": "All",
+              "item_description": "Get 1 random Excellent Armor (excluding S Grade)",
+              "item_current_rarity": 4,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000514,
+          "exchange_chance": 6,
+          "max_exchange_chance": 6,
+          "token_cost": 100,
+          "item_list": [
+            {
+              "content": "Gadget",
+              "item_id": 2162000,
+              "item_name": "Excellent Attack Gadget choice chest",
+              "item_description": "Excellent Attack Gadget choice chest",
+              "item_type": "Choice",
+              "item_current_rarity": 4,
+              "item_super": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000515,
+          "exchange_chance": 6,
+          "max_exchange_chance": 6,
+          "token_cost": 100,
+          "item_list": [
+            {
+              "content": "Gadget",
+              "item_id": 2162001,
+              "item_name": "Excellent Defense Gadget choice chest",
+              "item_description": "Excellent Defense Gadget choice chest",
+              "item_type": "Choice",
+              "item_current_rarity": 4,
+              "item_super": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000516,
+          "exchange_chance": 20,
+          "max_exchange_chance": 20,
+          "token_cost": 50,
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000517,
+          "exchange_chance": 20,
+          "max_exchange_chance": 20,
+          "token_cost": 60,
+          "item_list": [
+            {
+              "content": "Gadget",
+              "item_id": 2161000,
+              "item_name": "Normal Random Gadget",
+              "item_type": "All",
+              "item_description": "Normal Random Gadget",
+              "item_current_rarity": 1,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000518,
+          "exchange_chance": 40,
+          "max_exchange_chance": 40,
+          "token_cost": 60,
+          "item_list": [
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens Executive Supply Crate",
+              "item_current_rarity": 4,
+              "value": 2
+            }
+          ]
+        },
+        {
+          "exchange_id": 300000519,
+          "exchange_chance": 100,
+          "max_exchange_chance": 100,
+          "token_cost": 10,
+          "item_list": [
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "value": 20000
+            }
+          ]
+        }
+      ],
+      "event_shop": [
+        {
+          "tab_name": "",
+          "tab_type": 1,
+          "event_pack_id": 300000520,
+          "iap_id": "",
+          "event_pack_price": {
+            "_id": "643d0dbdfafdf624af6fcd71",
+            "price_type": "Ads",
+            "value": 0
+          },
+          "event_pack_discount_value": -1,
+          "event_pack_purchase_chance": 1,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "value": 20
+            },
+            {
+              "content": "EventToken",
+              "item_id": 30000052,
+              "item_name": "Golden Heart Token",
+              "item_type": "Event Token",
+              "item_description": "Golden Heart Token",
+              "item_current_rarity": 4,
+              "value": 10
+            },
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Officer Crate",
+              "item_current_rarity": 3,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "tab_name": "",
+          "tab_type": 1,
+          "event_pack_id": 300000521,
+          "iap_id": "com.nmg.survivalhero.event.autumn.extra.1.300000521",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 1.99
+          },
+          "event_pack_discount_value": 500,
+          "event_pack_purchase_chance": 1,
+          "item_list": [
+            {
+              "content": "EventToken",
+              "item_id": 30000052,
+              "item_name": "Golden Heart Token",
+              "item_type": "Event Token",
+              "item_description": "Golden Heart Token",
+              "item_current_rarity": 4,
+              "value": 30
+            },
+            {
+              "content": "Key",
+              "item_id": 2400008,
+              "item_name": "S key",
+              "item_type": "Key",
+              "item_description": "Opens S Supply Crate",
+              "item_current_rarity": 7,
+              "value": 1
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens Executive Supply Crate",
+              "item_current_rarity": 4,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "tab_name": "",
+          "tab_type": 1,
+          "event_pack_id": 300000522,
+          "iap_id": "com.nmg.survivalhero.event.autumn.extra.2.300000522",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 4.99
+          },
+          "event_pack_discount_value": 500,
+          "event_pack_purchase_chance": 1,
+          "item_list": [
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 100
+            },
+            {
+              "content": "Key",
+              "item_id": 2400008,
+              "item_name": "S key",
+              "item_type": "Key",
+              "item_description": "Opens S Supply Crate",
+              "item_current_rarity": 7,
+              "value": 3
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens Executive Supply Crate",
+              "item_current_rarity": 4,
+              "value": 3
+            }
+          ]
+        },
+        {
+          "tab_name": "",
+          "tab_type": 1,
+          "event_pack_id": 300000523,
+          "iap_id": "com.nmg.survivalhero.event.autumn.extra.3.300000523",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 9.99
+          },
+          "event_pack_discount_value": 500,
+          "event_pack_purchase_chance": 1,
+          "item_list": [
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 250
+            },
+            {
+              "content": "Key",
+              "item_id": 2400008,
+              "item_name": "S key",
+              "item_type": "Key",
+              "item_description": "Opens S Supply Crate",
+              "item_current_rarity": 7,
+              "value": 8
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2400025,
+              "item_name": "Excellent Equipment Chest",
+              "item_type": "All",
+              "item_description": "Get 1 random Excellent Equipment (excluding S grade)",
+              "item_current_rarity": 4,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "tab_name": "",
+          "tab_type": 1,
+          "event_pack_id": 300000524,
+          "iap_id": "com.nmg.survivalhero.event.autumn.extra.4.300000524",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 19.99
+          },
+          "event_pack_discount_value": 600,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 500
+            },
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "value": 2000
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "value": 20000
+            }
+          ]
+        },
+        {
+          "tab_name": "",
+          "tab_type": 1,
+          "event_pack_id": 300000525,
+          "iap_id": "com.nmg.survivalhero.event.autumn.extra.5.300000525",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 29.99
+          },
+          "event_pack_discount_value": 500,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "value": 3000
+            },
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 750
+            },
+            {
+              "content": "Gadget",
+              "item_id": 2162000,
+              "item_name": "Excellent Attack Gadget choice chest",
+              "item_description": "Excellent Attack Gadget choice chest",
+              "item_type": "Choice",
+              "item_current_rarity": 4,
+              "item_super": false,
+              "display_in_bag": true,
+              "value": 8
+            },
+            {
+              "content": "Gadget",
+              "item_id": 2162001,
+              "item_name": "Excellent Defense Gadget choice chest",
+              "item_description": "Excellent Defense Gadget choice chest",
+              "item_type": "Choice",
+              "item_current_rarity": 4,
+              "item_super": false,
+              "display_in_bag": true,
+              "value": 8
+            }
+          ]
+        },
+        {
+          "tab_name": "",
+          "tab_type": 1,
+          "event_pack_id": 300000526,
+          "iap_id": "com.nmg.survivalhero.event.autumn.extra.6.300000526",
+          "event_pack_price": {
+            "_id": "643caeb88ed2f3482faaef48",
+            "price_type": "IAP",
+            "value": 49.99
+          },
+          "event_pack_discount_value": 500,
+          "event_pack_purchase_chance": 2,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "value": 6000
+            },
+            {
+              "content": "EventToken",
+              "item_id": 30000031,
+              "item_name": "Autumn Event Token",
+              "item_type": "Event Token",
+              "item_description": "Autumn Event Token",
+              "item_current_rarity": 4,
+              "value": 1250
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2400045,
+              "item_name": "S equipment choice chest",
+              "item_type": "Choice",
+              "item_description": "S equipment choice chest",
+              "item_current_rarity": 4,
+              "item_super": true,
+              "display_in_bag": true,
+              "value": 1
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "value": 200
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

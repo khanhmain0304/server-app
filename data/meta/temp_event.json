@@ -1,0 +1,135 @@
+{
+  "event_id": 3000002,
+  "event_type": "ServerOpen",
+  "event_title": "ServerOpen",
+  "event_description": "ServerOpen dfsdfsdf!",
+  "event_start_condition": 0,
+  "event_start_condition_value": 0,
+  "event_expiry_value": 0,
+  "event_special_condition": [
+    {
+      "condition_type" : 1,
+      "condition_value": 10
+    }
+  ],
+  "task_point": 0,
+  "milestone": [
+    {
+      "_id": "",
+      "task_name": "100",
+      "conditions": [
+        {
+          "condition_type": 1,
+          "condition_value": 10
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "Gold",
+          "item_id": 0,
+          "item_name": "",
+          "item_type": "",
+          "item_current_rarity": 0,
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "_id": "",
+      "task_name": "200",
+      "conditions": [
+        {
+          "condition_type": 1,
+          "condition_value": 10
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "Gold",
+          "item_id": 0,
+          "item_name": "",
+          "item_type": "",
+          "item_current_rarity": 0,
+          "value": 1500
+        }
+      ]
+    }
+  ],
+  "tabs": [
+    {
+      "_id": "",
+      "tab_name": "RookieLoginGifts",
+      "conditions": [
+        {
+          "condition_type" : 1,
+          "condition_value": 10
+        }
+      ],
+      "status": 0,
+      "tasks": [
+        {
+          "_id": "",
+          "task_name": "Login for 1d",
+          "conditions": [
+            {
+              "condition_type" : 1,
+              "condition_value": 10
+            }
+          ],
+          "status": 0,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 1110000,
+              "item_name": "Revolver",
+              "item_type": "Weapon",
+              "item_current_rarity": 3,
+              "value": 10
+            },
+            {
+              "content": "Key",
+              "item_id": 0,
+              "item_name": "",
+              "item_type": "",
+              "item_current_rarity": 0,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "_id": "",
+          "task_name": "Play Main Chapter stages -condition- time(s)",
+          "conditions": [
+            {
+              "condition_type" : 1,
+              "condition_value": 10
+            }
+          ],
+          "status": 0,
+          "item_list": [
+            {
+              "content": "Gold",
+              "item_id": 0,
+              "item_name": "",
+              "item_type": "",
+              "item_current_rarity": 0,
+              "value": 0
+            },
+            {
+              "content": "Design",
+              "item_id": 2220000,
+              "item_name": "Revolver",
+              "item_type": "Weapon",
+              "item_current_rarity": 3,
+              "value": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

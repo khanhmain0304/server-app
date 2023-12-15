@@ -1,0 +1,15 @@
+{
+    "max_energy_amount": 30,
+    "energy_restore_rate": 1200,
+    "subcription_max_energy_amount": 50,
+    "subcription_energy_restore_rate": 1200,
+    "energy_received_ads": 5,
+    "energy_received_gem": 15,
+    "energy_received_accountlevelup": 5,
+    "energy_cost_stage": 5,
+    "energy_cost_challenge": 10,
+    "energy_cost_quickpatrol": 15,
+    "energy_gem_limit": 3,
+    "energy_ads_limit": 3,
+    "buy_energy_cost_gem": 100
+  }

@@ -1,0 +1,40 @@
+{
+  "cameras":
+  [
+    {
+        "stage_type": "open",
+        "zoom_times": 0,
+        "camera_size": 15.7
+    },
+    {
+        "stage_type": "open",
+        "zoom_times": 1,
+        "camera_size": 17.6
+    },
+    {
+        "stage_type": "open",
+        "zoom_times": 2,
+        "camera_size": 19.5
+    },
+    {
+        "stage_type": "open",
+        "zoom_times": 3,
+        "camera_size": 21
+    },
+    {
+        "stage_type": "vertical",
+        "zoom_times": 0,
+        "camera_size": 15.7
+    },
+    {
+        "stage_type": "vertical",
+        "zoom_times": 1,
+        "camera_size": 19.5
+    },
+    {
+        "stage_type": "square",
+        "zoom_times": 1,
+        "camera_size": 19.5
+    }
+  ]
+}

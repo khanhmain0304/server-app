@@ -1,0 +1,997 @@
+{
+  "event_id": 3100005,
+  "event_type": "MainQuest",
+  "event_title": "MainQuest",
+  "event_description": "MainQuest Event!",
+  "event_start_condition": 0,
+  "event_start_condition_value": 0,
+  "event_expiry_value": -1,
+  "event_end_date": 0,
+  "event_special_condition": [
+    {
+      "condition_type": 0,
+      "condition_value": 0
+    }
+  ],
+  "milestone": [],
+  "tabs": [
+    {
+      "tab_name": "MainQuest",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 0,
+          "condition_value": 0
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Complete 1 Battle",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 0,
+              "condition_value": 0,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 25
+            }
+          ]
+        },
+        {
+          "task_name": "Play chapter 1 one time",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 62,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2150004,
+              "item_name": "Radiator Shoes",
+              "item_type": "Shoes",
+              "item_description": "Stop stepping on those subtances with your bare feet!",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Equip 2 equipment",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 31,
+              "condition_value": 2,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Use 6 different active skill in a same battle",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 79,
+              "condition_value": 6,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Officer Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Open total 3 Chest(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 8,
+              "condition_value": 3,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400014,
+              "item_name": "Shoes Design",
+              "item_type": "Shoes",
+              "item_description": "Used to level up shoes",
+              "item_current_rarity": 1,
+              "display_in_bag": true,
+              "value": 5
+            }
+          ]
+        },
+        {
+          "task_name": "Upgrade any Equipment 1 time",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 63,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 25
+            }
+          ]
+        },
+        {
+          "task_name": "Get 5-star Revolver skill in Battle",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 64,
+              "condition_value": 1110000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 5000
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Chapter 1",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 1,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 1110004,
+              "item_name": "Katana",
+              "item_type": "Weapon",
+              "item_description": "A thousand cut.",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 9 Evolution(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 27,
+              "condition_value": 9,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Use Machete weapon in chapter 2",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 50,
+              "condition_value": 1110004,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Officer Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Purchase 1 item(s) from Daily Shop",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 16,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400012,
+              "item_name": "Belt Design",
+              "item_type": "Belt",
+              "item_description": "Used to level up belts",
+              "item_current_rarity": 1,
+              "display_in_bag": true,
+              "value": 5
+            }
+          ]
+        },
+        {
+          "task_name": "Upgrade any Equipment to level 5",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 65,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 25
+            }
+          ]
+        },
+        {
+          "task_name": "Defeat 2 mini-Bosses in Battle",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 66,
+              "condition_value": 2,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 25
+            }
+          ]
+        },
+        {
+          "task_name": "Evo Skill Acid in Battle 1 time(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 53,
+              "condition_value": 1120019,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Key",
+              "item_id": 2400008,
+              "item_name": "S key",
+              "item_type": "Key",
+              "item_description": "Opens S Supply Crate",
+              "item_current_rarity": 7,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Open S Grade Crate 1 times",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 68,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Merge any equipment 1 time(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 13,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 25
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Chapter 2",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 1,
+              "condition_value": 2,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Quick Patrol 1 time(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 10,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Claim reward in Dailies Task 1 time",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 69,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 1110004,
+              "item_name": "Katana",
+              "item_type": "Weapon",
+              "item_description": "A thousand cut.",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Trial Chapter 1-1",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 48,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Use DNA to unlock 1 Key Evolution",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 39,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 10000
+            }
+          ]
+        },
+        {
+          "task_name": "Open total 8 chest",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 8,
+              "condition_value": 8,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Use Power Up Bomb 2 times in 1 battle",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 70,
+              "condition_value": 2,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400010,
+              "item_name": "Armor Design",
+              "item_type": "Armor",
+              "item_description": "Used to level up armors",
+              "item_current_rarity": 1,
+              "display_in_bag": true,
+              "value": 5
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Chapter 3",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 1,
+              "condition_value": 3,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Defeat 1 mini-Bosses with Machete in Chapter 4",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 80,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 1110004,
+              "item_name": "Katana",
+              "item_type": "Weapon",
+              "item_description": "A thousand cut.",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Merge 3 Good weapon 1 time",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 57,
+              "condition_value": 3,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400010,
+              "item_name": "Armor Design",
+              "item_type": "Armor",
+              "item_description": "Used to level up armors",
+              "item_current_rarity": 1,
+              "display_in_bag": true,
+              "value": 5
+            }
+          ]
+        },
+        {
+          "task_name": "Evo 5 Skill(s) at the same time in Battle",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 52,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Equip 1 Lv.10 Equipment pieces",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 21,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 10000
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Chapter 4",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 1,
+              "condition_value": 4,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Kill 20.000 enemies using Revolver",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 72,
+              "condition_value": 20000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens Executive Supply Crate",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Use 1 Excellent Equipment pieces in Chapter 5",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 74,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 15000
+            }
+          ]
+        },
+        {
+          "task_name": "Play Daily Event 1 time(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 5,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Officer Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 2
+            }
+          ]
+        },
+        {
+          "task_name": "Open total 15 chest",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 8,
+              "condition_value": 15,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Material",
+              "item_id": 2400028,
+              "item_name": "Excellent Armor Material",
+              "item_type": "Armor",
+              "item_description": "Used to merge Armor",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Chapter 5",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 1,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Play Chapter 6 one time",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 62,
+              "condition_value": 6,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Join Daily Challenge 2 time(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 26,
+              "condition_value": 2,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gadget",
+              "item_id": 2160008,
+              "item_name": "Reversal Engine",
+              "item_type": "2",
+              "item_description": "Reversal Engine",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 3
+            }
+          ]
+        },
+        {
+          "task_name": "Merge Gadget 1 time(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 75,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Officer Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 2
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Chapter 6",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 1,
+              "condition_value": 6,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Spend totals 4000 gems to open chest",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 76,
+              "condition_value": 4000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Key",
+              "item_id": 2400008,
+              "item_name": "S key",
+              "item_type": "Key",
+              "item_description": "Opens S Supply Crate",
+              "item_current_rarity": 7,
+              "display_in_bag": true,
+              "value": 3
+            }
+          ]
+        },
+        {
+          "task_name": "Use 1 S Equipment in Battle",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 77,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gadget",
+              "item_id": 2160008,
+              "item_name": "Reversal Engine",
+              "item_type": "2",
+              "item_description": "Reversal Engine",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Earn 1 Better Gadget",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 55,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "display_in_bag": true,
+              "value": 3
+            }
+          ]
+        },
+        {
+          "task_name": "Earn 1 Excellent +1 Weapon",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 78,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Key",
+              "item_id": 2400008,
+              "item_name": "S key",
+              "item_type": "Key",
+              "item_description": "Opens S Supply Crate",
+              "item_current_rarity": 7,
+              "display_in_bag": true,
+              "value": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

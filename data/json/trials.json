@@ -1,0 +1,1822 @@
+{
+  "trials": [
+    {
+      "stage_id": 1000000,
+      "chapter_name": "Dead City",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000001,
+      "chapter_name": "Zombie Park",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000002,
+      "chapter_name": "Basement Combat",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000003,
+      "chapter_name": "Commercial Center",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000004,
+      "chapter_name": "Last Defender",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000005,
+      "chapter_name": "Countryside",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000006,
+      "chapter_name": "Old Town",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000007,
+      "chapter_name": "Rice Field",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000008,
+      "chapter_name": "Farm",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000009,
+      "chapter_name": "Old Town Road",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000010,
+      "chapter_name": "Area 51",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000011,
+      "chapter_name": "Outer Laboratory",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000012,
+      "chapter_name": "Inner Laboratory",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000013,
+      "chapter_name": "Secret Area",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000014,
+      "chapter_name": "Hidden Lab",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000015,
+      "chapter_name": "Desert",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000016,
+      "chapter_name": "Wasteland",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 1000017,
+      "chapter_name": "Death Valley",
+      "stages_data": [
+        {
+          "status": 0,
+          "difficulty_level": 1,
+          "difficult_type": [
+            {
+              "id": 2500001
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 2,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "status": 0,
+          "difficulty_level": 3,
+          "difficult_type": [
+            {
+              "id": 2500001
+            },
+            {
+              "id": 2500002
+            },
+            {
+              "id": 2500003
+            },
+            {
+              "id": 2500004
+            },
+            {
+              "id": 2500005
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            },
+            {
+              "content": "Dna",
+              "item_id": 2400004,
+              "item_name": "DNA Token",
+              "item_type": "Dna",
+              "item_description": "Upgrades Key Evolution",
+              "item_current_rarity": 7,
+              "is_supper": false,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

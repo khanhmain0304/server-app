@@ -1,0 +1,1 @@
+kubectl rollout history deployment.apps/sio-deployment

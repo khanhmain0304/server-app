@@ -1,0 +1,1811 @@
+{
+  "supply_crate": [
+    {
+      "type": "Normal",
+      "item_list": [
+        {
+          "item_id": 1110000,
+          "item_name": "Revolver",
+          "item_type": "Weapon",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 1110001,
+          "item_name": "Shotgun",
+          "item_type": "Weapon",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 1110002,
+          "item_name": "Whip",
+          "item_type": "Weapon",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2110000,
+          "item_name": "Radiator Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2110001,
+          "item_name": "Soldier Tag",
+          "item_type": "Necklace",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2120000,
+          "item_name": "Soldier Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2120001,
+          "item_name": "Edgy Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2130000,
+          "item_name": "Mechanist Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2130001,
+          "item_name": "Edgy Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2140000,
+          "item_name": "Mechanist Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2140001,
+          "item_name": "Rockstar Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2150000,
+          "item_name": "Primal Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2150001,
+          "item_name": "Mechanist Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 1110004,
+          "item_name": "Machette",
+          "item_type": "Weapon",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 1110009,
+          "item_name": "Crossbow",
+          "item_type": "Weapon",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2110002,
+          "item_name": "Rockstar Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2110003,
+          "item_name": "Primal Pendant",
+          "item_type": "Necklace",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2110004,
+          "item_name": "Mechanist Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2120002,
+          "item_name": "Mechanist Wristguard",
+          "item_type": "Gloves",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2120003,
+          "item_name": "Primal Claws",
+          "item_type": "Gloves",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2120004,
+          "item_name": "Radiator Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2130003,
+          "item_name": "Soldier Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2130004,
+          "item_name": "Primal Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2130005,
+          "item_name": "Radiator Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2140002,
+          "item_name": "Soldier Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2140003,
+          "item_name": "Radiator Waistguard",
+          "item_type": "Belt",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2140004,
+          "item_name": "Primal Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2150002,
+          "item_name": "Soldier Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2150003,
+          "item_name": "Edgy Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 2150004,
+          "item_name": "Radiator Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 1,
+          "item_super": false
+        },
+        {
+          "item_id": 1110000,
+          "item_name": "Revolver",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 1110001,
+          "item_name": "Shotgun",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 1110002,
+          "item_name": "Whip",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110000,
+          "item_name": "Radiator Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110001,
+          "item_name": "Soldier Tag",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120000,
+          "item_name": "Soldier Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120001,
+          "item_name": "Edgy Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130000,
+          "item_name": "Mechanist Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130001,
+          "item_name": "Edgy Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140000,
+          "item_name": "Mechanist Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140001,
+          "item_name": "Rockstar Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150000,
+          "item_name": "Primal Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150001,
+          "item_name": "Mechanist Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 1110004,
+          "item_name": "Machette",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 1110009,
+          "item_name": "Crossbow",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110002,
+          "item_name": "Rockstar Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110003,
+          "item_name": "Primal Pendant",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110004,
+          "item_name": "Mechanist Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120002,
+          "item_name": "Mechanist Wristguard",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120003,
+          "item_name": "Primal Claws",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120004,
+          "item_name": "Radiator Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130003,
+          "item_name": "Soldier Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130004,
+          "item_name": "Primal Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130005,
+          "item_name": "Radiator Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140002,
+          "item_name": "Soldier Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140003,
+          "item_name": "Radiator Waistguard",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140004,
+          "item_name": "Primal Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150002,
+          "item_name": "Soldier Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150003,
+          "item_name": "Edgy Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150004,
+          "item_name": "Radiator Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        }
+      ],
+      "item_list_weight": [
+        233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 100, 100, 100, 100,
+        100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100
+      ]
+    },
+    {
+      "type": "Excellent/Elite",
+      "item_list": [
+        {
+          "item_id": 1110000,
+          "item_name": "Revolver",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 1110001,
+          "item_name": "Shotgun",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 1110002,
+          "item_name": "Whip",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110000,
+          "item_name": "Radiator Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110001,
+          "item_name": "Soldier Tag",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120000,
+          "item_name": "Soldier Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120001,
+          "item_name": "Edgy Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130000,
+          "item_name": "Mechanist Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130001,
+          "item_name": "Edgy Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140000,
+          "item_name": "Mechanist Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140001,
+          "item_name": "Rockstar Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150000,
+          "item_name": "Primal Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150001,
+          "item_name": "Mechanist Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 1110004,
+          "item_name": "Machette",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 1110009,
+          "item_name": "Crossbow",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110002,
+          "item_name": "Rockstar Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110003,
+          "item_name": "Primal Pendant",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110004,
+          "item_name": "Mechanist Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120002,
+          "item_name": "Mechanist Wristguard",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120003,
+          "item_name": "Primal Claws",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120004,
+          "item_name": "Radiator Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130003,
+          "item_name": "Soldier Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130004,
+          "item_name": "Primal Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130005,
+          "item_name": "Radiator Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140002,
+          "item_name": "Soldier Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140003,
+          "item_name": "Radiator Waistguard",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140004,
+          "item_name": "Primal Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150002,
+          "item_name": "Soldier Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150003,
+          "item_name": "Edgy Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150004,
+          "item_name": "Radiator Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 1110000,
+          "item_name": "Revolver",
+          "item_type": "Weapon",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 1110001,
+          "item_name": "Shotgun",
+          "item_type": "Weapon",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 1110002,
+          "item_name": "Whip",
+          "item_type": "Weapon",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2110000,
+          "item_name": "Radiator Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2110001,
+          "item_name": "Soldier Tag",
+          "item_type": "Necklace",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2120000,
+          "item_name": "Soldier Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2120001,
+          "item_name": "Edgy Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2130000,
+          "item_name": "Mechanist Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2130001,
+          "item_name": "Edgy Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2140000,
+          "item_name": "Mechanist Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2140001,
+          "item_name": "Rockstar Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2150000,
+          "item_name": "Primal Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2150001,
+          "item_name": "Mechanist Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 1110004,
+          "item_name": "Machette",
+          "item_type": "Weapon",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 1110009,
+          "item_name": "Crossbow",
+          "item_type": "Weapon",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2110002,
+          "item_name": "Rockstar Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2110003,
+          "item_name": "Primal Pendant",
+          "item_type": "Necklace",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2110004,
+          "item_name": "Mechanist Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2120002,
+          "item_name": "Mechanist Wristguard",
+          "item_type": "Gloves",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2120003,
+          "item_name": "Primal Claws",
+          "item_type": "Gloves",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2120004,
+          "item_name": "Radiator Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2130003,
+          "item_name": "Soldier Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2130004,
+          "item_name": "Primal Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2130005,
+          "item_name": "Radiator Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2140002,
+          "item_name": "Soldier Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2140003,
+          "item_name": "Radiator Waistguard",
+          "item_type": "Belt",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2140004,
+          "item_name": "Primal Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2150002,
+          "item_name": "Soldier Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2150003,
+          "item_name": "Edgy Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2150004,
+          "item_name": "Radiator Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 1110000,
+          "item_name": "Revolver",
+          "item_type": "Weapon",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 1110001,
+          "item_name": "Shotgun",
+          "item_type": "Weapon",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 1110002,
+          "item_name": "Whip",
+          "item_type": "Weapon",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 1110003,
+          "item_name": "Lightsaber",
+          "item_type": "Weapon",
+          "item_current_rarity": 4,
+          "item_super": true
+        },
+        {
+          "item_id": 2110000,
+          "item_name": "Radiator Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2110001,
+          "item_name": "Soldier Tag",
+          "item_type": "Necklace",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2120000,
+          "item_name": "Soldier Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2120001,
+          "item_name": "Edgy Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2130000,
+          "item_name": "Mechanist Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2130001,
+          "item_name": "Edgy Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2130002,
+          "item_name": "Immortal Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 4,
+          "item_super": true
+        },
+        {
+          "item_id": 2140000,
+          "item_name": "Mechanist Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2140001,
+          "item_name": "Rockstar Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2150000,
+          "item_name": "Primal Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2150001,
+          "item_name": "Mechanist Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 1110004,
+          "item_name": "Machette",
+          "item_type": "Weapon",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 1110009,
+          "item_name": "Crossbow",
+          "item_type": "Weapon",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2110002,
+          "item_name": "Rockstar Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2110003,
+          "item_name": "Primal Pendant",
+          "item_type": "Necklace",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2110004,
+          "item_name": "Mechanist Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2120002,
+          "item_name": "Mechanist Wristguard",
+          "item_type": "Gloves",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2120003,
+          "item_name": "Primal Claws",
+          "item_type": "Gloves",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2120004,
+          "item_name": "Radiator Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2130003,
+          "item_name": "Soldier Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2130004,
+          "item_name": "Primal Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2130005,
+          "item_name": "Radiator Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2140002,
+          "item_name": "Soldier Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2140003,
+          "item_name": "Radiator Waistguard",
+          "item_type": "Belt",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2140004,
+          "item_name": "Primal Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2150002,
+          "item_name": "Soldier Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2150003,
+          "item_name": "Edgy Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2150004,
+          "item_name": "Radiator Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 1110010,
+          "item_name": "Black Hole Cannon",
+          "item_type": "Weapon",
+          "item_current_rarity": 4,
+          "item_super": true
+        },
+        {
+          "item_id": 2110005,
+          "item_name": "Immortal Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 4,
+          "item_super": true
+        },
+        {
+          "item_id": 2120005,
+          "item_name": "Immortal Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 4,
+          "item_super": true
+        },
+        {
+          "item_id": 2140005,
+          "item_name": "Immortal Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 4,
+          "item_super": true
+        },
+        {
+          "item_id": 2150005,
+          "item_name": "Immortal Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 4,
+          "item_super": true
+        }
+      ],
+      "item_list_weight": [
+        217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 217, 100, 100, 100, 100,
+        100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 15, 15, 15, 4, 15, 15, 15, 15, 15, 15, 4,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 4, 4, 4, 4, 4
+      ]
+    },
+    {
+      "type": "S",
+      "item_list": [
+        {
+          "item_id": 1110000,
+          "item_name": "Revolver",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 1110001,
+          "item_name": "Shotgun",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 1110002,
+          "item_name": "Whip",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110000,
+          "item_name": "Radiator Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110001,
+          "item_name": "Soldier Tag",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120000,
+          "item_name": "Soldier Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120001,
+          "item_name": "Edgy Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130000,
+          "item_name": "Mechanist Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130001,
+          "item_name": "Edgy Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140000,
+          "item_name": "Mechanist Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140001,
+          "item_name": "Rockstar Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150000,
+          "item_name": "Primal Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150001,
+          "item_name": "Mechanist Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 1110004,
+          "item_name": "Machette",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 1110009,
+          "item_name": "Crossbow",
+          "item_type": "Weapon",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110002,
+          "item_name": "Rockstar Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110003,
+          "item_name": "Primal Pendant",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2110004,
+          "item_name": "Mechanist Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120002,
+          "item_name": "Mechanist Wristguard",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120003,
+          "item_name": "Primal Claws",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2120004,
+          "item_name": "Radiator Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130003,
+          "item_name": "Soldier Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130004,
+          "item_name": "Primal Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2130005,
+          "item_name": "Radiator Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140002,
+          "item_name": "Soldier Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140003,
+          "item_name": "Radiator Waistguard",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2140004,
+          "item_name": "Primal Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150002,
+          "item_name": "Soldier Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150003,
+          "item_name": "Edgy Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 2150004,
+          "item_name": "Radiator Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 2,
+          "item_super": false
+        },
+        {
+          "item_id": 1110000,
+          "item_name": "Revolver",
+          "item_type": "Weapon",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 1110001,
+          "item_name": "Shotgun",
+          "item_type": "Weapon",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 1110002,
+          "item_name": "Whip",
+          "item_type": "Weapon",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2110000,
+          "item_name": "Radiator Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2110001,
+          "item_name": "Soldier Tag",
+          "item_type": "Necklace",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2120000,
+          "item_name": "Soldier Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2120001,
+          "item_name": "Edgy Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2130000,
+          "item_name": "Mechanist Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2130001,
+          "item_name": "Edgy Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2140000,
+          "item_name": "Mechanist Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2140001,
+          "item_name": "Rockstar Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2150000,
+          "item_name": "Primal Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2150001,
+          "item_name": "Mechanist Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 1110004,
+          "item_name": "Machette",
+          "item_type": "Weapon",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 1110009,
+          "item_name": "Crossbow",
+          "item_type": "Weapon",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2110002,
+          "item_name": "Rockstar Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2110003,
+          "item_name": "Primal Pendant",
+          "item_type": "Necklace",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2110004,
+          "item_name": "Mechanist Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2120002,
+          "item_name": "Mechanist Wristguard",
+          "item_type": "Gloves",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2120003,
+          "item_name": "Primal Claws",
+          "item_type": "Gloves",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2120004,
+          "item_name": "Radiator Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2130003,
+          "item_name": "Soldier Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2130004,
+          "item_name": "Primal Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2130005,
+          "item_name": "Radiator Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2140002,
+          "item_name": "Soldier Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2140003,
+          "item_name": "Radiator Waistguard",
+          "item_type": "Belt",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2140004,
+          "item_name": "Primal Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2150002,
+          "item_name": "Soldier Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2150003,
+          "item_name": "Edgy Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 2150004,
+          "item_name": "Radiator Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 3,
+          "item_super": false
+        },
+        {
+          "item_id": 1110000,
+          "item_name": "Revolver",
+          "item_type": "Weapon",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 1110001,
+          "item_name": "Shotgun",
+          "item_type": "Weapon",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 1110002,
+          "item_name": "Whip",
+          "item_type": "Weapon",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 1110003,
+          "item_name": "Lightsaber",
+          "item_type": "Weapon",
+          "item_current_rarity": 4,
+          "item_super": true
+        },
+        {
+          "item_id": 2110000,
+          "item_name": "Radiator Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2110001,
+          "item_name": "Soldier Tag",
+          "item_type": "Necklace",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2120000,
+          "item_name": "Soldier Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2120001,
+          "item_name": "Edgy Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2130000,
+          "item_name": "Mechanist Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2130001,
+          "item_name": "Edgy Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2130002,
+          "item_name": "Immortal Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 4,
+          "item_super": true
+        },
+        {
+          "item_id": 2140000,
+          "item_name": "Mechanist Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2140001,
+          "item_name": "Rockstar Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2150000,
+          "item_name": "Primal Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2150001,
+          "item_name": "Mechanist Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 1110004,
+          "item_name": "Machette",
+          "item_type": "Weapon",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 1110009,
+          "item_name": "Crossbow",
+          "item_type": "Weapon",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2110002,
+          "item_name": "Rockstar Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2110003,
+          "item_name": "Primal Pendant",
+          "item_type": "Necklace",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2110004,
+          "item_name": "Mechanist Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2120002,
+          "item_name": "Mechanist Wristguard",
+          "item_type": "Gloves",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2120003,
+          "item_name": "Primal Claws",
+          "item_type": "Gloves",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2120004,
+          "item_name": "Radiator Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2130003,
+          "item_name": "Soldier Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2130004,
+          "item_name": "Primal Armor",
+          "item_type": "Armor",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2130005,
+          "item_name": "Radiator Suit",
+          "item_type": "Armor",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2140002,
+          "item_name": "Soldier Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2140003,
+          "item_name": "Radiator Waistguard",
+          "item_type": "Belt",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2140004,
+          "item_name": "Primal Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2150002,
+          "item_name": "Soldier Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2150003,
+          "item_name": "Edgy Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 2150004,
+          "item_name": "Radiator Shoes",
+          "item_type": "Shoes",
+          "item_current_rarity": 4,
+          "item_super": false
+        },
+        {
+          "item_id": 1110010,
+          "item_name": "Black Hole Cannon",
+          "item_type": "Weapon",
+          "item_current_rarity": 4,
+          "item_super": true
+        },
+        {
+          "item_id": 2110005,
+          "item_name": "Immortal Necklace",
+          "item_type": "Necklace",
+          "item_current_rarity": 4,
+          "item_super": true
+        },
+        {
+          "item_id": 2120005,
+          "item_name": "Immortal Gloves",
+          "item_type": "Gloves",
+          "item_current_rarity": 4,
+          "item_super": true
+        },
+        {
+          "item_id": 2140005,
+          "item_name": "Immortal Belt",
+          "item_type": "Belt",
+          "item_current_rarity": 4,
+          "item_super": true
+        },
+        {
+          "item_id": 2150005,
+          "item_name": "Immortal Boots",
+          "item_type": "Shoes",
+          "item_current_rarity": 4,
+          "item_super": true
+        }
+      ],
+      "item_list_weight": [
+        211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 211, 100, 100, 100, 100,
+        100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 15, 15, 15, 18, 15, 15, 15, 15, 15, 15,
+        18, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 18, 18, 18, 18, 18
+      ]
+    }
+  ]
+}

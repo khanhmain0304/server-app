@@ -1,0 +1,49 @@
+{
+  "first_time_iap": {
+    "offer_id": 3000101,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": -1,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 360,
+    "items": [
+      {
+        "pack_id": 3000102,
+        "item_list": [
+          {
+            "content": "Equipment",
+            "item_id": 2110000,
+            "item_name": "Radiator Necklace",
+            "item_type": "Necklace",
+            "item_description": "Contains radioactive materials.",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 50
+          },
+          {
+            "content": "Gold",
+            "item_id": 2400003,
+            "item_name": "Gold",
+            "item_type": "Gold",
+            "item_description": "Gold",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 10000
+          }
+        ]
+      }
+    ]
+  }
+}

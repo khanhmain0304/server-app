@@ -1,0 +1,395 @@
+[
+  { "account_level": 1, "exp_required": 0, "reward": [] },
+  {
+    "account_level": 2,
+    "exp_required": 500,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 3,
+    "exp_required": 1750,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 4,
+    "exp_required": 2250,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 5,
+    "exp_required": 2850,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 6,
+    "exp_required": 10000,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 7,
+    "exp_required": 12500,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 8,
+    "exp_required": 15000,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 9,
+    "exp_required": 16050.000000000002,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 10,
+    "exp_required": 17173,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 11,
+    "exp_required": 18375,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 12,
+    "exp_required": 19661,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 13,
+    "exp_required": 21038,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 14,
+    "exp_required": 22510,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 15,
+    "exp_required": 24086,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 16,
+    "exp_required": 25772,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 17,
+    "exp_required": 27576,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 18,
+    "exp_required": 29507,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 19,
+    "exp_required": 31572,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 20,
+    "exp_required": 33782,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 21,
+    "exp_required": 36147,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 22,
+    "exp_required": 38678,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 23,
+    "exp_required": 41385,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 24,
+    "exp_required": 44282,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 25,
+    "exp_required": 47382,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 26,
+    "exp_required": 50699,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 27,
+    "exp_required": 54248,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 28,
+    "exp_required": 58045,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 29,
+    "exp_required": 62108,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 30,
+    "exp_required": 66456,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 31,
+    "exp_required": 71108,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 32,
+    "exp_required": 76086,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 33,
+    "exp_required": 81411,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 34,
+    "exp_required": 87110,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 35,
+    "exp_required": 93208,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 36,
+    "exp_required": 99733,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 37,
+    "exp_required": 106714,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 38,
+    "exp_required": 114184,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 39,
+    "exp_required": 122177,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 40,
+    "exp_required": 130729,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 41,
+    "exp_required": 139880,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 42,
+    "exp_required": 149672,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 43,
+    "exp_required": 160149,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 44,
+    "exp_required": 171359,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 45,
+    "exp_required": 183354,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 46,
+    "exp_required": 196189,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 47,
+    "exp_required": 209922,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 48,
+    "exp_required": 224617,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 49,
+    "exp_required": 240340,
+    "reward": [
+      { "type": "Gem", "value": 50 },
+      { "type": "Energy", "value": 5 }
+    ]
+  },
+  {
+    "account_level": 50,
+    "exp_required": 257164,
+    "reward": [
+      { "type": "Gem", "value": 100 },
+      { "type": "Energy", "value": 5 }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+const ShopGroup = {
+    CHAPTER_PACK: 2310000,
+    DAILY_SHOP: 2320000,
+    EVENT_SUPPLIES: 2330000,
+    S_GRADE_SUPPLIES: 2340000,
+    SUPPLY_CRATE: 2350000,
+    GEM_PACK: 2360000,
+    GOLD_PACK: 2370000
+}
+
+module.exports = { ShopGroup }

@@ -1,0 +1,395 @@
+{
+  "event_id": 3000001,
+  "event_type": "RookieLoginGifts",
+  "event_title": "Rookie Login Gifts",
+  "event_description": "Log in daily to claim your 7-Days limited-time Rookie gifts!",
+  "event_start_condition": 0,
+  "event_start_condition_value": 0,
+  "event_expiry_value": 604800,
+  "event_end_date": 0,
+  "event_special_condition": [
+    {
+      "condition_type": 1,
+      "condition_value": 1000000
+    }
+  ],
+  "task_point": 0,
+  "milestone": [],
+  "tabs": [
+    {
+      "tab_name": "RookieLoginGifts",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 1
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 1d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 1
+            },
+            {
+              "content": "Energy",
+              "item_id": 2400015,
+              "item_name": "Energy",
+              "item_type": "Energy",
+              "item_description": "Energy",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab_name": "RookieLoginGifts",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 2
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 2d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 2,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Army Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab_name": "RookieLoginGifts",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 3
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 3d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 3,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 10000
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens Execcutive Supply Crate",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab_name": "RookieLoginGifts",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 4
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 4d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 4,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 30
+            },
+            {
+              "content": "Energy",
+              "item_id": 2400015,
+              "item_name": "Energy",
+              "item_type": "Energy",
+              "item_description": "Energy",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab_name": "RookieLoginGifts",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 5
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 5d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 100
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 30000
+            },
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Army Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab_name": "RookieLoginGifts",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 6
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 6d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 6,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 100
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 50
+            },
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab_name": "RookieLoginGifts",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 7
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 7d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 7,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 300
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 50000
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens EDF Supply Crate",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 2
+            },
+            {
+              "content": "Energy",
+              "item_id": 2400015,
+              "item_name": "Energy",
+              "item_type": "Energy",
+              "item_description": "Energy",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

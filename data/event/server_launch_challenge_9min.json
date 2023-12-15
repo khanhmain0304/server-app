@@ -1,0 +1,3374 @@
+{
+  "event_id": 30000029,
+  "event_type": "ServerLaunchChallenge",
+  "event_title": "ServerLaunchChallenge",
+  "event_description": "Server Launch Challenge!",
+  "event_start_condition": 0,
+  "event_start_condition_value": 0,
+  "event_expiry_value": 604800,
+  "event_end_date": 0,
+  "event_special_condition": [
+    {
+      "condition_type": 1,
+      "condition_value": 1000001
+    }
+  ],
+  "task_point": 0,
+  "milestone": [
+    {
+      "task_name": "100",
+      "conditions": [
+        {
+          "condition_type": 0,
+          "condition_value": 100
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "Design",
+          "item_id": 2400001,
+          "item_name": "Random Scroll",
+          "item_type": "All",
+          "item_description": "Random Scroll",
+          "item_current_rarity": 1,
+          "value": 10
+        },
+        {
+          "content": "Gem",
+          "item_id": 2400002,
+          "item_name": "Gem",
+          "item_type": "Gem",
+          "item_description": "Gem",
+          "item_current_rarity": 4,
+          "value": 50
+        }
+      ]
+    },
+    {
+      "task_name": "200",
+      "conditions": [
+        {
+          "condition_type": 0,
+          "condition_value": 200
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "Gem",
+          "item_id": 2400002,
+          "item_name": "Gem",
+          "item_type": "Gem",
+          "item_description": "Gem",
+          "item_current_rarity": 4,
+          "value": 150
+        }
+      ]
+    },
+    {
+      "task_name": "300",
+      "conditions": [
+        {
+          "condition_type": 0,
+          "condition_value": 300
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "Key",
+          "item_id": 2400006,
+          "item_name": "Gold Key",
+          "item_type": "Key",
+          "item_description": "Opens Executive Supply Crate",
+          "item_current_rarity": 4,
+          "value": 1
+        }
+      ]
+    },
+    {
+      "task_name": "400",
+      "conditions": [
+        {
+          "condition_type": 0,
+          "condition_value": 400
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "Design",
+          "item_id": 2400001,
+          "item_name": "Random Scroll",
+          "item_type": "All",
+          "item_description": "Random Scroll",
+          "item_current_rarity": 1,
+          "value": 20
+        }
+      ]
+    },
+    {
+      "task_name": "500",
+      "conditions": [
+        {
+          "condition_type": 0,
+          "condition_value": 500
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "Key",
+          "item_id": 2400006,
+          "item_name": "Gold Key",
+          "item_type": "Key",
+          "item_description": "Opens Executive Supply Crate",
+          "item_current_rarity": 4,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "task_name": "700",
+      "conditions": [
+        {
+          "condition_type": 0,
+          "condition_value": 700
+        }
+      ],
+      "status": 0,
+      "show_item_icon": true,
+      "item_list": [
+        {
+          "content": "Equipment",
+          "item_id": 2130002,
+          "item_name": "Immortal Suit",
+          "item_type": "Armor",
+          "item_description": "Mysterious technology of a higher life form.",
+          "item_current_rarity": 4,
+          "is_supper": true,
+          "item_super": true,
+          "display_in_bag": false,
+          "value": 1
+        }
+      ]
+    },
+    {
+      "task_name": "1200",
+      "conditions": [
+        {
+          "condition_type": 0,
+          "condition_value": 1200
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "Design",
+          "item_id": 2400001,
+          "item_name": "Random Scroll",
+          "item_type": "All",
+          "item_description": "Random Scroll",
+          "item_current_rarity": 1,
+          "value": 30
+        },
+        {
+          "content": "Gem",
+          "item_id": 2400002,
+          "item_name": "Gem",
+          "item_type": "Gem",
+          "item_description": "Gem",
+          "item_current_rarity": 4,
+          "value": 300
+        }
+      ]
+    },
+    {
+      "task_name": "1500",
+      "conditions": [
+        {
+          "condition_type": 0,
+          "condition_value": 1500
+        }
+      ],
+      "status": 0,
+      "show_item_icon": true,
+      "item_list": [
+        {
+          "content": "Equipment",
+          "item_id": 1110003,
+          "item_name": "Light Savior",
+          "item_type": "Weapon",
+          "item_description": "Was crafted on May 4th.",
+          "item_current_rarity": 4,
+          "is_supper": true,
+          "item_super": true,
+          "display_in_bag": false,
+          "value": 1
+        }
+      ]
+    }
+  ],
+  "tabs": [
+    {
+      "tab_name": "Day 1",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 1
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 1d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach Lv.3",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 2,
+              "condition_value": 3,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 5 evolutions",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 27,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Equip 1 Normal+ eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 31,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Equip 1 Lv.2 eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 21,
+              "condition_value": 2,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach 1000 total monster kills",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 14,
+              "condition_value": 1000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 50000 Gold",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 36,
+              "condition_value": 50000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 200 Gems",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 37,
+              "condition_value": 200,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Open 1 Executive Supply Crates or S Grade Supplies",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 38,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Main Chapter 2",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 1,
+              "condition_value": 2,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 1 key evolutions",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 39,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab_name": "Day 2",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 2
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 2d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 2,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach Lv.8",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 2,
+              "condition_value": 8,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 10 evolutions",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 27,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Equip 1 Good+ eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 32,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Equip 1 Lv.5 eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 21,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach 5000 total monster kills",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 14,
+              "condition_value": 5000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 100000 Gold",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 36,
+              "condition_value": 100000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 500 Gems",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 37,
+              "condition_value": 500,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Open 3 EDF Supply Crates or S Grade Supplies",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 38,
+              "condition_value": 3,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Main Chapter 4",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 1,
+              "condition_value": 4,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 2 key evolutions",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 39,
+              "condition_value": 2,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Wear full Normal eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 40,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Wear full Lv.3+ eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 24,
+              "condition_value": 3,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab_name": "Day 3",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 3
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 3d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 3,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach Lv.11",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 2,
+              "condition_value": 11,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 20 evolutions",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 27,
+              "condition_value": 20,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Equip 1 Better+ eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 33,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Equip 1 Lv.8 eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 21,
+              "condition_value": 8,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach 10000 total monster kills",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 14,
+              "condition_value": 10000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 200000 Gold",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 36,
+              "condition_value": 200000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 1000 Gems",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 37,
+              "condition_value": 1000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Open 5 EDF Supply Crates or S Grade Supplies",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 38,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Main Chapter 5",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 1,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 3 key evolutions",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 39,
+              "condition_value": 3,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Wear full Good eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 41,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Wear full Lv.5+ eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 24,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab_name": "Day 4",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 4
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 4d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 4,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach Lv.14",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 2,
+              "condition_value": 14,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 30 evolutions",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 27,
+              "condition_value": 30,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Equip 1 Excellent+ eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 34,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Equip 1 Lv.10 eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 21,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach 20000 total monster kills",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 14,
+              "condition_value": 20000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 300000 Gold",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 36,
+              "condition_value": 300000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 2000 Gems",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 37,
+              "condition_value": 2000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Open 10 EDF Supply Crates or S Grade Supplies",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 38,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Main Chapter 6",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 1,
+              "condition_value": 6,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 4 key evolutions",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 39,
+              "condition_value": 4,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Wear full Better eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 42,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Wear full Lv.8+ eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 24,
+              "condition_value": 8,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab_name": "Day 5",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 5
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 5d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach Lv.16",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 2,
+              "condition_value": 16,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 40 evolutions",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 27,
+              "condition_value": 40,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Wear full Lv.10+ eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 24,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Equip 1 Lv.15 eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 21,
+              "condition_value": 15,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach 40000 total monster kills",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 14,
+              "condition_value": 40000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 400000 Gold",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 36,
+              "condition_value": 400000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 3000 Gems",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 37,
+              "condition_value": 3000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Open 20 EDF Supply Crates or S Grade Supplies",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 38,
+              "condition_value": 20,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Main Chapter 7",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 1,
+              "condition_value": 7,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 6 key evolutions",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 39,
+              "condition_value": 6,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Wear full Excellent eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 43,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Wear full Lv.14+ eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 24,
+              "condition_value": 14,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab_name": "Day 6",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 6
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 6d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 6,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach Lv.18",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 2,
+              "condition_value": 18,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 50 evolutions",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 27,
+              "condition_value": 50,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Equip 1 Epic+ eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 35,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Equip 1 Lv.20 eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 21,
+              "condition_value": 20,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Reach 80000 total monster kills",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 14,
+              "condition_value": 80000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 500000 Gold",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 36,
+              "condition_value": 500000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 5000 Gems",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 37,
+              "condition_value": 5000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Open 30 EDF Supply Crates or S Grade Supplies",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 38,
+              "condition_value": 30,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Main Chapter 8",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 1,
+              "condition_value": 8,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 7 key evolutions",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 39,
+              "condition_value": 7,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 800000 Gold",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 36,
+              "condition_value": 800000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Wear full Lv.18+ eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 24,
+              "condition_value": 18,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 7000 Gems",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 37,
+              "condition_value": 7000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tab_name": "Day 7",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 7
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 7d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 7,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach Lv.20",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 2,
+              "condition_value": 20,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 60 evolutions",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 27,
+              "condition_value": 60,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Equip 1 Lv.25 eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 21,
+              "condition_value": 25,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Reach 150000 total monster kills",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 14,
+              "condition_value": 150000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach 200000 total monster kills",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 14,
+              "condition_value": 200000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 1200000 Gold",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 36,
+              "condition_value": 1200000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 10000 Gems",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 37,
+              "condition_value": 10000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Open 40 EDF Supply Crates or S Grade Supplies",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 38,
+              "condition_value": 40,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Main Chapter 10",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 1,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Complete 8 key evolutions",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 39,
+              "condition_value": 8,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 20
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 1500000 Gold",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 36,
+              "condition_value": 1500000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Wear full Lv.20+ eqpt",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 24,
+              "condition_value": 20,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 15000 Gems",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 37,
+              "condition_value": 15000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Obtain total of 20000 Gems",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 37,
+              "condition_value": 20000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 100
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 100
+            }
+          ]
+        },
+        {
+          "task_name": "Open 50 EDF Supply Crates or S Grade Supplies",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 38,
+              "condition_value": 50,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            },
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

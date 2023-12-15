@@ -1,0 +1,530 @@
+[
+    {
+        "type": "weapon",
+        "rarity": 1,
+        "base_atk": 10,
+        "base_atk_s": 0,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "weapon",
+        "rarity": 2,
+        "base_atk": 20,
+        "base_atk_s": 0,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "weapon",
+        "rarity": 3,
+        "base_atk": 30,
+        "base_atk_s": 0,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "weapon",
+        "rarity": 4,
+        "base_atk": 50,
+        "base_atk_s": 75,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "weapon",
+        "rarity": 5,
+        "base_atk": 60,
+        "base_atk_s": 90,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "weapon",
+        "rarity": 6,
+        "base_atk": 70,
+        "base_atk_s": 105,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "weapon",
+        "rarity": 7,
+        "base_atk": 132,
+        "base_atk_s": 198,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "weapon",
+        "rarity": 8,
+        "base_atk": 154,
+        "base_atk_s": 231,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "weapon",
+        "rarity": 9,
+        "base_atk": 176,
+        "base_atk_s": 264,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "weapon",
+        "rarity": 10,
+        "base_atk": 198,
+        "base_atk_s": 294,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "weapon",
+        "rarity": 11,
+        "base_atk": 231,
+        "base_atk_s": 347,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "necklace",
+        "rarity": 1,
+        "base_atk": 8,
+        "base_atk_s": 0,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "necklace",
+        "rarity": 2,
+        "base_atk": 16,
+        "base_atk_s": 0,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "necklace",
+        "rarity": 3,
+        "base_atk": 24,
+        "base_atk_s": 0,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "necklace",
+        "rarity": 4,
+        "base_atk": 40,
+        "base_atk_s": 60,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "necklace",
+        "rarity": 5,
+        "base_atk": 48,
+        "base_atk_s": 72,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "necklace",
+        "rarity": 6,
+        "base_atk": 56,
+        "base_atk_s": 84,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "necklace",
+        "rarity": 7,
+        "base_atk": 106,
+        "base_atk_s": 159,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "necklace",
+        "rarity": 8,
+        "base_atk": 123,
+        "base_atk_s": 185,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "necklace",
+        "rarity": 9,
+        "base_atk": 140,
+        "base_atk_s": 210,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "necklace",
+        "rarity": 10,
+        "base_atk": 157,
+        "base_atk_s": 235,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "necklace",
+        "rarity": 11,
+        "base_atk": 185,
+        "base_atk_s": 278,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "gloves",
+        "rarity": 1,
+        "base_atk": 7,
+        "base_atk_s": 0,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "gloves",
+        "rarity": 2,
+        "base_atk": 14,
+        "base_atk_s": 0,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "gloves",
+        "rarity": 3,
+        "base_atk": 21,
+        "base_atk_s": 0,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "gloves",
+        "rarity": 4,
+        "base_atk": 35,
+        "base_atk_s": 53,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "gloves",
+        "rarity": 5,
+        "base_atk": 42,
+        "base_atk_s": 63,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "gloves",
+        "rarity": 6,
+        "base_atk": 49,
+        "base_atk_s": 73,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "gloves",
+        "rarity": 7,
+        "base_atk": 92,
+        "base_atk_s": 138,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "gloves",
+        "rarity": 8,
+        "base_atk": 108,
+        "base_atk_s": 162,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "gloves",
+        "rarity": 9,
+        "base_atk": 123,
+        "base_atk_s": 185,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "gloves",
+        "rarity": 10,
+        "base_atk": 139,
+        "base_atk_s": 209,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "gloves",
+        "rarity": 11,
+        "base_atk": 162,
+        "base_atk_s": 243,
+        "base_hp": 0,
+        "base_hp_s": 0
+    },
+    {
+        "type": "armor",
+        "rarity": 1,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 50,
+        "base_hp_s": 0
+    },
+    {
+        "type": "armor",
+        "rarity": 2,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 70,
+        "base_hp_s": 0
+    },
+    {
+        "type": "armor",
+        "rarity": 3,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 100,
+        "base_hp_s": 0
+    },
+    {
+        "type": "armor",
+        "rarity": 4,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 200,
+        "base_hp_s": 300
+    },
+    {
+        "type": "armor",
+        "rarity": 5,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 220,
+        "base_hp_s": 330
+    },
+    {
+        "type": "armor",
+        "rarity": 6,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 240,
+        "base_hp_s": 360
+    },
+    {
+        "type": "armor",
+        "rarity": 7,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 330,
+        "base_hp_s": 495
+    },
+    {
+        "type": "armor",
+        "rarity": 8,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 385,
+        "base_hp_s": 578
+    },
+    {
+        "type": "armor",
+        "rarity": 9,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 440,
+        "base_hp_s": 661
+    },
+    {
+        "type": "armor",
+        "rarity": 10,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 495,
+        "base_hp_s": 744
+    },
+    {
+        "type": "armor",
+        "rarity": 11,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 550,
+        "base_hp_s": 825
+    },
+    {
+        "type": "belt",
+        "rarity": 1,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 38,
+        "base_hp_s": 0
+    },
+    {
+        "type": "belt",
+        "rarity": 2,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 53,
+        "base_hp_s": 0
+    },
+    {
+        "type": "belt",
+        "rarity": 3,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 75,
+        "base_hp_s": 0
+    },
+    {
+        "type": "belt",
+        "rarity": 4,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 150,
+        "base_hp_s": 225
+    },
+    {
+        "type": "belt",
+        "rarity": 5,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 165,
+        "base_hp_s": 247
+    },
+    {
+        "type": "belt",
+        "rarity": 6,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 180,
+        "base_hp_s": 270
+    },
+    {
+        "type": "belt",
+        "rarity": 7,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 248,
+        "base_hp_s": 372
+    },
+    {
+        "type": "belt",
+        "rarity": 8,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 289,
+        "base_hp_s": 433
+    },
+    {
+        "type": "belt",
+        "rarity": 9,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 330,
+        "base_hp_s": 495
+    },
+    {
+        "type": "belt",
+        "rarity": 10,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 371,
+        "base_hp_s": 556
+    },
+    {
+        "type": "belt",
+        "rarity": 11,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 413,
+        "base_hp_s": 620
+    },
+    {
+        "type": "shoes",
+        "rarity": 1,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 38,
+        "base_hp_s": 0
+    },
+    {
+        "type": "shoes",
+        "rarity": 2,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 53,
+        "base_hp_s": 0
+    },
+    {
+        "type": "shoes",
+        "rarity": 3,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 75,
+        "base_hp_s": 0
+    },
+    {
+        "type": "shoes",
+        "rarity": 4,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 150,
+        "base_hp_s": 225
+    },
+    {
+        "type": "shoes",
+        "rarity": 5,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 165,
+        "base_hp_s": 247
+    },
+    {
+        "type": "shoes",
+        "rarity": 6,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 180,
+        "base_hp_s": 270
+    },
+    {
+        "type": "shoes",
+        "rarity": 7,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 248,
+        "base_hp_s": 372
+    },
+    {
+        "type": "shoes",
+        "rarity": 8,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 289,
+        "base_hp_s": 433
+    },
+    {
+        "type": "shoes",
+        "rarity": 9,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 330,
+        "base_hp_s": 495
+    },
+    {
+        "type": "shoes",
+        "rarity": 10,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 371,
+        "base_hp_s": 556
+    },
+    {
+        "type": "shoes",
+        "rarity": 11,
+        "base_atk": 0,
+        "base_atk_s": 0,
+        "base_hp": 413,
+        "base_hp_s": 620
+    }
+]

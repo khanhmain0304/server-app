@@ -1,0 +1,623 @@
+{
+    "evolve": [
+      {
+        "level": 1,
+        "bonus_stats": [
+          {
+            "evolve_id": 1,
+            "stat_type": "Atk",
+            "bonus_value": 2,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 100
+              }
+            ]
+          },
+          {
+            "evolve_id": 2,
+            "stat_type": "Hp",
+            "bonus_value": 10,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 200
+              }
+            ]
+          },
+          {
+            "evolve_id": 3,
+            "stat_type": "Armor",
+            "bonus_value": 1,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 300
+              }
+            ]
+          }
+        ],
+        "key_evolve": {}
+      },
+      {
+        "level": 2,
+        "bonus_stats": [
+          {
+            "evolve_id": 4,
+            "stat_type": "MeatHeal",
+            "bonus_value": 10,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 500
+              }
+            ]
+          },
+          {
+            "evolve_id": 5,
+            "stat_type": "Atk",
+            "bonus_value": 3,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 700
+              }
+            ]
+          },
+          {
+            "evolve_id": 6,
+            "stat_type": "Hp",
+            "bonus_value": 15,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 1000
+              }
+            ]
+          }
+        ],
+        "key_evolve": {}
+      },
+      {
+        "level": 3,
+        "bonus_stats": [
+          {
+            "evolve_id": 7,
+            "stat_type": "Armor",
+            "bonus_value": 2,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 2000
+              }
+            ]
+          },
+          {
+            "evolve_id": 8,
+            "stat_type": "MeatHeal",
+            "bonus_value": 10,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 3000
+              }
+            ]
+          },
+          {
+            "evolve_id": 9,
+            "stat_type": "Atk",
+            "bonus_value": 4,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 4000
+              }
+            ]
+          }
+        ],
+        "key_evolve": {
+          "key_evolve_id": 1,
+          "name": "Lucky Dog",
+          "cost": [
+            {
+              "type": "Dna",
+              "value": 1
+            }
+          ],
+          "mechanics": "Get 1 skill when battle starts",
+          "description": "The lucky are favored by Him"
+        }
+      },
+      {
+        "level": 4,
+        "bonus_stats": [
+          {
+            "evolve_id": 10,
+            "stat_type": "Hp",
+            "bonus_value": 20,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 5000
+              }
+            ]
+          },
+          {
+            "evolve_id": 11,
+            "stat_type": "Armor",
+            "bonus_value": 2,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 6000
+              }
+            ]
+          },
+          {
+            "evolve_id": 12,
+            "stat_type": "MeatHeal",
+            "bonus_value": 15,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 7000
+              }
+            ]
+          }
+        ],
+        "key_evolve": {}
+      },
+      {
+        "level": 5,
+        "bonus_stats": [
+          {
+            "evolve_id": 13,
+            "stat_type": "Atk",
+            "bonus_value": 5,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 8000
+              }
+            ]
+          },
+          {
+            "evolve_id": 14,
+            "stat_type": "Hp",
+            "bonus_value": 25,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 9000
+              }
+            ]
+          },
+          {
+            "evolve_id": 15,
+            "stat_type": "Armor",
+            "bonus_value": 3,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 10000
+              }
+            ]
+          }
+        ],
+        "key_evolve": {
+          "key_evolve_id": 2,
+          "name": "Rogue",
+          "cost": [
+            {
+              "type": "Dna",
+              "value": 1
+            }
+          ],
+          "mechanics": "Reselect 1 skill in battle",
+          "description": "The final grace before the end"
+        }
+      },
+      {
+        "level": 6,
+        "bonus_stats": [
+          {
+            "evolve_id": 16,
+            "stat_type": "MeatHeal",
+            "bonus_value": 15,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 11000
+              }
+            ]
+          },
+          {
+            "evolve_id": 17,
+            "stat_type": "Atk",
+            "bonus_value": 5,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 12000
+              }
+            ]
+          },
+          {
+            "evolve_id": 18,
+            "stat_type": "Hp",
+            "bonus_value": 30,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 13000
+              }
+            ]
+          }
+        ],
+        "key_evolve": {}
+      },
+      {
+        "level": 7,
+        "bonus_stats": [
+          {
+            "evolve_id": 19,
+            "stat_type": "Armor",
+            "bonus_value": 3,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 14000
+              }
+            ]
+          },
+          {
+            "evolve_id": 20,
+            "stat_type": "MeatHeal",
+            "bonus_value": 20,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 15000
+              }
+            ]
+          },
+          {
+            "evolve_id": 21,
+            "stat_type": "Atk",
+            "bonus_value": 5,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 15000
+              }
+            ]
+          }
+        ],
+        "key_evolve": {
+          "key_evolve_id": 3,
+          "name": "Athelete",
+          "cost": [
+            {
+              "type": "Dna",
+              "value": 1
+            }
+          ],
+          "mechanics": "Movement Speed +1",
+          "description": "Death follows me like the wind"
+        }
+      },
+      {
+        "level": 8,
+        "bonus_stats": [
+          {
+            "evolve_id": 22,
+            "stat_type": "Hp",
+            "bonus_value": 35,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 15000
+              }
+            ]
+          },
+          {
+            "evolve_id": 23,
+            "stat_type": "Armor",
+            "bonus_value": 4,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 15000
+              }
+            ]
+          },
+          {
+            "evolve_id": 24,
+            "stat_type": "MeatHeal",
+            "bonus_value": 20,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 15000
+              }
+            ]
+          }
+        ],
+        "key_evolve": {}
+      },
+      {
+        "level": 9,
+        "bonus_stats": [
+          {
+            "evolve_id": 25,
+            "stat_type": "Atk",
+            "bonus_value": 6,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 20000
+              }
+            ]
+          },
+          {
+            "evolve_id": 26,
+            "stat_type": "Hp",
+            "bonus_value": 40,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 20000
+              }
+            ]
+          },
+          {
+            "evolve_id": 27,
+            "stat_type": "Armor",
+            "bonus_value": 4,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 20000
+              }
+            ]
+          }
+        ],
+        "key_evolve": {}
+      },
+      {
+        "level": 10,
+        "bonus_stats": [
+          {
+            "evolve_id": 28,
+            "stat_type": "MeatHeal",
+            "bonus_value": 20,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 20000
+              }
+            ]
+          },
+          {
+            "evolve_id": 29,
+            "stat_type": "Atk",
+            "bonus_value": 6,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 20000
+              }
+            ]
+          },
+          {
+            "evolve_id": 30,
+            "stat_type": "Hp",
+            "bonus_value": 45,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          }
+        ],
+        "key_evolve": {}
+      },
+      {
+        "level": 11,
+        "bonus_stats": [
+          {
+            "evolve_id": 31,
+            "stat_type": "Armor",
+            "bonus_value": 4,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          },
+          {
+            "evolve_id": 32,
+            "stat_type": "MeatHeal",
+            "bonus_value": 20,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          },
+          {
+            "evolve_id": 33,
+            "stat_type": "Atk",
+            "bonus_value": 6,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          }
+        ],
+        "key_evolve": {}
+      },
+      {
+        "level": 12,
+        "bonus_stats": [
+          {
+            "evolve_id": 34,
+            "stat_type": "Hp",
+            "bonus_value": 50,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          },
+          {
+            "evolve_id": 35,
+            "stat_type": "Armor",
+            "bonus_value": 5,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          },
+          {
+            "evolve_id": 36,
+            "stat_type": "MeatHeal",
+            "bonus_value": 20,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          }
+        ],
+        "key_evolve": {}
+      },
+      {
+        "level": 13,
+        "bonus_stats": [
+          {
+            "evolve_id": 37,
+            "stat_type": "Atk",
+            "bonus_value": 6,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          },
+          {
+            "evolve_id": 38,
+            "stat_type": "Hp",
+            "bonus_value": 50,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          },
+          {
+            "evolve_id": 39,
+            "stat_type": "Armor",
+            "bonus_value": 5,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          }
+        ],
+        "key_evolve": {}
+      },
+      {
+        "level": 14,
+        "bonus_stats": [
+          {
+            "evolve_id": 40,
+            "stat_type": "MeatHeal",
+            "bonus_value": 30,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          },
+          {
+            "evolve_id": 41,
+            "stat_type": "Atk",
+            "bonus_value": 8,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          },
+          {
+            "evolve_id": 42,
+            "stat_type": "Hp",
+            "bonus_value": 60,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          }
+        ],
+        "key_evolve": {}
+      },
+      {
+        "level": 15,
+        "bonus_stats": [
+          {
+            "evolve_id": 43,
+            "stat_type": "Armor",
+            "bonus_value": 6,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          },
+          {
+            "evolve_id": 44,
+            "stat_type": "MeatHeal",
+            "bonus_value": 30,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          },
+          {
+            "evolve_id": 45,
+            "stat_type": "Atk",
+            "bonus_value": 8,
+            "cost": [
+              {
+                "type": "Gold",
+                "value": 25000
+              }
+            ]
+          }
+        ],
+        "key_evolve": {}
+      }
+    ]
+  }
+  

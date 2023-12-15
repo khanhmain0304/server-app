@@ -1,0 +1,352 @@
+[
+  {
+    "id": 2160000,
+    "name": "Conduction Gadget",
+    "type": 2,
+    "description": "Conduction Gadget",
+    "related_skill": [1120000],
+    "bonus_stats_hp": 100,
+    "bonus_stats_atk": 0,
+    "effect_1": "HP +120",
+    "effect_2": "Horseshoe: You can collect the horseshoe to reset its cooldown",
+    "effect_3": "HP +800",
+    "effect_4": "Batarang: generates lightning arc",
+    "effect_bonus": [
+      {
+        "rarity": 3,
+        "type": "Hp",
+        "value": 120
+      },
+      {
+        "rarity": 7,
+        "type": "Hp",
+        "value": 800
+      }
+    ]
+  },
+  {
+    "id": 2160001,
+    "name": "Booster Device",
+    "type": 2,
+    "description": "Booster Device",
+    "related_skill": [1120001],
+    "bonus_stats_hp": 100,
+    "bonus_stats_atk": 0,
+    "effect_1": "HP +120",
+    "effect_2": "Hammer: penetrares all enemies",
+    "effect_3": "HP +800",
+    "effect_4": "Mjornir: spins when flying out",
+    "effect_bonus": [
+      {
+        "rarity": 3,
+        "type": "Hp",
+        "value": 120
+      },
+      {
+        "rarity": 7,
+        "type": "Hp",
+        "value": 800
+      }
+    ]
+  },
+  {
+    "id": 2160002,
+    "name": "Precision Motor",
+    "type": 1,
+    "description": "Precision Motor",
+    "related_skill": [1120002, 1120013],
+    "bonus_stats_hp": 0,
+    "bonus_stats_atk": 25,
+    "effect_1": "ATK +30",
+    "effect_2": "Drill: flight speed +20%",
+    "effect_3": "ATK +200",
+    "effect_4": "Whistling Arrow: +1 projectile",
+    "effect_bonus": [
+      {
+        "rarity": 3,
+        "type": "Atk",
+        "value": 30
+      },
+      {
+        "rarity": 7,
+        "type": "Atk",
+        "value": 200
+      }
+    ]
+  },
+  {
+    "id": 2160003,
+    "name": "Focus Device",
+    "type": 1,
+    "description": "Focus Device",
+    "related_skill": [1120003, 1120004, 1120014],
+    "bonus_stats_hp": 0,
+    "bonus_stats_atk": 25,
+    "effect_1": "ATK +30",
+    "effect_2": "Hawk and Eagle: Homing but reduced fire rate",
+    "effect_3": "ATK +200",
+    "effect_4": "Phoenix: Restores fire rate. Missile explosing range x2",
+    "effect_bonus": [
+      {
+        "rarity": 3,
+        "type": "Atk",
+        "value": 30
+      },
+      {
+        "rarity": 7,
+        "type": "Atk",
+        "value": 200
+      }
+    ]
+  },
+  {
+    "id": 2160004,
+    "name": "Compressioner",
+    "type": 2,
+    "description": "Compressioner",
+    "related_skill": [1120005, 1120015],
+    "bonus_stats_hp": 100,
+    "bonus_stats_atk": 0,
+    "effect_1": "HP +120",
+    "effect_2": "Soundwave: Range shrinks 25%, damage x2",
+    "effect_3": "HP +800",
+    "effect_4": "Supersonic Speaker: Mobs that die in radius give bonus EXP",
+    "effect_bonus": [
+      {
+        "rarity": 3,
+        "type": "Hp",
+        "value": 120
+      },
+      {
+        "rarity": 7,
+        "type": "Hp",
+        "value": 800
+      }
+    ]
+  },
+  {
+    "id": 2160005,
+    "name": "Nano Frame",
+    "type": 2,
+    "description": "Nano Frame",
+    "related_skill": [1120006, 1120016],
+    "bonus_stats_hp": 100,
+    "bonus_stats_atk": 0,
+    "effect_1": "HP +120",
+    "effect_2": "Guard Badge: Knockback distance x2",
+    "effect_3": "HP +800",
+    "effect_4": "Protective Badge: Spreads out and retreats",
+    "effect_bonus": [
+      {
+        "rarity": 3,
+        "type": "Hp",
+        "value": 120
+      },
+      {
+        "rarity": 7,
+        "type": "Hp",
+        "value": 800
+      }
+    ]
+  },
+  {
+    "id": 2160006,
+    "name": "Laser Core",
+    "type": 1,
+    "description": "Laser Core",
+    "related_skill": [1120007, 1120017],
+    "bonus_stats_hp": 0,
+    "bonus_stats_atk": 25,
+    "effect_1": "ATK +30",
+    "effect_2": "Laser Beam: Projectile +2 at all level",
+    "effect_3": "ATK +200",
+    "effect_4": "E.T Beam: Shockwave distance x2",
+    "effect_bonus": [
+      {
+        "rarity": 3,
+        "type": "Atk",
+        "value": 30
+      },
+      {
+        "rarity": 7,
+        "type": "Atk",
+        "value": 200
+      }
+    ]
+  },
+  {
+    "id": 2160007,
+    "name": "Catalyst",
+    "type": 1,
+    "description": "Catalyst",
+    "related_skill": [1120008, 1120019],
+    "bonus_stats_hp": 0,
+    "bonus_stats_atk": 25,
+    "effect_1": "ATK +30",
+    "effect_2": "Acid Bottle: Acid spreads out",
+    "effect_3": "ATK +200",
+    "effect_4": "Acid Device: Burnt enemies inflicted with Deep Burnt (+10% damage taken)",
+    "effect_bonus": [
+      {
+        "rarity": 3,
+        "type": "Atk",
+        "value": 30
+      },
+      {
+        "rarity": 7,
+        "type": "Atk",
+        "value": 200
+      }
+    ]
+  },
+  {
+    "id": 2160008,
+    "name": "Reversal Engine",
+    "type": 2,
+    "description": "Reversal Engine",
+    "related_skill": [1120009, 1120020],
+    "bonus_stats_hp": 100,
+    "bonus_stats_atk": 0,
+    "effect_1": "HP +120",
+    "effect_2": "Rocket: Cooldown -0.5s",
+    "effect_3": "HP +800",
+    "effect_4": "Super Mega Rocket: +1 projectile",
+    "effect_bonus": [
+      {
+        "rarity": 3,
+        "type": "Hp",
+        "value": 120
+      },
+      {
+        "rarity": 7,
+        "type": "Hp",
+        "value": 800
+      }
+    ]
+  },
+  {
+    "id": 2160009,
+    "name": "Quantum Core",
+    "type": 1,
+    "description": "Quantum Core",
+    "related_skill": [1120010, 1120021],
+    "bonus_stats_hp": 0,
+    "bonus_stats_atk": 25,
+    "effect_1": "ATK +30",
+    "effect_2": "Captain Shield: +30% damage",
+    "effect_3": "ATK +200",
+    "effect_4": "Quantum Disc: Duration +1s",
+    "effect_bonus": [
+      {
+        "rarity": 3,
+        "type": "Atk",
+        "value": 30
+      },
+      {
+        "rarity": 7,
+        "type": "Atk",
+        "value": 200
+      }
+    ]
+  },
+  {
+    "id": 2160010,
+    "name": "Hi-battery",
+    "type": 1,
+    "description": "Hi-battery",
+    "related_skill": [1120024, 1120025],
+    "bonus_stats_hp": 0,
+    "bonus_stats_atk": 25,
+    "effect_1": "ATK +30",
+    "effect_2": "Lightning Drone: +2 bounces at all level",
+    "effect_3": "ATK +200",
+    "effect_4": "Electro Destroyer: +50% damage",
+    "effect_bonus": [
+      {
+        "rarity": 3,
+        "type": "Atk",
+        "value": 30
+      },
+      {
+        "rarity": 7,
+        "type": "Atk",
+        "value": 200
+      }
+    ]
+  },
+  {
+    "id": 2160011,
+    "name": "Melter",
+    "type": 1,
+    "description": "Melter",
+    "related_skill": [1120026, 1120027],
+    "bonus_stats_hp": 0,
+    "bonus_stats_atk": 25,
+    "effect_1": "ATK +30",
+    "effect_2": "Plasma Device: +2s duration",
+    "effect_3": "ATK +200",
+    "effect_4": "Destructive Spinner: -50% cooldown",
+    "effect_bonus": [
+      {
+        "rarity": 3,
+        "type": "Atk",
+        "value": 30
+      },
+      {
+        "rarity": 7,
+        "type": "Atk",
+        "value": 200
+      }
+    ]
+  },
+  {
+    "id": 2160012,
+    "name": "Controller",
+    "type": 2,
+    "description": "Controller",
+    "related_skill": [1120028, 1120030],
+    "bonus_stats_hp": 100,
+    "bonus_stats_atk": 0,
+    "effect_1": "HP +120",
+    "effect_2": "Flight control (Pineapple won't stray too far from you)",
+    "effect_3": "HP +800",
+    "effect_4": "Caltrops: Spikes inflict Bleed",
+    "effect_bonus": [
+      {
+        "rarity": 3,
+        "type": "Hp",
+        "value": 120
+      },
+      {
+        "rarity": 7,
+        "type": "Hp",
+        "value": 800
+      }
+    ]
+  },
+  {
+    "id": 2160013,
+    "name": "Taser",
+    "type": 1,
+    "description": "Taser",
+    "related_skill": [1120029, 1120032],
+    "bonus_stats_hp": 100,
+    "bonus_stats_atk": 0,
+    "effect_1": "ATK +30",
+    "effect_2": "Xray Slows enemies by 30% on hit",
+    "effect_3": "ATK +200",
+    "effect_4": "Death Ray: snares enemies (Bosses and elites first)",
+    "effect_bonus": [
+      {
+        "rarity": 3,
+        "type": "Atk",
+        "value": 30
+      },
+      {
+        "rarity": 7,
+        "type": "Atk",
+        "value": 200
+      }
+    ]
+  }
+]

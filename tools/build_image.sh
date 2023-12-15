@@ -1,0 +1,1 @@
+docker build -t namnguyenhoai/test-sv-alpha:latest .

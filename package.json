@@ -1,0 +1,78 @@
+{
+  "name": "sio-server",
+  "version": "0.0.1",
+  "description": "sio-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r dotenv/config index.js",
+    "production": "node -r dotenv/config index.js dotenv_config_path=.env.production",
+    "dev": "nodemon -r dotenv/config index.js dotenv_config_path=.env.development",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "0_init_all": "npm run 100_init_equipment_main_stats && npm run 101_flatten_equipment_lvl_up && npm run 102_flatten_player_account_level && npm run 1_init_game_config && npm run 2_init_game_version && npm run 3_init_equipment_lvl_up && npm run 4_init_quipment_rarity && npm run 5_init_energy &&  npm run 6_init_equipment_merge_rule &&  npm run 7_init_event && npm run 8_init_equipment_full_info",
+    "1_init_game_config": "node -r dotenv/config ./tasks/init_game_config.js dotenv_config_path=.env.development",
+    "2_init_game_version": "node -r dotenv/config ./tasks/init_game_version.js dotenv_config_path=.env.development",
+    "3_init_equipment_lvl_up": "node -r dotenv/config ./tasks/init_equipment_lvl_up.js dotenv_config_path=.env.development",
+    "4_init_quipment_rarity": "node -r dotenv/config ./tasks/init_quipment_rarity.js dotenv_config_path=.env.development",
+    "5_init_energy": "node -r dotenv/config ./tasks/init_energy.js dotenv_config_path=.env.development",
+    "6_init_equipment_merge_rule": "node -r dotenv/config ./tasks/init_equipment_merge_rule.js dotenv_config_path=.env.development",
+    "100_init_equipment_main_stats": "node -r dotenv/config ./tasks/init_equipment_main_stats.js dotenv_config_path=.env.development",
+    "101_flatten_equipment_lvl_up": "node -r dotenv/config ./tasks/flatten_equipment_lvl_up.js dotenv_config_path=.env.development",
+    "102_flatten_player_account_level": "node -r dotenv/config ./tasks/flatten_player_account_level.js dotenv_config_path=.env.development",
+    "103_flatten_event_rookie_log_in": "node -r dotenv/config ./tasks/flatten_event_rookie_log_in.js dotenv_config_path=.env.development",
+    "7_init_event": "node -r dotenv/config ./tasks/init_event.js dotenv_config_path=.env.development",
+    "8_init_equipment_full_info": "node -r dotenv/config ./tasks/init_equipment_full_info.js dotenv_config_path=.env.development",
+    "9_init_live_ops_event": "node -r dotenv/config ./tasks/init_live_ops_event.js dotenv_config_path=.env.development",
+    "200_redis_reload_game_config": "node -r dotenv/config ./tasks/redis_reload_game_config.js dotenv_config_path=.env.development",
+    "10_init_gadget_info": "node -r dotenv/config ./tasks/init_gadget_info.js dotenv_config_path=.env.development",
+    "11_init_ab_segment": "node -r dotenv/config ./tasks/init_ab_segment.js dotenv_config_path=.env.development",
+    "12_init_shop_live_ops": "node -r dotenv/config ./tasks/init_shop_live_ops.js dotenv_config_path=.env.development",
+    "500_cheat_trials": "node -r dotenv/config ./tasks/cheats/trial_cheat.js dotenv_config_path=.env.development",
+    "502_update_user_iap_spend": "node -r dotenv/config ./tasks/update_user_iap_spend.js dotenv_config_path=.env.development",
+    "503_update_user_iap_max_spend": "node -r dotenv/config ./tasks/update_user_iap_max_spend.js dotenv_config_path=.env.development",
+    "504_init_campaign": "node -r dotenv/config ./tasks/init_campaign.js dotenv_config_path=.env.development",
+    "501_calc_game_config_md5": "node -r dotenv/config ./tasks/calc_game_config_md5.js dotenv_config_path=.env.development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.bagelcode.com/nmg/sio/sio-server.git"
+  },
+  "keywords": [
+    "nmg"
+  ],
+  "author": "nmg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://git.bagelcode.com/nmg/sio/sio-server/issues"
+  },
+  "homepage": "https://git.bagelcode.com/nmg/sio/sio-server#readme",
+  "dependencies": {
+    "@gaia/in-app-purchase": "^1.12.0",
+    "axios": "^0.24.0",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.1",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.4",
+    "express": "^4.17.1",
+    "express-rate-limit": "^6.1.0",
+    "http-errors": "^2.0.0",
+    "ioredis": "^5.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "mongoose": "^6.9.1",
+    "multer": "^1.4.4",
+    "node-cache": "^5.1.2",
+    "node-cron": "^3.0.2",
+    "nodemailer": "^6.7.3",
+    "sprintf-js": "^1.1.2",
+    "swagger-ui-express": "^4.3.0",
+    "utf8": "^3.0.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "type": 1,
+    "rarity": 1,
+    "bonus_stats_atk": 25,
+    "bonus_stats_hp": 0
+  },
+  {
+    "type": 1,
+    "rarity": 2,
+    "bonus_stats_atk": 50,
+    "bonus_stats_hp": 0
+  },
+  {
+    "type": 1,
+    "rarity": 3,
+    "bonus_stats_atk": 80,
+    "bonus_stats_hp": 0
+  },
+  {
+    "type": 1,
+    "rarity": 4,
+    "bonus_stats_atk": 120,
+    "bonus_stats_hp": 0
+  },
+  {
+    "type": 2,
+    "rarity": 1,
+    "bonus_stats_atk": 0,
+    "bonus_stats_hp": 100
+  },
+  {
+    "type": 2,
+    "rarity": 2,
+    "bonus_stats_atk": 0,
+    "bonus_stats_hp": 200
+  },
+  {
+    "type": 2,
+    "rarity": 3,
+    "bonus_stats_atk": 0,
+    "bonus_stats_hp": 300
+  },
+  {
+    "type": 2,
+    "rarity": 4,
+    "bonus_stats_atk": 0,
+    "bonus_stats_hp": 480
+  }
+]

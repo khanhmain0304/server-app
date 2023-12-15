@@ -1,0 +1,339 @@
+{
+  "event_id": 3100004,
+  "event_type": "DailyRewards",
+  "event_title": "DailyRewards",
+  "event_description": "DailyRewards Event!",
+  "event_start_condition": 0,
+  "event_start_condition_value": 0,
+  "event_expiry_value": -1,
+  "event_end_date": 0,
+  "event_special_condition": [
+    {
+      "condition_type": 4,
+      "condition_value": 1000002
+    }
+  ],
+  "task_point": 0,
+
+  "event_restart": 0,
+  "new_claimable": false,
+  "event_next_restart": 0,
+
+  "milestone": [
+    {
+      "task_name": "2",
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 2
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "ReviveToken",
+          "item_id": 2400007,
+          "item_name": "Revive Token",
+          "item_type": "ReviveToken",
+          "item_description": "Miracle token that revives people",
+          "item_current_rarity": 4,
+          "value": 1
+        }
+      ]
+    },
+    {
+      "task_name": "4",
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 4
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "Gem",
+          "item_id": 2400002,
+          "item_name": "Gem",
+          "item_type": "Gem",
+          "item_description": "Gem",
+          "item_current_rarity": 4,
+          "value": 50
+        }
+      ]
+    },
+    {
+      "task_name": "6",
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 6
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "PatrolGold",
+          "item_id": 2400016,
+          "item_name": "Patrol Gold",
+          "item_type": "PatrolGold",
+          "item_description": "Gain 1h of Patrol Gold",
+          "item_current_rarity": 3,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "task_name": "8",
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 8
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "Gem",
+          "item_id": 2400002,
+          "item_name": "Gem",
+          "item_type": "Gem",
+          "item_description": "Gem",
+          "item_current_rarity": 4,
+          "value": 50
+        }
+      ]
+    },
+    {
+      "task_name": "10",
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 10
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "Equipment",
+          "item_id": 2400019,
+          "item_name": "Excellent Weapon Chest",
+          "item_type": "All",
+          "item_description": "Get 1 random Excellent Weapon (excluding S Grade)",
+          "item_current_rarity": 4,
+          "value": 1
+        }
+      ]
+    }
+  ],
+  "tabs": [
+    {
+      "tab_name": "DailyRewards",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 1
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Login for 1d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Login for 2d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 2,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Login for 3d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 3,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Login for 4d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 4,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Login for 5d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": "Login for 6d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 6,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 50
+            }
+          ]
+        },
+        {
+          "task_name": "Login for 7d",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 7,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 100
+            },
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Gain 1h of Patrol Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 6
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens EDF Supply Crate",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 1
+            },
+            {
+              "content": "ReviveToken",
+              "item_id": 2400007,
+              "item_name": "Revive Token",
+              "item_type": "ReviveToken",
+              "item_description": "Miracle token that revives people",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

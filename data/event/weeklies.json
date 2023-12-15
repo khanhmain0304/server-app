@@ -1,0 +1,338 @@
+{
+  "event_id": 3100002,
+  "event_type": "Weeklies",
+  "event_title": "Weeklies",
+  "event_description": "Weeklies Event!",
+  "event_start_condition": 0,
+  "event_start_condition_value": 0,
+  "event_expiry_value": -1,
+  "event_end_date": 0,
+  "event_special_condition": [
+    {
+      "condition_type": 0,
+      "condition_value": 0
+    }
+  ],
+  "task_point": 0,
+  "event_restart": 604800,
+  "new_claimable": false,
+  "event_next_restart": 0,
+  "milestone": [
+    {
+      "task_name": "20",
+      "conditions": [
+        {
+          "condition_type": 0,
+          "condition_value": 20
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "PatrolGold",
+          "item_id": 2400016,
+          "item_name": "Patrol Gold",
+          "item_type": "PatrolGold",
+          "item_description": "Gain 1h of Patrol Gold",
+          "item_current_rarity": 3,
+          "value": 2
+        },
+        {
+          "content": "Design",
+          "item_id": 2400001,
+          "item_name": "Random Scroll",
+          "item_type": "All",
+          "item_description": "Random Scroll",
+          "item_current_rarity": 1,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "task_name": "40",
+      "conditions": [
+        {
+          "condition_type": 0,
+          "condition_value": 40
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "PatrolGold",
+          "item_id": 2400016,
+          "item_name": "Patrol Gold",
+          "item_type": "PatrolGold",
+          "item_description": "Gain 1h of Patrol Gold",
+          "item_current_rarity": 3,
+          "value": 2
+        },
+        {
+          "content": "Design",
+          "item_id": 2400001,
+          "item_name": "Random Scroll",
+          "item_type": "All",
+          "item_description": "Random Scroll",
+          "item_current_rarity": 1,
+          "value": 10
+        }
+      ]
+    },
+    {
+      "task_name": "60",
+      "conditions": [
+        {
+          "condition_type": 0,
+          "condition_value": 60
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "PatrolGold",
+          "item_id": 2400016,
+          "item_name": "Patrol Gold",
+          "item_type": "PatrolGold",
+          "item_description": "Gain 1h of Patrol Gold",
+          "item_current_rarity": 3,
+          "value": 3
+        },
+        {
+          "content": "Gem",
+          "item_id": 2400002,
+          "item_name": "Gem",
+          "item_type": "Gem",
+          "item_description": "Gem",
+          "item_current_rarity": 4,
+          "value": 150
+        }
+      ]
+    },
+    {
+      "task_name": "80",
+      "conditions": [
+        {
+          "condition_type": 0,
+          "condition_value": 80
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "PatrolGold",
+          "item_id": 2400016,
+          "item_name": "Patrol Gold",
+          "item_type": "PatrolGold",
+          "item_description": "Gain 1h of Patrol Gold",
+          "item_current_rarity": 3,
+          "value": 4
+        },
+        {
+          "content": "ReviveToken",
+          "item_id": 2400007,
+          "item_name": "Revive Token",
+          "item_type": "ReviveToken",
+          "item_description": "Miracle token that revives people",
+          "item_current_rarity": 4,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "task_name": "100",
+      "conditions": [
+        {
+          "condition_type": 0,
+          "condition_value": 100
+        }
+      ],
+      "status": 0,
+      "show_item_icon": false,
+      "item_list": [
+        {
+          "content": "PatrolGold",
+          "item_id": 2400016,
+          "item_name": "Patrol Gold",
+          "item_type": "PatrolGold",
+          "item_description": "Gain 1h of Patrol Gold",
+          "item_current_rarity": 3,
+          "value": 5
+        },
+        {
+          "content": "Gem",
+          "item_id": 2400002,
+          "item_name": "Gem",
+          "item_type": "Gem",
+          "item_description": "Gem",
+          "item_current_rarity": 4,
+          "value": 300
+        },
+        {
+          "content": "Key",
+          "item_id": 2400006,
+          "item_name": "Gold Key",
+          "item_type": "Key",
+          "item_description": "Opens Executive Supply Crate",
+          "item_current_rarity": 4,
+          "value": 1
+        }
+      ]
+    }
+  ],
+  "tabs": [
+    {
+      "tab_name": "Weeklies",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 1
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Merge equipment 2 time(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 13,
+              "condition_value": 2,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Defeat 500000 monster(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 14,
+              "condition_value": 500000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Defeat 50 boss(es)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 15,
+              "condition_value": 50,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Purchase 10 item(s) from Daily Shop",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 16,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Trials Stages 3 time(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 17,
+              "condition_value": 3,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        },
+        {
+          "task_name": "Open 20 chest(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 8,
+              "condition_value": 20,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "TaskPoint",
+              "item_id": 2400017,
+              "item_name": "Task Point",
+              "item_type": "TaskPoint",
+              "item_description": "Normal",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 20
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

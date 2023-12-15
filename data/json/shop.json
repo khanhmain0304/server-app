@@ -1,0 +1,1692 @@
+{
+  "shop_group": [
+    {
+      "item_group_id": 2310000,
+      "item_group_name": "Chapter Pack",
+      "item_group_order": 1,
+      "item_group_stat": 0,
+      "item_group_stat_value": 0,
+      "item_group_expiry": 0,
+      "item_group_expiry_value": 0,
+      "item_group_special_condition": 1,
+      "item_group_special_condition_value": 1,
+      "items": [
+        {
+          "pack_id": 2310001,
+          "iap_id": "com.nmg.survivalhero.stage.pack.1",
+          "chapter_condition": 1000000,
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "original_price": 11.99,
+              "discounted_price": 1.99,
+              "buy_limit": 1,
+              "value": 1.99
+            }
+          ],
+          "discount_value": 600,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 300
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 10000
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 0
+            },
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Army Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 3
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens EDF Supply Crate",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 3
+            }
+          ]
+        },
+        {
+          "pack_id": 2310002,
+          "iap_id": "com.nmg.survivalhero.stage.pack.2",
+          "chapter_condition": 1000001,
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "original_price": 17.99,
+              "discounted_price": 2.99,
+              "buy_limit": 1,
+              "value": 2.99
+            }
+          ],
+          "discount_value": 600,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 400
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 20000
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 15
+            },
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Army Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 0
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens EDF Supply Crate",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 4
+            }
+          ]
+        },
+        {
+          "pack_id": 2310003,
+          "iap_id": "com.nmg.survivalhero.stage.pack.3",
+          "chapter_condition": 1000002,
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "original_price": 17.99,
+              "discounted_price": 2.99,
+              "buy_limit": 1,
+              "value": 2.99
+            }
+          ],
+          "discount_value": 600,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 400
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 30000
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 25
+            },
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Army Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 0
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens EDF Supply Crate",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 4
+            }
+          ]
+        },
+        {
+          "pack_id": 2310004,
+          "iap_id": "com.nmg.survivalhero.stage.pack.4",
+          "chapter_condition": 1000003,
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "original_price": 29.99,
+              "discounted_price": 4.99,
+              "buy_limit": 1,
+              "value": 4.99
+            }
+          ],
+          "discount_value": 600,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 560
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 60000
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 50
+            },
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Army Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 0
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens EDF Supply Crate",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 6
+            }
+          ]
+        },
+        {
+          "pack_id": 2310005,
+          "iap_id": "com.nmg.survivalhero.stage.pack.5",
+          "chapter_condition": 1000004,
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "original_price": 29.99,
+              "discounted_price": 4.99,
+              "buy_limit": 1,
+              "value": 4.99
+            }
+          ],
+          "discount_value": 600,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 560
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 70000
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 60
+            },
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Army Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 0
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens EDF Supply Crate",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 6
+            }
+          ]
+        },
+        {
+          "pack_id": 2310006,
+          "iap_id": "com.nmg.survivalhero.stage.pack.6",
+          "chapter_condition": 1000005,
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "original_price": 47.99,
+              "discounted_price": 7.99,
+              "buy_limit": 1,
+              "value": 7.99
+            }
+          ],
+          "discount_value": 600,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 720
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 90000
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 70
+            },
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Army Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 0
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens EDF Supply Crate",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 8
+            }
+          ]
+        },
+        {
+          "pack_id": 2310007,
+          "iap_id": "com.nmg.survivalhero.stage.pack.7",
+          "chapter_condition": 1000006,
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "original_price": 47.99,
+              "discounted_price": 7.99,
+              "buy_limit": 1,
+              "value": 7.99
+            }
+          ],
+          "discount_value": 600,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 720
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 100000
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 80
+            },
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Army Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 0
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens EDF Supply Crate",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 8
+            }
+          ]
+        },
+        {
+          "pack_id": 2310008,
+          "iap_id": "com.nmg.survivalhero.stage.pack.8",
+          "chapter_condition": 1000007,
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "original_price": 59.99,
+              "discounted_price": 9.99,
+              "buy_limit": 1,
+              "value": 9.99
+            }
+          ],
+          "discount_value": 600,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 960
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 140000
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 100
+            },
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Army Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 0
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens EDF Supply Crate",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "pack_id": 2310009,
+          "iap_id": "com.nmg.survivalhero.stage.pack.9",
+          "chapter_condition": 1000008,
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "original_price": 59.99,
+              "discounted_price": 9.99,
+              "buy_limit": 1,
+              "value": 9.99
+            }
+          ],
+          "discount_value": 600,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 960
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 150000
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 110
+            },
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Army Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 0
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens EDF Supply Crate",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "pack_id": 2310010,
+          "iap_id": "com.nmg.survivalhero.stage.pack.10",
+          "chapter_condition": 1000009,
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "original_price": 89.99,
+              "discounted_price": 14.99,
+              "buy_limit": 1,
+              "value": 14.99
+            }
+          ],
+          "discount_value": 600,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 1200
+            },
+            {
+              "content": "Gold",
+              "item_id": 2400003,
+              "item_name": "Gold",
+              "item_type": "Gold",
+              "item_description": "Gold",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 160000
+            },
+            {
+              "content": "Design",
+              "item_id": 2400001,
+              "item_name": "Random Scroll",
+              "item_type": "All",
+              "item_description": "Random Scroll",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "value": 120
+            },
+            {
+              "content": "Key",
+              "item_id": 2400005,
+              "item_name": "Silver Key",
+              "item_type": "Key",
+              "item_description": "Opens Army Crate",
+              "item_current_rarity": 3,
+              "display_in_bag": true,
+              "value": 0
+            },
+            {
+              "content": "Key",
+              "item_id": 2400006,
+              "item_name": "Gold Key",
+              "item_type": "Key",
+              "item_description": "Opens EDF Supply Crate",
+              "item_current_rarity": 4,
+              "display_in_bag": true,
+              "value": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "item_group_id": 2320000,
+      "item_group_name": "Daily Shop",
+      "item_group_order": 2,
+      "item_group_stat": 0,
+      "item_group_stat_value": 0,
+      "item_group_expiry": 0,
+      "item_group_expiry_value": 0,
+      "item_group_special_condition": 1,
+      "item_group_special_condition_value": 1,
+      "items": [
+        {
+          "pack_id": 2320001,
+          "refresh_timer": "24h",
+          "is_x2_value": false,
+          "discount": 0,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 30
+            }
+          ],
+          "cost": [
+            {
+              "_id": "643d0d9a43e11004c51a4c5d",
+              "price_type": "Free",
+              "value": 0,
+              "buy_limit_per_day": 1,
+              "price_rarity": 3
+            },
+            {
+              "_id": "643d0dbdfafdf624af6fcd71",
+              "price_type": "Ads",
+              "value": 0,
+              "buy_limit_per_day": 2,
+              "price_rarity": 3
+            }
+          ]
+        },
+        {
+          "pack_id": 2320002,
+          "refresh_time": "24h",
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643d0de1edd238fe45a2f7bd",
+              "buy_limit_per_day": 1,
+              "price_type": "Gold",
+              "price_rarity": 3,
+              "value": 2000
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400009,
+              "item_name": "Weapon Design",
+              "item_type": "Weapon",
+              "item_description": "Used to level up weapons",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400010,
+              "item_name": "Armor Design",
+              "item_type": "Armor",
+              "item_description": "Used to level up armors",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400011,
+              "item_name": "Necklace Design",
+              "item_type": "Necklace",
+              "item_description": "Used to level up necklaces",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400012,
+              "item_name": "Belt Design",
+              "item_type": "Belt",
+              "item_description": "Used to level up belts",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400013,
+              "item_name": "Gloves Design",
+              "item_type": "Gloves",
+              "item_description": "Used to level up gloves",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400014,
+              "item_name": "Shoes Design",
+              "item_type": "Shoes",
+              "item_description": "Used to level up shoes",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            }
+          ],
+          "item_list_weight": [20, 20, 20, 20, 20, 20],
+          "value": [3, 5, 10],
+          "value_weight": [50, 50, 50],
+          "discount": [10, 20, 30, 40, 50, 60, 70, 80, 90],
+          "discount_weight": [30, 25, 20, 15, 5, 4, 3, 2, 1]
+        },
+        {
+          "pack_id": 2320003,
+          "refresh_time": "24h",
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643d0e025f8421f1a621741d",
+              "buy_limit_per_day": 1,
+              "price_rarity": 3,
+              "price_type": "Gem"
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 1110000,
+              "item_name": "Revolver",
+              "item_type": "Weapon",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "price": 250
+            },
+            {
+              "content": "Equipment",
+              "item_id": 1110000,
+              "item_name": "Revolver",
+              "item_type": "Weapon",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "price": 750
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2110000,
+              "item_name": "Radiator Necklace",
+              "item_type": "Necklace",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "price": 200
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2110000,
+              "item_name": "Radiator Necklace",
+              "item_type": "Necklace",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "price": 600
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2120001,
+              "item_name": "Edgy Gloves",
+              "item_type": "Gloves",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "price": 175
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2120001,
+              "item_name": "Edgy Gloves",
+              "item_type": "Gloves",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "price": 525
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2130001,
+              "item_name": "Edgy Suit",
+              "item_type": "Armor",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "price": 200
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2130001,
+              "item_name": "Edgy Suit",
+              "item_type": "Armor",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "price": 600
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2140000,
+              "item_name": "Mechanist Belt",
+              "item_type": "Belt",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "price": 150
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2140000,
+              "item_name": "Mechanist Belt",
+              "item_type": "Belt",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "price": 450
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2150000,
+              "item_name": "Primal Boots",
+              "item_type": "Shoes",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "price": 150
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2150000,
+              "item_name": "Primal Boots",
+              "item_type": "Shoes",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "price": 450
+            }
+          ],
+          "item_list_weight": [217, 100, 217, 100, 217, 100, 217, 100, 217, 100, 217, 100],
+          "discount": [10, 20, 30, 40, 50, 60, 70, 80, 90],
+          "discount_weight": [30, 25, 20, 15, 5, 4, 3, 2, 1]
+        },
+        {
+          "pack_id": 2320004,
+          "refresh_time": "24h",
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643d0de1edd238fe45a2f7bd",
+              "buy_limit_per_day": 1,
+              "price_rarity": 3,
+              "price_type": "Gold",
+              "value": 2000
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400009,
+              "item_name": "Weapon Design",
+              "item_type": "Weapon",
+              "item_description": "Used to level up weapons",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400010,
+              "item_name": "Armor Design",
+              "item_type": "Armor",
+              "item_description": "Used to level up armors",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400011,
+              "item_name": "Necklace Design",
+              "item_type": "Necklace",
+              "item_description": "Used to level up necklaces",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400012,
+              "item_name": "Belt Design",
+              "item_type": "Belt",
+              "item_description": "Used to level up belts",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400013,
+              "item_name": "Gloves Design",
+              "item_type": "Gloves",
+              "item_description": "Used to level up gloves",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400014,
+              "item_name": "Shoes Design",
+              "item_type": "Shoes",
+              "item_description": "Used to level up shoes",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            }
+          ],
+          "item_list_weight": [20, 20, 20, 20, 20, 20],
+          "value": [3, 5, 10],
+          "value_weight": [50, 50, 50],
+          "discount": [10, 20, 30, 40, 50, 60, 70, 80, 90],
+          "discount_weight": [30, 25, 20, 15, 5, 4, 3, 2, 1]
+        },
+        {
+          "pack_id": 2320005,
+          "refresh_time": "24h",
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643d0de1edd238fe45a2f7bd",
+              "buy_limit_per_day": 1,
+              "price_rarity": 3,
+              "price_type": "Gold",
+              "value": 2000
+            },
+            {
+              "_id": "643d0e025f8421f1a621741d",
+              "buy_limit_per_day": 1,
+              "price_rarity": 3,
+              "price_type": "Gem"
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Design",
+              "item_id": 2400009,
+              "item_name": "Weapon Design",
+              "item_type": "Weapon",
+              "item_description": "Used to level up weapons",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400010,
+              "item_name": "Armor Design",
+              "item_type": "Armor",
+              "item_description": "Used to level up armors",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400011,
+              "item_name": "Necklace Design",
+              "item_type": "Necklace",
+              "item_description": "Used to level up necklaces",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400012,
+              "item_name": "Belt Design",
+              "item_type": "Belt",
+              "item_description": "Used to level up belts",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400013,
+              "item_name": "Gloves Design",
+              "item_type": "Gloves",
+              "item_description": "Used to level up gloves",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            },
+            {
+              "content": "Design",
+              "item_id": 2400014,
+              "item_name": "Shoes Design",
+              "item_type": "Shoes",
+              "item_description": "Used to level up shoes",
+              "item_current_rarity": 1,
+              "display_in_bag": true
+            }
+          ],
+          "item_list_weight": [20, 20, 20, 20, 20, 20],
+          "value": [3, 5, 10],
+          "value_weight": [50, 50, 50],
+          "discount": [10, 20, 30, 40, 50, 60, 70, 80, 90],
+          "discount_weight": [30, 25, 20, 15, 5, 4, 3, 2, 1],
+          "item_list_gadget": [
+            {
+              "content": "Gadget",
+              "item_id": 2161000,
+              "item_name": "Normal Random Gadget",
+              "item_type": "All",
+              "item_description": "Normal Random Gadget",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "price": 30
+            },
+            {
+              "content": "Gadget",
+              "item_id": 2161001,
+              "item_name": "Good Random Gadget",
+              "item_type": "All",
+              "item_description": "Good Random Gadget",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "price": 90
+            },
+            {
+              "content": "Gadget",
+              "item_id": 2161002,
+              "item_name": "Better Random Gadget",
+              "item_type": "All",
+              "item_description": "Better Random Gadget",
+              "item_current_rarity": 1,
+              "display_in_bag": false,
+              "price": 270
+            }
+          ],
+          "item_list_gadget_weight": [9, 3, 1]
+        },
+        {
+          "pack_id": 2320006,
+          "refresh_time": "24h",
+          "is_x2_value": false,
+          "cost": [
+            {
+              "_id": "643d0e025f8421f1a621741d",
+              "buy_limit_per_day": 1,
+              "price_rarity": 3,
+              "price_type": "Gem"
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 1110000,
+              "item_name": "Revolver",
+              "item_type": "Weapon",
+              "item_description": "Sheriff's favourite weapon.",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "price": 250
+            },
+            {
+              "content": "Equipment",
+              "item_id": 1110000,
+              "item_name": "Revolver",
+              "item_type": "Weapon",
+              "item_description": "Sheriff's favourite weapon.",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "price": 750
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2110000,
+              "item_name": "Radiator Necklace",
+              "item_type": "Necklace",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "price": 200
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2110000,
+              "item_name": "Radiator Necklace",
+              "item_type": "Necklace",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "price": 600
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2120001,
+              "item_name": "Edgy Gloves",
+              "item_type": "Gloves",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "price": 175
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2120001,
+              "item_name": "Edgy Gloves",
+              "item_type": "Gloves",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "price": 525
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2130001,
+              "item_name": "Edgy Suit",
+              "item_type": "Armor",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "price": 200
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2130001,
+              "item_name": "Edgy Suit",
+              "item_type": "Armor",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "price": 600
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2140000,
+              "item_name": "Mechanist Belt",
+              "item_type": "Belt",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "price": 150
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2140000,
+              "item_name": "Mechanist Belt",
+              "item_type": "Belt",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "price": 450
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2150000,
+              "item_name": "Primal Boots",
+              "item_type": "Shoes",
+              "item_current_rarity": 2,
+              "display_in_bag": false,
+              "price": 150
+            },
+            {
+              "content": "Equipment",
+              "item_id": 2150000,
+              "item_name": "Primal Boots",
+              "item_type": "Shoes",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "price": 450
+            }
+          ],
+          "item_list_weight": [217, 100, 217, 100, 217, 100, 217, 100, 217, 100, 217, 100],
+          "discount": [10, 20, 30, 40, 50, 60, 70, 80, 90],
+          "discount_weight": [30, 25, 20, 15, 5, 4, 3, 2, 1]
+        }
+      ]
+    },
+    {
+      "item_group_id": 2330000,
+      "item_group_name": "Event Supplies",
+      "item_group_order": 3,
+      "item_group_stat": 1,
+      "item_group_stat_value": 0,
+      "item_group_expiry": 1,
+      "item_group_expiry_value": 0,
+      "item_group_special_condition": 0,
+      "item_group_special_condition_value": 0,
+      "items": []
+    },
+    {
+      "item_group_id": 2340000,
+      "item_group_name": "S Grade Supplies",
+      "item_group_order": 4,
+      "item_group_stat": 0,
+      "item_group_stat_value": 0,
+      "item_group_expiry": 0,
+      "item_group_expiry_value": 0,
+      "item_group_special_condition": 0,
+      "item_group_special_condition_value": 0,
+      "items": [
+        {
+          "pack_id": 2340001,
+          "is_x2_value": false,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2400000,
+              "item_name": "Random Equipment",
+              "item_type": "All",
+              "item_description": "Random Equipment",
+              "item_current_rarity": 1,
+              "display_in_bag": false
+            }
+          ],
+          "cost": [
+            {
+              "_id": "6523a81db33d2941b1130acd",
+              "price_type": "Key",
+              "value": 1,
+              "buy_limit_per_day": -1,
+              "price_rarity": 7
+            },
+            {
+              "_id": "643d0e486a8730820065c24b",
+              "buy_limit_per_day": -1,
+              "price_rarity": 4,
+              "price_type": "Gem",
+              "value": 300
+            },
+            {
+              "_id": "643d0e4f8989e5e7f7bafd34",
+              "buy_limit_per_day": -1,
+              "price_rarity": 4,
+              "price_type": "Gem",
+              "value": 2680
+            },
+            {
+              "_id": "648a7fef138fa42b6fd20e7a",
+              "price_type": "Key",
+              "value": 10,
+              "buy_limit_per_day": -1,
+              "price_rarity": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "item_group_id": 2350000,
+      "item_group_name": "Supply Crate",
+      "item_group_order": 5,
+      "item_group_stat": 0,
+      "item_group_stat_value": 0,
+      "item_group_expiry": 0,
+      "item_group_expiry_value": 0,
+      "item_group_special_condition": 0,
+      "item_group_special_condition_value": 0,
+      "items": [
+        {
+          "pack_id": 2350001,
+          "is_x2_value": false,
+          "free_ads_cooldown": 22,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2400000,
+              "item_name": "Random Equipment",
+              "item_type": "All",
+              "item_description": "Random Equipment",
+              "item_current_rarity": 1,
+              "display_in_bag": false
+            }
+          ],
+          "cost": [
+            {
+              "_id": "643d0dbdfafdf624af6fcd71",
+              "price_type": "Ads",
+              "value": 0,
+              "buy_limit_per_day": 1,
+              "price_rarity": 3
+            },
+            {
+              "_id": "643d0e5fdc78607d5e793b7c",
+              "price_type": "Key",
+              "value": 1,
+              "buy_limit_per_day": -1,
+              "price_rarity": 3
+            },
+            {
+              "_id": "643d0e025f8421f1a621741d",
+              "price_type": "Gem",
+              "value": 80,
+              "buy_limit_per_day": -1,
+              "price_rarity": 4
+            }
+          ]
+        },
+        {
+          "pack_id": 2350002,
+          "is_x2_value": false,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2400000,
+              "item_name": "Random Equipment",
+              "item_type": "All",
+              "item_description": "Random Equipment",
+              "item_current_rarity": 1,
+              "display_in_bag": false
+            }
+          ],
+          "free_ads_cooldown": 96,
+          "cost": [
+            {
+              "_id": "643d0dbdfafdf624af6fcd71",
+              "price_type": "Ads",
+              "value": 0,
+              "buy_limit_per_day": 1,
+              "price_rarity": 3
+            },
+            {
+              "_id": "643d0e6d3a25950b746c470a",
+              "price_type": "Key",
+              "value": 1,
+              "buy_limit_per_day": -1,
+              "price_rarity": 4
+            },
+            {
+              "_id": "643e5e7ea0f998d767befa7e",
+              "price_type": "Key",
+              "value": 10,
+              "buy_limit_per_day": -1,
+              "price_rarity": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "item_group_id": 2360000,
+      "item_group_name": "Gem Pack",
+      "item_group_order": 6,
+      "item_group_stat": 0,
+      "item_group_stat_value": 0,
+      "item_group_expiry": 0,
+      "item_group_expiry_value": 0,
+      "item_group_special_condition": 0,
+      "item_group_special_condition_value": 0,
+      "items": [
+        {
+          "pack_id": 2360001,
+          "iap_id": "com.nmg.survivalhero.gem.pack.1",
+          "is_x2_value": true,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 80
+            }
+          ],
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "value": 0.99
+            }
+          ]
+        },
+        {
+          "pack_id": 2360002,
+          "iap_id": "com.nmg.survivalhero.gem.pack.2",
+          "is_x2_value": true,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 500
+            }
+          ],
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "value": 4.99
+            }
+          ]
+        },
+        {
+          "pack_id": 2360003,
+          "iap_id": "com.nmg.survivalhero.gem.pack.3",
+          "is_x2_value": true,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 1200
+            }
+          ],
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "value": 9.99
+            }
+          ]
+        },
+        {
+          "pack_id": 2360004,
+          "iap_id": "com.nmg.survivalhero.gem.pack.4",
+          "is_x2_value": true,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 2500
+            }
+          ],
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "value": 19.99
+            }
+          ]
+        },
+        {
+          "pack_id": 2360005,
+          "iap_id": "com.nmg.survivalhero.gem.pack.5",
+          "is_x2_value": true,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 6500
+            }
+          ],
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "value": 49.99
+            }
+          ]
+        },
+        {
+          "pack_id": 2360006,
+          "iap_id": "com.nmg.survivalhero.gem.pack.6",
+          "is_x2_value": true,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 14000
+            }
+          ],
+          "cost": [
+            {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "value": 99.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "item_group_id": 2370000,
+      "item_group_name": "Gold Pack",
+      "item_group_order": 7,
+      "item_group_stat": 0,
+      "item_group_stat_value": 0,
+      "item_group_expiry": 0,
+      "item_group_expiry_value": 0,
+      "item_group_special_condition": 0,
+      "item_group_special_condition_value": 0,
+      "items": [
+        {
+          "pack_id": 2370001,
+          "is_x2_value": false,
+          "item_list": [
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Rare",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 2
+            }
+          ],
+          "cost": [
+            {
+              "_id": "643d0d9a43e11004c51a4c5d",
+              "price_type": "Free",
+              "value": 0,
+              "buy_limit_per_day": 1,
+              "price_rarity": 3
+            },
+            {
+              "_id": "643d0dbdfafdf624af6fcd71",
+              "price_type": "Ads",
+              "value": 0,
+              "buy_limit_per_day": 1,
+              "price_rarity": 3
+            },
+            {
+              "_id": "643d0e025f8421f1a621741d",
+              "price_type": "Gem",
+              "value": 30,
+              "buy_limit_per_day": -1,
+              "price_rarity": 4
+            }
+          ]
+        },
+        {
+          "pack_id": 2370002,
+          "is_x2_value": false,
+          "item_list": [
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Rare",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 6
+            }
+          ],
+          "cost": [
+            {
+              "_id": "643d0e025f8421f1a621741d",
+              "price_type": "Gem",
+              "value": 90,
+              "buy_limit_per_day": -1,
+              "price_rarity": 4
+            }
+          ]
+        },
+        {
+          "pack_id": 2370003,
+          "is_x2_value": false,
+          "item_list": [
+            {
+              "content": "PatrolGold",
+              "item_id": 2400016,
+              "item_name": "Patrol Gold",
+              "item_type": "PatrolGold",
+              "item_description": "Rare",
+              "item_current_rarity": 3,
+              "display_in_bag": false,
+              "value": 24
+            }
+          ],
+          "cost": [
+            {
+              "_id": "643d0e025f8421f1a621741d",
+              "price_type": "Gem",
+              "value": 288,
+              "buy_limit_per_day": -1,
+              "price_rarity": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

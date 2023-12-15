@@ -1,0 +1,122 @@
+[
+    {
+        "account_level": 1,
+        "exp_required": 0,
+        "gem_gained": 0,
+        "energy_gained": 0
+    },
+    {
+        "account_level": 2,
+        "exp_required": 500,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 3,
+        "exp_required": 1750,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 4,
+        "exp_required": 2250,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 5,
+        "exp_required": 2850,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 6,
+        "exp_required": 10000,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 7,
+        "exp_required": 12500,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 8,
+        "exp_required": 15000,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 9,
+        "exp_required": 16050.000000000002,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 10,
+        "exp_required": 17173,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 11,
+        "exp_required": 18375,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 12,
+        "exp_required": 19661,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 13,
+        "exp_required": 21038,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 14,
+        "exp_required": 22510,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 15,
+        "exp_required": 24086,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 16,
+        "exp_required": 25772,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 17,
+        "exp_required": 27576,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 18,
+        "exp_required": 29507,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 19,
+        "exp_required": 31572,
+        "gem_gained": 50,
+        "energy_gained": 5
+    },
+    {
+        "account_level": 20,
+        "exp_required": 33782,
+        "gem_gained": 50,
+        "energy_gained": 5
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "rarity": 1,
+        "can_upgrade": true,
+        "can_downgrade": false,
+        "upgrade_require_item_id": 2,
+        "upgrade_require_type": 2,
+        "upgrade_require_rarity": 1,
+        "upgrade_require_rarity_count": 2,
+        "downgrade_to_rarity": -1,
+        "downgrade_material_reward": -1
+    },
+    {
+        "rarity": 2,
+        "can_upgrade": true,
+        "can_downgrade": false,
+        "upgrade_require_item_id": 2,
+        "upgrade_require_type": 2,
+        "upgrade_require_rarity": 2,
+        "upgrade_require_rarity_count": 2,
+        "downgrade_to_rarity": -1,
+        "downgrade_material_reward": -1
+    },
+    {
+        "rarity": 3,
+        "can_upgrade": true,
+        "can_downgrade": false,
+        "upgrade_require_item_id": 2,
+        "upgrade_require_type": 2,
+        "upgrade_require_rarity": 3,
+        "upgrade_require_rarity_count": 2,
+        "downgrade_to_rarity": -1,
+        "downgrade_material_reward": -1
+    },
+    {
+        "rarity": 4,
+        "can_upgrade": true,
+        "can_downgrade": false,
+        "upgrade_require_item_id": 0,
+        "upgrade_require_type": 1,
+        "upgrade_require_rarity": 4,
+        "upgrade_require_rarity_count": 1,
+        "downgrade_to_rarity": -1,
+        "downgrade_material_reward": -1
+    },
+    {
+        "rarity": 5,
+        "can_upgrade": true,
+        "can_downgrade": true,
+        "upgrade_require_item_id": 0,
+        "upgrade_require_type": 2,
+        "upgrade_require_rarity": 4,
+        "upgrade_require_rarity_count": 2,
+        "downgrade_to_rarity": 4,
+        "downgrade_material_reward": 1
+    },
+    {
+        "rarity": 6,
+        "can_upgrade": true,
+        "can_downgrade": true,
+        "upgrade_require_item_id": 1,
+        "upgrade_require_type": 1,
+        "upgrade_require_rarity": 6,
+        "upgrade_require_rarity_count": 1,
+        "downgrade_to_rarity": 4,
+        "downgrade_material_reward": 3
+    },
+    {
+        "rarity": 7,
+        "can_upgrade": true,
+        "can_downgrade": false,
+        "upgrade_require_item_id": 0,
+        "upgrade_require_type": 1,
+        "upgrade_require_rarity": 7,
+        "upgrade_require_rarity_count": 1,
+        "downgrade_to_rarity": -1,
+        "downgrade_material_reward": -1
+    },
+    {
+        "rarity": 8,
+        "can_upgrade": true,
+        "can_downgrade": true,
+        "upgrade_require_item_id": 0,
+        "upgrade_require_type": 1,
+        "upgrade_require_rarity": 7,
+        "upgrade_require_rarity_count": 1,
+        "downgrade_to_rarity": 7,
+        "downgrade_material_reward": 1
+    },
+    {
+        "rarity": 9,
+        "can_upgrade": true,
+        "can_downgrade": true,
+        "upgrade_require_item_id": 0,
+        "upgrade_require_type": 1,
+        "upgrade_require_rarity": 7,
+        "upgrade_require_rarity_count": 1,
+        "downgrade_to_rarity": 7,
+        "downgrade_material_reward": 2
+    },
+    {
+        "rarity": 10,
+        "can_upgrade": true,
+        "can_downgrade": true,
+        "upgrade_require_item_id": 2,
+        "upgrade_require_type": 2,
+        "upgrade_require_rarity": 10,
+        "upgrade_require_rarity_count": 2,
+        "downgrade_to_rarity": 7,
+        "downgrade_material_reward": 3
+    },
+    {
+        "rarity": 11,
+        "can_upgrade": false,
+        "can_downgrade": false,
+        "upgrade_require_item_id": -1,
+        "upgrade_require_type": -1,
+        "upgrade_require_rarity": -1,
+        "upgrade_require_rarity_count": -1,
+        "downgrade_to_rarity": -1,
+        "downgrade_material_reward": -1
+    }
+]

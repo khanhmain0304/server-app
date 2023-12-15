@@ -1,0 +1,877 @@
+{
+	"info": {
+		"_postman_id": "08e46681-3e8d-4050-aeba-2e5b3de38990",
+		"name": "NewMoon Local",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "game_config",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/game_config/reward/default",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"game_config",
+						"reward",
+						"default"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "game_configs",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n{\r\n    \"name\" : \"weapon\",\r\n    \"version\": \"default\"\r\n},\r\n{\r\n    \"name\" : \"cameras\",\r\n    \"version\": \"default\"\r\n}\r\n]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/game_configs",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"game_configs"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\":\"namnh21@gmail.com\",\r\n    \"password\": \"12345678\",\r\n    \"version\": \"1.0.1\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/login",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "login_guest",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"userId\": \"\",\r\n    \"password\": \"1234562\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/login_guest",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"login_guest"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "register",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\":\"namnh22@gmail.com\",\r\n    \"password\": \"12345678\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/register",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add_design_test",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"item_type\": \"Weapon\",\r\n    \"quantity\": 180\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/add_design_test",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"add_design_test"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "profile",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"item_type\": \"Weapon\",\r\n    \"quantity\": 180\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/profile",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"profile"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "events",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/events",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"events"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "eventsTest",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/eventsTest",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"eventsTest"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "claim_event_task",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"event_id\": \"64353f9a89245c0c5fba943b\",\r\n    \"tab_id\":\"64352b3b2c4ded1567df574f\",\r\n    \"task_id\": \"64352b3b2c4ded1567df5750\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/claim_event_task",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"claim_event_task"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "claim_event_milestone",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"event_id\": \"64353f9a89245c0c5fba943b\",\r\n    \"task_id\":\"64352b3b2c4ded1567df573f\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/claim_event_milestone",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"claim_event_milestone"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "engergy",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/energy",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"energy"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "buy_energy_gem",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/buy_energy_gem",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"buy_energy_gem"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "play_main_stage",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/play_main_stage",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"play_main_stage"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "buy_energy_gem Copy",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"last_energy_regen_date\": 1680587488\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/set_offline_energy_regen_date",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"set_offline_energy_regen_date"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "buy_energy_ads",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/buy_energy_ads",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"buy_energy_ads"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "profile - body",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "[\"gem\", \"equipment.items\"]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/profile",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"profile"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add_equipment_test",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"item_id\": \"1110000\",\r\n    \"rarity\": 1,\r\n    \"level\": 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/add_equipment_test",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"add_equipment_test"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add_material_test",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"item_type\": \"Weapon\",\r\n    \"quantity\": 10,\r\n    \"rarity\": 4\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/add_material_test",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"add_material_test"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add_design_test",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"item_type\": \"Shoes\",\r\n  \"quantity\": 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/add_design_test",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"add_design_test"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "merge_equipment",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": \"64216d5fdadbc1e9b7728c2c\",\r\n    \"sacrifice\": [\"64216d60dadbc1e9b7728c34\",\"64216d61dadbc1e9b7728c3d\"]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/merge_equipment",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"merge_equipment"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "level_up_equipment",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": \"642148fc269d7f592f959118\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/level_up_equipment",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"level_up_equipment"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "level_up_max_equipment",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": \"642148fc269d7f592f959118\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/level_up_max_equipment",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"level_up_max_equipment"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "level_down_equipment",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": \"641beb9b311faeab1c3c3173\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/level_down_equipment",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"level_down_equipment"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "equip_item",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": \"641bea728bfd0605a458b703\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/equip_item",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"equip_item"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "un_equip_item",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": \"641bea728bfd0605a458b703\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/un_equip_item",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"un_equip_item"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "equip_by_slot",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "x-access-token",
+						"value": "{{nmg-local-jwt}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{local_newmoon}}/api/v1/equip_by_slot",
+					"host": [
+						"{{local_newmoon}}"
+					],
+					"path": [
+						"api",
+						"v1",
+						"equip_by_slot"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

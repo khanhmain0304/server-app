@@ -1,0 +1,459 @@
+{
+  "offlineEarning": [
+    {
+      "highest_chapter_clear": 0,
+      "highest_chapter_clear_id": 999999,
+      "gold_per_10_minutes": 500,
+      "exp_per_10_minutes": 200,
+      "quick_earning_design": 0,
+      "quick_earning_equipment": 0,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 0,
+      "chance_equipment_per_10_minutes": 0
+    },
+    {
+      "highest_chapter_clear": 1,
+      "highest_chapter_clear_id": 1000000,
+      "gold_per_10_minutes": 550,
+      "exp_per_10_minutes": 220,
+      "quick_earning_design": 0,
+      "quick_earning_equipment": 0,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 10,
+      "chance_equipment_per_10_minutes": 0.5
+    },
+    {
+      "highest_chapter_clear": 2,
+      "highest_chapter_clear_id": 1000001,
+      "gold_per_10_minutes": 600,
+      "exp_per_10_minutes": 240,
+      "quick_earning_design": 5,
+      "quick_earning_equipment": 0,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 16.67,
+      "chance_equipment_per_10_minutes": 1
+    },
+    {
+      "highest_chapter_clear": 3,
+      "highest_chapter_clear_id": 1000002,
+      "gold_per_10_minutes": 650,
+      "exp_per_10_minutes": 260,
+      "quick_earning_design": 5,
+      "quick_earning_equipment": 0,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 16.67,
+      "chance_equipment_per_10_minutes": 1
+    },
+    {
+      "highest_chapter_clear": 4,
+      "highest_chapter_clear_id": 1000003,
+      "gold_per_10_minutes": 700,
+      "exp_per_10_minutes": 280,
+      "quick_earning_design": 6,
+      "quick_earning_equipment": 1,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 20,
+      "chance_equipment_per_10_minutes": 3.34
+    },
+    {
+      "highest_chapter_clear": 5,
+      "highest_chapter_clear_id": 1000004,
+      "gold_per_10_minutes": 750,
+      "exp_per_10_minutes": 300,
+      "quick_earning_design": 6,
+      "quick_earning_equipment": 1,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 20,
+      "chance_equipment_per_10_minutes": 3.34
+    },
+
+    {
+      "highest_chapter_clear": 6,
+      "highest_chapter_clear_id": 1000005,
+      "gold_per_10_minutes": 800,
+      "exp_per_10_minutes": 320,
+      "quick_earning_design": 7,
+      "quick_earning_equipment": 1,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 23.33,
+      "chance_equipment_per_10_minutes": 3.34
+    },
+    {
+      "highest_chapter_clear": 7,
+      "highest_chapter_clear_id": 1000006,
+      "gold_per_10_minutes": 850,
+      "exp_per_10_minutes": 340,
+      "quick_earning_design": 7,
+      "quick_earning_equipment": 1,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 23.33,
+      "chance_equipment_per_10_minutes": 3.34
+    },
+    {
+      "highest_chapter_clear": 8,
+      "highest_chapter_clear_id": 1000007,
+      "gold_per_10_minutes": 900,
+      "exp_per_10_minutes": 360,
+      "quick_earning_design": 7,
+      "quick_earning_equipment": 1,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 23.33,
+      "chance_equipment_per_10_minutes": 3.34
+    },
+    {
+      "highest_chapter_clear": 9,
+      "highest_chapter_clear_id": 1000008,
+      "gold_per_10_minutes": 950,
+      "exp_per_10_minutes": 380,
+      "quick_earning_design": 8,
+      "quick_earning_equipment": 1,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 26.67,
+      "chance_equipment_per_10_minutes": 3.34
+    },
+    {
+      "highest_chapter_clear": 10,
+      "highest_chapter_clear_id": 1000009,
+      "gold_per_10_minutes": 1000,
+      "exp_per_10_minutes": 400,
+      "quick_earning_design": 8,
+      "quick_earning_equipment": 1,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 26.67,
+      "chance_equipment_per_10_minutes": 3.34
+    },
+    {
+      "highest_chapter_clear": 11,
+      "highest_chapter_clear_id": 1000010,
+      "gold_per_10_minutes": 1050,
+      "exp_per_10_minutes": 420,
+      "quick_earning_design": 8,
+      "quick_earning_equipment": 1,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 26.67,
+      "chance_equipment_per_10_minutes": 3.34
+    },
+    {
+      "highest_chapter_clear": 12,
+      "highest_chapter_clear_id": 1000011,
+      "gold_per_10_minutes": 1100,
+      "exp_per_10_minutes": 440,
+      "quick_earning_design": 9,
+      "quick_earning_equipment": 2,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 30,
+      "chance_equipment_per_10_minutes": 6.67
+    },
+    {
+      "highest_chapter_clear": 13,
+      "highest_chapter_clear_id": 1000012,
+      "gold_per_10_minutes": 1150,
+      "exp_per_10_minutes": 460,
+      "quick_earning_design": 9,
+      "quick_earning_equipment": 2,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 30,
+      "chance_equipment_per_10_minutes": 6.67
+    },
+    {
+      "highest_chapter_clear": 14,
+      "highest_chapter_clear_id": 1000013,
+      "gold_per_10_minutes": 1200,
+      "exp_per_10_minutes": 480,
+      "quick_earning_design": 9,
+      "quick_earning_equipment": 2,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 30,
+      "chance_equipment_per_10_minutes": 6.67
+    },
+    {
+      "highest_chapter_clear": 15,
+      "highest_chapter_clear_id": 1000014,
+      "gold_per_10_minutes": 1250,
+      "exp_per_10_minutes": 500,
+      "quick_earning_design": 9,
+      "quick_earning_equipment": 2,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 30,
+      "chance_equipment_per_10_minutes": 6.67
+    },
+    {
+      "highest_chapter_clear": 16,
+      "highest_chapter_clear_id": 1000015,
+      "gold_per_10_minutes": 1300,
+      "exp_per_10_minutes": 520,
+      "quick_earning_design": 9,
+      "quick_earning_equipment": 2,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 30,
+      "chance_equipment_per_10_minutes": 6.67
+    },
+    {
+      "highest_chapter_clear": 17,
+      "highest_chapter_clear_id": 1000016,
+      "gold_per_10_minutes": 1350,
+      "exp_per_10_minutes": 540,
+      "quick_earning_design": 9,
+      "quick_earning_equipment": 2,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 30,
+      "chance_equipment_per_10_minutes": 6.67
+    },
+    {
+      "highest_chapter_clear": 18,
+      "highest_chapter_clear_id": 1000017,
+      "gold_per_10_minutes": 1400,
+      "exp_per_10_minutes": 560,
+      "quick_earning_design": 9,
+      "quick_earning_equipment": 2,
+      "quick_earning_energy_expense": 15,
+      "chance_design_per_10_minutes": 30,
+      "chance_equipment_per_10_minutes": 6.67
+    }
+  ],
+  "random_equipment": {
+    "item_list": [
+      {
+        "content": "Equipment",
+        "item_id": 1110000,
+        "item_name": "Revolver",
+        "item_type": "Weapon",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 1110001,
+        "item_name": "Shotgun",
+        "item_type": "Weapon",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 1110002,
+        "item_name": "Whip",
+        "item_type": "Weapon",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2110000,
+        "item_name": "Radiator Necklace",
+        "item_type": "Necklace",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2110001,
+        "item_name": "Soldier Tag",
+        "item_type": "Necklace",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2120000,
+        "item_name": "Soldier Gloves",
+        "item_type": "Gloves",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2120001,
+        "item_name": "Edgy Gloves",
+        "item_type": "Gloves",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2130000,
+        "item_name": "Mechanist Armor",
+        "item_type": "Armor",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2130001,
+        "item_name": "Edgy Suit",
+        "item_type": "Armor",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2140000,
+        "item_name": "Mechanist Belt",
+        "item_type": "Belt",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2140001,
+        "item_name": "Rockstar Belt",
+        "item_type": "Belt",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2150000,
+        "item_name": "Primal Boots",
+        "item_type": "Shoes",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2150001,
+        "item_name": "Mechanist Shoes",
+        "item_type": "Shoes",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 1110004,
+        "item_name": "Machette",
+        "item_type": "Weapon",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 1110009,
+        "item_name": "Crossbow",
+        "item_type": "Weapon",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2110002,
+        "item_name": "Rockstar Necklace",
+        "item_type": "Necklace",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2110003,
+        "item_name": "Primal Pendant",
+        "item_type": "Necklace",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2110004,
+        "item_name": "Mechanist Necklace",
+        "item_type": "Necklace",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2120002,
+        "item_name": "Mechanist Wristguard",
+        "item_type": "Gloves",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "content": "Equipment",
+        "item_id": 2120003,
+        "item_name": "Primal Claws",
+        "item_type": "Gloves",
+        "item_current_rarity": 1,
+        "display_in_bag": false
+      },
+      {
+        "item_id": 2120004,
+        "item_name": "Radiator Gloves",
+        "item_type": "Gloves",
+        "item_current_rarity": 1,
+        "item_super": false,
+        "display_in_bag": false
+      },
+      {
+        "item_id": 2130003,
+        "item_name": "Soldier Armor",
+        "item_type": "Armor",
+        "item_current_rarity": 1,
+        "item_super": false,
+        "display_in_bag": false
+      },
+      {
+        "item_id": 2130004,
+        "item_name": "Primal Armor",
+        "item_type": "Armor",
+        "item_current_rarity": 1,
+        "item_super": false,
+        "display_in_bag": false
+      },
+      {
+        "item_id": 2130005,
+        "item_name": "Radiator Suit",
+        "item_type": "Armor",
+        "item_current_rarity": 1,
+        "item_super": false,
+        "display_in_bag": false
+      },
+      {
+        "item_id": 2140002,
+        "item_name": "Soldier Belt",
+        "item_type": "Belt",
+        "item_current_rarity": 1,
+        "item_super": false,
+        "display_in_bag": false
+      },
+      {
+        "item_id": 2140003,
+        "item_name": "Radiator Waistguard",
+        "item_type": "Belt",
+        "item_current_rarity": 1,
+        "item_super": false,
+        "display_in_bag": false
+      },
+      {
+        "item_id": 2140004,
+        "item_name": "Primal Belt",
+        "item_type": "Belt",
+        "item_current_rarity": 1,
+        "item_super": false,
+        "display_in_bag": false
+      },
+      {
+        "item_id": 2150002,
+        "item_name": "Soldier Boots",
+        "item_type": "Shoes",
+        "item_current_rarity": 1,
+        "item_super": false,
+        "display_in_bag": false
+      },
+      {
+        "item_id": 2150003,
+        "item_name": "Edgy Boots",
+        "item_type": "Shoes",
+        "item_current_rarity": 1,
+        "item_super": false,
+        "display_in_bag": false
+      },
+      {
+        "item_id": 2150004,
+        "item_name": "Radiator Shoes",
+        "item_type": "Shoes",
+        "item_current_rarity": 1,
+        "item_super": false,
+        "display_in_bag": false
+      }
+    ],
+    "item_list_weight": [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100]
+  }
+}

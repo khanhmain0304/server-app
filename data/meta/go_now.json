@@ -1,0 +1,182 @@
+[
+  {
+    "condition_type": 1,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 4,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 5,
+    "ID": "A2",
+    "description": "Daily Event"
+  },
+  {
+    "condition_type": 8,
+    "ID": "B4",
+    "description": "Shop -> Crate"
+  },
+  {
+    "condition_type": 10,
+    "ID": "A4",
+    "description": "Main Screen -> Quick Patrol"
+  },
+  {
+    "condition_type": 11,
+    "ID": "A1",
+    "description": "Daily Challenge"
+  },
+  {
+    "condition_type": 13,
+    "ID": "C",
+    "description": "Equipment"
+  },
+  {
+    "condition_type": 21,
+    "ID": "C",
+    "description": "Equipment"
+  },
+  {
+    "condition_type": 27,
+    "ID": "E",
+    "description": "Evolve"
+  },
+  {
+    "condition_type": 31,
+    "ID": "C",
+    "description": "Equipment"
+  },
+  {
+    "condition_type": 39,
+    "ID": "E",
+    "description": "Evolve"
+  },
+  {
+    "condition_type": 48,
+    "ID": "D",
+    "description": "Trial"
+  },
+  {
+    "condition_type": 50,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 52,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 53,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 55,
+    "ID": "A1",
+    "description": "Daily Challenge"
+  },
+  {
+    "condition_type": 57,
+    "ID": "B4",
+    "description": "Shop -> Crate"
+  },
+  {
+    "condition_type": 62,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 63,
+    "ID": "C",
+    "description": "Equipment"
+  },
+  {
+    "condition_type": 64,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 65,
+    "ID": "C",
+    "description": "Equipment"
+  },
+  {
+    "condition_type": 66,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 67,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 68,
+    "ID": "B4",
+    "description": "Shop -> Crate"
+  },
+  {
+    "condition_type": 69,
+    "ID": "A3",
+    "description": "Main Screen -> Daily Task"
+  },
+  {
+    "condition_type": 70,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 71,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 72,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 73,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 74,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 75,
+    "ID": "G",
+    "description": "Gadget"
+  },
+  {
+    "condition_type": 76,
+    "ID": "B4",
+    "description": "Shop -> Crate"
+  },
+  {
+    "condition_type": 77,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 78,
+    "ID": "B4",
+    "description": "Shop -> Crate"
+  },
+  {
+    "condition_type": 79,
+    "ID": "A",
+    "description": "Main Screen"
+  },
+  {
+    "condition_type": 80,
+    "ID": "A",
+    "description": "Main Screen"
+  }
+]

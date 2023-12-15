@@ -1,0 +1,537 @@
+{
+  "event_id": 3100003,
+  "event_type": "Achievement",
+  "event_title": "Achievement",
+  "event_description": "Achievement Event!",
+  "event_start_condition": 0,
+  "event_start_condition_value": 0,
+  "event_expiry_value": -1,
+  "event_end_date": 0,
+  "event_special_condition": [
+    {
+      "condition_type": 0,
+      "condition_value": 0
+    }
+  ],
+  "milestone": [],
+  "tabs": [
+    {
+      "tab_name": "Achievement",
+      "status": 0,
+      "conditions": [
+        {
+          "condition_type": 3,
+          "condition_value": 1
+        }
+      ],
+      "tasks": [
+        {
+          "task_name": "Get total of 1 Excellent equipment",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 18,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Merge equipment 10 time(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 13,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Get 1 Gadget",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 19,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Spend total of 1000 gems",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 20,
+              "condition_value": 1000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach Lv.10  for 1 equipment piece",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 21,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Get total of 50000 gold from Patrol",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 22,
+              "condition_value": 50000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach player Lv.5 ",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 2,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Purchase Energy 5 time(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 23,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Clear Main Stage Chapter 1 ",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 1,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Reach Lv.10 for all equipment",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 24,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Get total of 10 Gadget(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 25,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Join 5 Daily Challenge(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 26,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Make 1 purchase(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 12,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Unlock Talents",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 27,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Get Normal equipment",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 28,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Defeat total of 10 boss(es)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 15,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Open total of 5 chests",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 8,
+              "condition_value": 5,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Get total of 10  equipment pieces",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 29,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Get 1 outfit(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 30,
+              "condition_value": 1,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Challenge total of 10 Main Stages",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 4,
+              "condition_value": 10,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Defeat total of 100000 monster(s)",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 14,
+              "condition_value": 100000,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": "Login for total of 3 days",
+          "status": 0,
+          "conditions": [
+            {
+              "condition_type": 3,
+              "condition_value": 3,
+              "current_value": 0
+            }
+          ],
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

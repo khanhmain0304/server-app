@@ -1,0 +1,3267 @@
+{
+  "monthly_card": {
+    "offer_id": 3000102,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": -1,
+    "offer_special_condition": 1,
+    "offer_special_condition_value": 1,
+    "items": [
+      {
+        "pack_id": 30001021,
+        "iap_id": "com.nmg.survivalhero.monthly.card",
+        "pack_name": "Monthly Card",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 4.99
+        },
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 500
+          }
+        ],
+        "daily_reward": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 150
+          }
+        ],
+        "bonus": [
+          {
+            "bonus_id": 1,
+            "bonus_content": "Patrol Earning +5% (includes gold and EXP)",
+            "bonus_type": "Patrol Earning",
+            "value": 5
+          },
+          {
+            "bonus_id": 2,
+            "bonus_content": "Quick Patrols +1",
+            "bonus_type": "Quick Earning",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "pack_id": 30001022,
+        "iap_id": "com.nmg.survivalhero.monthly.card.2",
+        "pack_name": "Super Monthly Card",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 9.99
+        },
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 1200
+          }
+        ],
+        "daily_reward": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 300
+          }
+        ],
+        "bonus": [
+          {
+            "bonus_id": 1,
+            "bonus_content": "Patrol Earning +10% (includes gold and EXP)",
+            "bonus_type": "Patrol Earning",
+            "value": 10
+          },
+          {
+            "bonus_id": 2,
+            "bonus_content": "Quick Patrols +3",
+            "bonus_type": "Quick Earning",
+            "value": 3
+          },
+          {
+            "bonus_id": 3,
+            "bonus_content": "Max Energy +20",
+            "bonus_type": "Max Energy",
+            "value": 20
+          },
+          {
+            "bonus_id": 4,
+            "bonus_content": "Ad-free Rewards (Skip ads khi nhận các phần thưởng từ RWV)",
+            "bonus_type": "Ad-free Rewards",
+            "value": 1
+          }
+        ]
+      }
+    ]
+  },
+  "growth_funds": {
+    "offer_id": 3000103,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": -1,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 5,
+    "packages_group": [
+      {
+        "packages": [
+          {
+            "pack_id": 30001031,
+            "iap_id": "",
+            "pack_name": "Free",
+            "price": {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "Free",
+              "value": 0
+            },
+            "item_list": [
+              {
+                "level_required": 5,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 50
+              },
+              {
+                "level_required": 7,
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 10000
+              },
+              {
+                "level_required": 10,
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 15000
+              },
+              {
+                "level_required": 13,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 100
+              },
+              {
+                "level_required": 15,
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 20000
+              },
+              {
+                "level_required": 20,
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 30000
+              },
+              {
+                "level_required": 25,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 100
+              },
+              {
+                "level_required": 30,
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 40000
+              },
+              {
+                "level_required": 35,
+                "content": "Gold",
+                "item_id": 2400003,
+                "item_name": "Gold",
+                "item_type": "Gold",
+                "item_description": "Gold",
+                "item_current_rarity": 3,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 50000
+              },
+              {
+                "level_required": 40,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 200
+              },
+              {
+                "level_required": 45,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 300
+              }
+            ]
+          },
+          {
+            "pack_id": 30001032,
+            "iap_id": "com.nmg.survivalhero.growth.fundpremium",
+            "pack_name": "Premium",
+            "price": {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "value": 6.99
+            },
+            "item_list": [
+              {
+                "level_required": 5,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 500
+              },
+              {
+                "level_required": 7,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 500
+              },
+              {
+                "level_required": 10,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 700
+              },
+              {
+                "level_required": 13,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 700
+              },
+              {
+                "level_required": 15,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 700
+              },
+              {
+                "level_required": 20,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 700
+              },
+              {
+                "level_required": 25,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 1000
+              },
+              {
+                "level_required": 30,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 1000
+              },
+              {
+                "level_required": 35,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 1500
+              },
+              {
+                "level_required": 40,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 1500
+              },
+              {
+                "level_required": 45,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 2500
+              }
+            ]
+          },
+          {
+            "pack_id": 30001033,
+            "iap_id": "com.nmg.survivalhero.growth.fundsuper",
+            "pack_name": "Super",
+            "price": {
+              "_id": "643caeb88ed2f3482faaef48",
+              "price_type": "IAP",
+              "value": 19.99
+            },
+            "item_list": [
+              {
+                "level_required": 5,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 1500
+              },
+              {
+                "level_required": 7,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 1500
+              },
+              {
+                "level_required": 10,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 2000
+              },
+              {
+                "level_required": 13,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 2000
+              },
+              {
+                "level_required": 15,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 2000
+              },
+              {
+                "level_required": 20,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 2000
+              },
+              {
+                "level_required": 25,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 3000
+              },
+              {
+                "level_required": 30,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 3000
+              },
+              {
+                "level_required": 35,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 5000
+              },
+              {
+                "level_required": 40,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 8000
+              },
+              {
+                "level_required": 45,
+                "content": "Gem",
+                "item_id": 2400002,
+                "item_name": "Gem",
+                "item_type": "Gem",
+                "item_description": "Gem",
+                "item_current_rarity": 4,
+                "is_supper": false,
+                "display_in_bag": false,
+                "value": 10000
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "starter_pack": {
+    "offer_id": 3000104,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 12,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 2,
+    "items": [
+      {
+        "pack_id": 30001041,
+        "iap_id": "com.nmg.survivalhero.starter.pack",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 0.99
+        },
+        "item_list": [
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": true,
+            "value": 2
+          }
+        ]
+      }
+    ]
+  },
+  "piggy_bank": {
+    "offer_id": 3000150,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 24,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 2,
+    "items": [
+      {
+        "pack_id": 30001501,
+        "iap_id": "com.nmg.survivalhero.piggy.bank.s",
+        "pack_name": "Gold Piggy (S)",
+        "description": "Challenge stages to store even more gems. Smash the piggy when it's full to claim your hard-earned rewards!",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 0.99
+        },
+        "original_gem": 80,
+        "min_gem": 160,
+        "max_gem": 320,
+        "min_value": 2,
+        "max_value": 4
+      },
+      {
+        "pack_id": 30001502,
+        "iap_id": "com.nmg.survivalhero.piggy.bank.m",
+        "pack_name": "Gold Piggy (M)",
+        "description": "Challenge stages to store even more gems. Smash the piggy when it's full to claim your hard-earned rewards!",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 4.99
+        },
+        "original_gem": 500,
+        "min_gem": 1000,
+        "max_gem": 2000,
+        "min_value": 2,
+        "max_value": 4
+      },
+      {
+        "pack_id": 30001503,
+        "iap_id": "com.nmg.survivalhero.piggy.bank.l",
+        "pack_name": "Gold Piggy (L)",
+        "description": "Challenge stages to store even more gems. Smash the piggy when it's full to claim your hard-earned rewards!",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 9.99
+        },
+        "original_gem": 1200,
+        "min_gem": 2400,
+        "max_gem": 4800,
+        "min_value": 2,
+        "max_value": 4
+      },
+      {
+        "pack_id": 30001504,
+        "iap_id": "com.nmg.survivalhero.piggy.bank.xl",
+        "pack_name": "Gold Piggy (XL)",
+        "description": "Challenge stages to store even more gems. Smash the piggy when it's full to claim your hard-earned rewards!",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 19.99
+        },
+        "original_gem": 2500,
+        "min_gem": 5000,
+        "max_gem": 10000,
+        "min_value": 2,
+        "max_value": 4
+      }
+    ]
+  },
+  "piggy_bank_rework": {
+    "offer_id": 3000153,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 24,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 2,
+    "items": [
+      {
+        "pack_id": 30001531,
+        "iap_id": "com.nmg.survivalhero.piggy.bank.s.30001531",
+        "pack_name": "Gold Piggy (S)",
+        "description": "Challenge stages to store even more gems. Smash the piggy when it's full to claim your hard-earned rewards!",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 2.99
+        },
+        "original_gem": 240,
+        "min_gem": 480,
+        "max_gem": 1440,
+        "min_value": 2,
+        "max_value": 6
+      },
+      {
+        "pack_id": 30001532,
+        "iap_id": "com.nmg.survivalhero.piggy.bank.m.30001532",
+        "pack_name": "Gold Piggy (M)",
+        "description": "Challenge stages to store even more gems. Smash the piggy when it's full to claim your hard-earned rewards!",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 4.99
+        },
+        "original_gem": 500,
+        "min_gem": 1000,
+        "max_gem": 3000,
+        "min_value": 2,
+        "max_value": 6
+      },
+      {
+        "pack_id": 30001533,
+        "iap_id": "com.nmg.survivalhero.piggy.bank.l.30001533",
+        "pack_name": "Gold Piggy (L)",
+        "description": "Challenge stages to store even more gems. Smash the piggy when it's full to claim your hard-earned rewards!",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 9.99
+        },
+        "original_gem": 1200,
+        "min_gem": 2400,
+        "max_gem": 7200,
+        "min_value": 2,
+        "max_value": 6
+      },
+      {
+        "pack_id": 30001534,
+        "iap_id": "com.nmg.survivalhero.piggy.bank.xl.30001534",
+        "pack_name": "Gold Piggy (XL)",
+        "description": "Challenge stages to store even more gems. Smash the piggy when it's full to claim your hard-earned rewards!",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 19.99
+        },
+        "original_gem": 2500,
+        "min_gem": 5000,
+        "max_gem": 15000,
+        "min_value": 2,
+        "max_value": 6
+      }
+    ]
+  },
+  "daily_discount": {
+    "offer_id": 3000160,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": null,
+    "offer_special_condition": 1,
+    "offer_special_condition_value": 3,
+    "items": [
+      {
+        "pack_id": 30001601,
+        "iap_id": "",
+        "type": "Daily",
+        "refresh_time": 24,
+        "price": {
+          "_id": "643d0dbdfafdf624af6fcd71",
+          "price_type": "Ads",
+          "value": 0
+        },
+        "value": null,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 10
+          },
+          {
+            "content": "Design",
+            "item_id": 2400001,
+            "item_name": "Random Scroll",
+            "item_type": "All",
+            "item_description": "Random Scroll",
+            "item_current_rarity": 1,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 2
+          },
+          {
+            "content": "Gold",
+            "item_id": 2400003,
+            "item_name": "Gold",
+            "item_type": "Gold",
+            "item_description": "Gold",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 4000
+          }
+        ]
+      },
+      {
+        "pack_id": 30001602,
+        "iap_id": "com.nmg.survivalhero.daily.pack.1",
+        "type": "Daily",
+        "refresh_time": 24,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 0.39
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Key",
+            "item_id": 2400006,
+            "item_name": "Gold Key",
+            "item_type": "Key",
+            "item_description": "Opens Executive Supply Crate",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": true,
+            "value": 1
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 10
+          },
+          {
+            "content": "PatrolGold",
+            "item_id": 2400016,
+            "item_name": "Patrol Gold",
+            "item_type": "PatrolGold",
+            "item_description": "Gain 1h of Patrol Gold",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "pack_id": 30001603,
+        "iap_id": "com.nmg.survivalhero.daily.pack.2",
+        "type": "Daily",
+        "refresh_time": 24,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 0.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 80
+          },
+          {
+            "content": "Design",
+            "item_id": 2400001,
+            "item_name": "Random Scroll",
+            "item_type": "All",
+            "item_description": "Random Scroll",
+            "item_current_rarity": 1,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 12
+          },
+          {
+            "content": "Gold",
+            "item_id": 2400003,
+            "item_name": "Gold",
+            "item_type": "Gold",
+            "item_description": "Gold",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 72000
+          }
+        ]
+      },
+      {
+        "pack_id": 30001604,
+        "iap_id": "com.nmg.survivalhero.daily.pack.3",
+        "type": "Daily",
+        "refresh_time": 24,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 7.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 1200
+          },
+          {
+            "content": "Design",
+            "item_id": 2400001,
+            "item_name": "Random Scroll",
+            "item_type": "All",
+            "item_description": "Random Scroll",
+            "item_current_rarity": 1,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 100
+          },
+          {
+            "content": "PatrolGold",
+            "item_id": 2400016,
+            "item_name": "Patrol Gold",
+            "item_type": "PatrolGold",
+            "item_description": "Gain 1h of Patrol Gold",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 25
+          }
+        ]
+      },
+      {
+        "pack_id": 30001605,
+        "iap_id": "",
+        "type": "Weekly",
+        "refresh_time": 7,
+        "price": {
+          "_id": "643d0dbdfafdf624af6fcd71",
+          "price_type": "Ads",
+          "value": 0
+        },
+        "value": null,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 50
+          },
+          {
+            "content": "Key",
+            "item_id": 2400005,
+            "item_name": "Silver Key",
+            "item_type": "Key",
+            "item_description": "Opens Officer Crate",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "display_in_bag": true,
+            "value": 1
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": true,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "pack_id": 30001606,
+        "iap_id": "com.nmg.survivalhero.weekly.pack.1",
+        "type": "Weekly",
+        "refresh_time": 7,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 1.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 160
+          },
+          {
+            "content": "Gold",
+            "item_id": 2400003,
+            "item_name": "Gold",
+            "item_type": "Gold",
+            "item_description": "Gold",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 2000
+          },
+          {
+            "content": "Key",
+            "item_id": 2400006,
+            "item_name": "Gold Key",
+            "item_type": "Key",
+            "item_description": "Opens Executive Supply Crate",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": true,
+            "value": 2
+          }
+        ]
+      },
+      {
+        "pack_id": 30001607,
+        "iap_id": "com.nmg.survivalhero.weekly.pack.2",
+        "type": "Weekly",
+        "refresh_time": 7,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 3.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 500
+          },
+          {
+            "content": "Gold",
+            "item_id": 2400003,
+            "item_name": "Gold",
+            "item_type": "Gold",
+            "item_description": "Gold",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 10000
+          },
+          {
+            "content": "Key",
+            "item_id": 2400006,
+            "item_name": "Gold Key",
+            "item_type": "Key",
+            "item_description": "Opens Executive Supply Crate",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": true,
+            "value": 5
+          }
+        ]
+      },
+      {
+        "pack_id": 30001608,
+        "iap_id": "com.nmg.survivalhero.weekly.pack.3",
+        "type": "Weekly",
+        "refresh_time": 7,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 7.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 500
+          },
+          {
+            "content": "Key",
+            "item_id": 2400006,
+            "item_name": "Gold Key",
+            "item_type": "Key",
+            "item_description": "Opens Executive Supply Crate",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": true,
+            "value": 10
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": true,
+            "value": 10
+          }
+        ]
+      },
+      {
+        "pack_id": 30001609,
+        "iap_id": "com.nmg.survivalhero.weekly.pack.4",
+        "type": "Weekly",
+        "refresh_time": 7,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 14.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 1000
+          },
+          {
+            "content": "Key",
+            "item_id": 2400006,
+            "item_name": "Gold Key",
+            "item_type": "Key",
+            "item_description": "Opens Executive Supply Crate",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": true,
+            "value": 20
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": true,
+            "value": 20
+          }
+        ]
+      },
+      {
+        "pack_id": 30001610,
+        "iap_id": "",
+        "type": "Monthly",
+        "refresh_time": 30,
+        "price": {
+          "_id": "643d0dbdfafdf624af6fcd71",
+          "price_type": "Ads",
+          "value": 0
+        },
+        "value": null,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 100
+          },
+          {
+            "content": "Design",
+            "item_id": 2400001,
+            "item_name": "Random Scroll",
+            "item_type": "All",
+            "item_description": "Random Scroll",
+            "item_current_rarity": 1,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 10
+          },
+          {
+            "content": "Key",
+            "item_id": 2400006,
+            "item_name": "Gold Key",
+            "item_type": "Key",
+            "item_description": "Opens Executive Supply Crate",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": true,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "pack_id": 30001611,
+        "iap_id": "com.nmg.survivalhero.monthly.pack.1",
+        "type": "Monthly",
+        "refresh_time": 30,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 7.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 1200
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 400
+          },
+          {
+            "content": "Equipment",
+            "item_id": 2400025,
+            "item_name": "Excellent Equipment Chest",
+            "item_type": "All",
+            "item_description": "Get 1 random Excellent Equipment (excluding S grade)",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "pack_id": 30001612,
+        "iap_id": "com.nmg.survivalhero.monthly.pack.2",
+        "type": "Monthly",
+        "refresh_time": 30,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 14.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 5000
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 2500
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": true,
+            "value": 30
+          }
+        ]
+      },
+      {
+        "pack_id": 30001613,
+        "iap_id": "com.nmg.survivalhero.monthly.pack.3",
+        "type": "Monthly",
+        "refresh_time": 30,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 29.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Equipment",
+            "item_id": 2400026,
+            "item_name": "Epic Equipment Chest",
+            "item_type": "All",
+            "item_description": "Get 1 random Epic Equipment (excluding S grade)",
+            "item_current_rarity": 7,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 1
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 3900
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": false,
+            "value": 1300
+          }
+        ]
+      }
+    ],
+    "total_day_purchased_reward": {
+      "milestone": [
+        {
+          "task_name": 1,
+          "condition_value": 1,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 80
+            }
+          ]
+        },
+        {
+          "task_name": 2,
+          "condition_value": 2,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 80
+            }
+          ]
+        },
+        {
+          "task_name": 4,
+          "condition_value": 4,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 150
+            }
+          ]
+        },
+        {
+          "task_name": 6,
+          "condition_value": 6,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 150
+            }
+          ]
+        },
+        {
+          "task_name": 8,
+          "condition_value": 8,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "task_name": 10,
+          "condition_value": 10,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 200
+            }
+          ]
+        },
+        {
+          "task_name": 12,
+          "condition_value": 12,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 300
+            }
+          ]
+        },
+        {
+          "task_name": 14,
+          "condition_value": 14,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2150005,
+              "item_name": "Immortal Boots",
+              "item_type": "Shoes",
+              "item_description": "Scorching earth beneath your feet",
+              "item_current_rarity": 4,
+              "is_supper": true,
+              "item_super": true,
+              "display_in_bag": false,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "daily_discount_rework": {
+    "offer_id": 3000162,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": null,
+    "offer_special_condition": 1,
+    "offer_special_condition_value": 3,
+    "items": [
+      {
+        "pack_id": 30001621,
+        "iap_id": "",
+        "type": "Daily",
+        "refresh_time": 24,
+        "price": {
+          "_id": "643d0dbdfafdf624af6fcd71",
+          "price_type": "Ads",
+          "value": 0
+        },
+        "value": null,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 10
+          },
+          {
+            "content": "Design",
+            "item_id": 2400001,
+            "item_name": "Random Scroll",
+            "item_type": "All",
+            "item_description": "Random Scroll",
+            "item_current_rarity": 1,
+            "display_in_bag": false,
+            "value": 2
+          },
+          {
+            "content": "PatrolGold",
+            "item_id": 2400016,
+            "item_name": "Patrol Gold",
+            "item_type": "PatrolGold",
+            "item_description": "Gain 1h of Patrol Gold",
+            "item_current_rarity": 3,
+            "display_in_bag": false,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "pack_id": 30001622,
+        "iap_id": "com.nmg.survivalhero.daily.pack.1.30001622",
+        "type": "Daily",
+        "refresh_time": 24,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 0.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 80
+          },
+          {
+            "content": "Design",
+            "item_id": 2400001,
+            "item_name": "Random Scroll",
+            "item_type": "All",
+            "item_description": "Random Scroll",
+            "item_current_rarity": 1,
+            "display_in_bag": false,
+            "value": 12
+          },
+          {
+            "content": "PatrolGold",
+            "item_id": 2400016,
+            "item_name": "Patrol Gold",
+            "item_type": "PatrolGold",
+            "item_description": "Gain 1h of Patrol Gold",
+            "item_current_rarity": 3,
+            "display_in_bag": false,
+            "value": 5
+          }
+        ]
+      },
+      {
+        "pack_id": 30001623,
+        "iap_id": "com.nmg.survivalhero.daily.pack.2.30001623",
+        "type": "Daily",
+        "refresh_time": 24,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 1.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Gadget",
+            "item_id": 2161001,
+            "item_name": "Good Random Gadget",
+            "item_type": "All",
+            "item_description": "Good Random Gadget",
+            "item_current_rarity": 2,
+            "display_in_bag": false,
+            "value": 3
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 160
+          },
+          {
+            "content": "PatrolGold",
+            "item_id": 2400016,
+            "item_name": "Patrol Gold",
+            "item_type": "PatrolGold",
+            "item_description": "Gain 1h of Patrol Gold",
+            "item_current_rarity": 3,
+            "display_in_bag": false,
+            "value": 5
+          }
+        ]
+      },
+      {
+        "pack_id": 30001624,
+        "iap_id": "com.nmg.survivalhero.daily.pack.3.30001624",
+        "type": "Daily",
+        "refresh_time": 24,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 4.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 400
+          },
+          {
+            "content": "Design",
+            "item_id": 2400001,
+            "item_name": "Random Scroll",
+            "item_type": "All",
+            "item_description": "Random Scroll",
+            "item_current_rarity": 1,
+            "display_in_bag": false,
+            "value": 50
+          },
+          {
+            "content": "PatrolGold",
+            "item_id": 2400016,
+            "item_name": "Patrol Gold",
+            "item_type": "PatrolGold",
+            "item_description": "Gain 1h of Patrol Gold",
+            "item_current_rarity": 3,
+            "display_in_bag": false,
+            "value": 10
+          }
+        ]
+      },
+      {
+        "pack_id": 30001625,
+        "iap_id": "com.nmg.survivalhero.daily.pack.4.30001625",
+        "type": "Daily",
+        "refresh_time": 24,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 9.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 1200
+          },
+          {
+            "content": "Design",
+            "item_id": 2400001,
+            "item_name": "Random Scroll",
+            "item_type": "All",
+            "item_description": "Random Scroll",
+            "item_current_rarity": 1,
+            "display_in_bag": false,
+            "value": 100
+          },
+          {
+            "content": "PatrolGold",
+            "item_id": 2400016,
+            "item_name": "Patrol Gold",
+            "item_type": "PatrolGold",
+            "item_description": "Gain 1h of Patrol Gold",
+            "item_current_rarity": 3,
+            "display_in_bag": false,
+            "value": 25
+          }
+        ]
+      },
+      {
+        "pack_id": 30001626,
+        "iap_id": "com.nmg.survivalhero.daily.pack.5.30001626",
+        "type": "Daily",
+        "refresh_time": 24,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 19.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Equipment",
+            "item_id": 2400019,
+            "item_name": "Excellent Weapon Chest",
+            "item_type": "All",
+            "item_description": "Get 1 random Excellent Weapon (excluding S Grade)",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 1
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 2500
+          },
+          {
+            "content": "Design",
+            "item_id": 2400001,
+            "item_name": "Random Scroll",
+            "item_type": "All",
+            "item_description": "Random Scroll",
+            "item_current_rarity": 1,
+            "display_in_bag": false,
+            "value": 200
+          }
+        ]
+      },
+      {
+        "pack_id": 30001627,
+        "iap_id": "",
+        "type": "Weekly",
+        "refresh_time": 7,
+        "price": {
+          "_id": "643d0dbdfafdf624af6fcd71",
+          "price_type": "Ads",
+          "value": 0
+        },
+        "value": null,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 50
+          },
+          {
+            "content": "Key",
+            "item_id": 2400005,
+            "item_name": "Silver Key",
+            "item_type": "Key",
+            "item_description": "Opens Officer Crate",
+            "item_current_rarity": 3,
+            "display_in_bag": true,
+            "value": 1
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "display_in_bag": true,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "pack_id": 30001628,
+        "iap_id": "com.nmg.survivalhero.weekly.pack.1.30001628",
+        "type": "Weekly",
+        "refresh_time": 7,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 9.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Equipment",
+            "item_id": 2400025,
+            "item_name": "Excellent Equipment Chest",
+            "item_type": "All",
+            "item_description": "Get 1 random Excellent Equipment (excluding S grade)",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 1
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 1500
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "display_in_bag": true,
+            "value": 10
+          }
+        ]
+      },
+      {
+        "pack_id": 30001629,
+        "iap_id": "com.nmg.survivalhero.weekly.pack.2.30001629",
+        "type": "Weekly",
+        "refresh_time": 7,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 9.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Gadget",
+            "item_id": 2161003,
+            "item_name": "Excellent Random Gadget",
+            "item_description": "Excellent Random Gadget",
+            "item_type": "All",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 2
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 500
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "display_in_bag": true,
+            "value": 10
+          }
+        ]
+      },
+      {
+        "pack_id": 30001630,
+        "iap_id": "com.nmg.survivalhero.weekly.pack.3.30001630",
+        "type": "Weekly",
+        "refresh_time": 7,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 19.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Equipment",
+            "item_id": 2400025,
+            "item_name": "Excellent Equipment Chest",
+            "item_type": "All",
+            "item_description": "Get 1 random Excellent Equipment (excluding S grade)",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 2
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 3000
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "display_in_bag": true,
+            "value": 20
+          }
+        ]
+      },
+      {
+        "pack_id": 30001631,
+        "iap_id": "com.nmg.survivalhero.weekly.pack.4.30001631",
+        "type": "Weekly",
+        "refresh_time": 7,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 19.99
+        },
+        "value": 400,
+        "item_list": [
+          {
+            "content": "Gadget",
+            "item_id": 2161003,
+            "item_name": "Excellent Random Gadget",
+            "item_description": "Excellent Random Gadget",
+            "item_type": "All",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 4
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 1000
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "display_in_bag": true,
+            "value": 20
+          }
+        ]
+      },
+      {
+        "pack_id": 30001632,
+        "iap_id": "",
+        "type": "Monthly",
+        "refresh_time": 30,
+        "price": {
+          "_id": "643d0dbdfafdf624af6fcd71",
+          "price_type": "Ads",
+          "value": 0
+        },
+        "value": null,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 100
+          },
+          {
+            "content": "Key",
+            "item_id": 2400006,
+            "item_name": "Gold Key",
+            "item_type": "Key",
+            "item_description": "Opens Executive Supply Crate",
+            "item_current_rarity": 4,
+            "display_in_bag": true,
+            "value": 1
+          },
+          {
+            "content": "Gadget",
+            "item_id": 2161002,
+            "item_name": "Better Random Gadget",
+            "item_description": "Better Random Gadget",
+            "item_type": "All",
+            "item_current_rarity": 3,
+            "display_in_bag": false,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "pack_id": 30001633,
+        "iap_id": "com.nmg.survivalhero.monthly.pack.1.30001633",
+        "type": "Monthly",
+        "refresh_time": 30,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 9.99
+        },
+        "value": 600,
+        "item_list": [
+          {
+            "content": "Gadget",
+            "item_id": 2161003,
+            "item_name": "Excellent Random Gadget",
+            "item_description": "Excellent Random Gadget",
+            "item_type": "All",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 3
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 2500
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "display_in_bag": true,
+            "value": 15
+          }
+        ]
+      },
+      {
+        "pack_id": 30001634,
+        "iap_id": "com.nmg.survivalhero.monthly.pack.1.30001634",
+        "type": "Monthly",
+        "refresh_time": 30,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 19.99
+        },
+        "value": 600,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 5000
+          },
+          {
+            "content": "Equipment",
+            "item_id": 2400019,
+            "item_name": "Excellent Weapon Chest",
+            "item_type": "All",
+            "item_description": "Get 1 random Excellent Weapon (excluding S Grade)",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 1
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "display_in_bag": true,
+            "value": 30
+          }
+        ]
+      },
+      {
+        "pack_id": 30001635,
+        "iap_id": "com.nmg.survivalhero.monthly.pack.1.30001635",
+        "type": "Monthly",
+        "refresh_time": 30,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 29.99
+        },
+        "value": 600,
+        "item_list": [
+          {
+            "content": "Equipment",
+            "item_id": 2400039,
+            "item_name": "Epic Weapon Chest",
+            "item_type": "All",
+            "item_description": "Get 1 random Epic Weapon (excluding S Grade)",
+            "item_current_rarity": 7,
+            "display_in_bag": false,
+            "value": 1
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 3900
+          },
+          {
+            "content": "Key",
+            "item_id": 2400008,
+            "item_name": "S key",
+            "item_type": "Key",
+            "item_description": "Opens S Supply Crate",
+            "item_current_rarity": 7,
+            "display_in_bag": true,
+            "value": 20
+          }
+        ]
+      },
+      {
+        "pack_id": 30001636,
+        "iap_id": "com.nmg.survivalhero.monthly.pack.1.30001636",
+        "type": "Monthly",
+        "refresh_time": 30,
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 29.99
+        },
+        "value": 600,
+        "item_list": [
+          {
+            "content": "Equipment",
+            "item_id": 2400040,
+            "item_name": "Epic Armor Chest",
+            "item_type": "All",
+            "item_description": "Get 1 random Epic Armor (excluding S Grade)",
+            "item_current_rarity": 7,
+            "display_in_bag": false,
+            "value": 1
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "display_in_bag": false,
+            "value": 3900
+          },
+          {
+            "content": "Key",
+            "item_id": 2400008,
+            "item_name": "S key",
+            "item_type": "Key",
+            "item_description": "Opens S Supply Crate",
+            "item_current_rarity": 7,
+            "display_in_bag": true,
+            "value": 20
+          }
+        ]
+      }
+    ],
+    "total_day_purchased_reward": {
+      "milestone": [
+        {
+          "task_name": 1,
+          "condition_value": 1,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Key",
+              "item_id": 2400008,
+              "item_name": "S key",
+              "item_type": "Key",
+              "item_description": "Opens S Supply Crate",
+              "item_current_rarity": 7,
+              "display_in_bag": true,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": 2,
+          "condition_value": 2,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Key",
+              "item_id": 2400008,
+              "item_name": "S key",
+              "item_type": "Key",
+              "item_description": "Opens S Supply Crate",
+              "item_current_rarity": 7,
+              "display_in_bag": true,
+              "value": 2
+            }
+          ]
+        },
+        {
+          "task_name": 4,
+          "condition_value": 4,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Gadget",
+              "item_id": 2161003,
+              "item_name": "Excellent Random Gadget",
+              "item_description": "Excellent Random Gadget",
+              "item_type": "All",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": 7,
+          "condition_value": 7,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Gem",
+              "item_id": 2400002,
+              "item_name": "Gem",
+              "item_type": "Gem",
+              "item_description": "Gem",
+              "item_current_rarity": 4,
+              "is_supper": false,
+              "display_in_bag": false,
+              "value": 800
+            }
+          ]
+        },
+        {
+          "task_name": 10,
+          "condition_value": 10,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2400019,
+              "item_name": "Excellent Weapon Chest",
+              "item_type": "All",
+              "item_description": "Get 1 random Excellent Weapon (excluding S Grade)",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": 13,
+          "condition_value": 13,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Gadget",
+              "item_id": 2161003,
+              "item_name": "Excellent Random Gadget",
+              "item_description": "Excellent Random Gadget",
+              "item_type": "All",
+              "item_current_rarity": 4,
+              "display_in_bag": false,
+              "value": 2
+            }
+          ]
+        },
+        {
+          "task_name": 16,
+          "condition_value": 16,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Key",
+              "item_id": 2400008,
+              "item_name": "S key",
+              "item_type": "Key",
+              "item_description": "Opens S Supply Crate",
+              "item_current_rarity": 7,
+              "display_in_bag": true,
+              "value": 5
+            }
+          ]
+        },
+        {
+          "task_name": 20,
+          "condition_value": 20,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 2130002,
+              "item_name": "Immortal Suit",
+              "item_type": "Armor",
+              "item_description": "Mysterious technology of a higher life form.",
+              "item_current_rarity": 4,
+              "is_supper": true,
+              "item_super": true,
+              "display_in_bag": false,
+              "value": 1
+            }
+          ]
+        },
+        {
+          "task_name": 24,
+          "condition_value": 24,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Key",
+              "item_id": 2400008,
+              "item_name": "S key",
+              "item_type": "Key",
+              "item_description": "Opens S Supply Crate",
+              "item_current_rarity": 7,
+              "display_in_bag": true,
+              "value": 10
+            }
+          ]
+        },
+        {
+          "task_name": 28,
+          "condition_value": 28,
+          "status": 0,
+          "show_item_icon": false,
+          "item_list": [
+            {
+              "content": "Equipment",
+              "item_id": 1110010,
+              "item_name": "Black Hole Cannon",
+              "item_type": "Weapon",
+              "item_description": "The end of everything.",
+              "item_current_rarity": 4,
+              "is_supper": true,
+              "item_super": true,
+              "display_in_bag": false,
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "value_combat_care": {
+    "offer_id": 3000170,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 12,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 6,
+    "items": [
+      {
+        "pack_id": 3000173,
+        "iap_id": "com.nmg.survivalhero.value.combat.pack.small.3000170",
+        "pack_name": "Value Combat Care Pack",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 0.99
+        },
+        "item_list": [
+          {
+            "content": "Design",
+            "item_id": 2400009,
+            "item_name": "Weapon Design",
+            "item_type": "Weapon",
+            "item_description": "Used to level up weapons",
+            "item_current_rarity": 1,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 30
+          },
+          {
+            "content": "PatrolGold",
+            "item_id": 2400016,
+            "item_name": "Patrol Gold",
+            "item_type": "PatrolGold",
+            "item_description": "Gain 1h of Patrol Gold",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 10
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 1
+          }
+        ]
+      },
+      {
+        "pack_id": 3000171,
+        "iap_id": "com.nmg.survivalhero.value.combat.pack.medium.3000171",
+        "pack_name": "Value Combat Care Pack",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 4.99
+        },
+        "item_list": [
+          {
+            "content": "Material",
+            "item_id": 2400027,
+            "item_name": "Excellent Weapon Material",
+            "item_type": "Weapon",
+            "item_description": "Used to merge Weapon",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 1
+          },
+          {
+            "content": "Key",
+            "item_id": 2400006,
+            "item_name": "Gold Key",
+            "item_type": "Key",
+            "item_description": "Opens Executive Supply Crate",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 3
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 3
+          }
+        ]
+      },
+      {
+        "pack_id": 3000172,
+        "iap_id": "com.nmg.survivalhero.value.combat.pack.big.3000172",
+        "pack_name": "Value Combat Care Pack",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 4.99
+        },
+        "item_list": [
+          {
+            "content": "Material",
+            "item_id": 2400027,
+            "item_name": "Excellent Weapon Material",
+            "item_type": "Weapon",
+            "item_description": "Used to merge Weapon",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 2
+          },
+          {
+            "content": "Key",
+            "item_id": 2400006,
+            "item_name": "Gold Key",
+            "item_type": "Key",
+            "item_description": "Opens Executive Supply Crate",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 8
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 10
+          }
+        ]
+      }
+    ]
+  },
+  "value_equipment_quality_up": {
+    "offer_id": 3000180,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 4,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 0,
+    "items": [
+      {
+        "pack_id": 3000183,
+        "iap_id": "com.nmg.survivalhero.excellent.quality.small.3000180",
+        "pack_name": "Value Equipment Quality Up",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 7.99
+        },
+        "item_list": [
+          {
+            "content": "Key",
+            "item_id": 2400006,
+            "item_name": "Gold Key",
+            "item_type": "Key",
+            "item_description": "Opens Executive Supply Crate",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 3
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 5
+          }
+        ]
+      },
+      {
+        "pack_id": 3000181,
+        "iap_id": "com.nmg.survivalhero.excellent.quality.medium.3000181",
+        "pack_name": "Value Equipment Quality Up",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 9.99
+        },
+        "item_list": [
+          {
+            "content": "Key",
+            "item_id": 2400006,
+            "item_name": "Gold Key",
+            "item_type": "Key",
+            "item_description": "Opens Executive Supply Crate",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 8
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 10
+          }
+        ]
+      },
+      {
+        "pack_id": 3000182,
+        "iap_id": "com.nmg.survivalhero.epic.quality.3000182",
+        "pack_name": "Value Equipment Quality Up",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 19.99
+        },
+        "item_list": [
+          {
+            "content": "Key",
+            "item_id": 2400006,
+            "item_name": "Gold Key",
+            "item_type": "Key",
+            "item_description": "Opens Executive Supply Crate",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 20
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 20
+          }
+        ]
+      }
+    ]
+  },
+  "value_adventure": {
+    "offer_id": 3000190,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 24,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 20,
+    "items": [
+      {
+        "pack_id": 3000190,
+        "iap_id": "com.nmg.survivalhero.value.adventure.pack",
+        "pack_name": "Value Adventure",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 4.99
+        },
+        "item_list": [
+          {
+            "content": "Key",
+            "item_id": 2400006,
+            "item_name": "Gold Key",
+            "item_type": "Key",
+            "item_description": "Opens Executive Supply Crate",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 10
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 1
+          },
+          {
+            "content": "Gold",
+            "item_id": 2400003,
+            "item_name": "Gold",
+            "item_type": "Gold",
+            "item_description": "Gold",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 10000
+          }
+        ]
+      }
+    ]
+  },
+  "blue_revolver": {
+    "offer_id": 3000215,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 12,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 2,
+    "items": [
+      {
+        "pack_id": 3000215,
+        "iap_id": "com.nmg.survivalhero.pack.blue.revolver",
+        "pack_name": "Blue Revolver",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 0.99
+        },
+        "item_list": [
+          {
+            "content": "Equipment",
+            "item_id": 1110000,
+            "item_name": "Revolver",
+            "item_type": "Weapon",
+            "item_description": "Sheriff's favourite weapon.",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 1
+          },
+          {
+            "content": "Design",
+            "item_id": 2400009,
+            "item_name": "Weapon Design",
+            "item_type": "Weapon",
+            "item_description": "Used to level up weapons",
+            "item_current_rarity": 1,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 10
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": true,
+            "value": 2
+          }
+        ]
+      }
+    ]
+  },
+  "purple_gauntlet": {
+    "offer_id": 3000216,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 12,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 6,
+    "items": [
+      {
+        "pack_id": 3000216,
+        "iap_id": "com.nmg.survivalhero.pack.purple.gauntlet",
+        "pack_name": "Purple Gauntlet",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 0.99
+        },
+        "item_list": [
+          {
+            "content": "Equipment",
+            "item_id": 2120002,
+            "item_name": "Mechanist Wristguard",
+            "item_type": "Gloves",
+            "item_description": "It packs quite a punch!",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 1
+          },
+          {
+            "content": "Design",
+            "item_id": 2400013,
+            "item_name": "Gloves Design",
+            "item_type": "Gloves",
+            "item_description": "Used to level up gloves",
+            "item_current_rarity": 1,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 20
+          },
+          {
+            "content": "Gold",
+            "item_id": 2400003,
+            "item_name": "Gold",
+            "item_type": "Gold",
+            "item_description": "Gold",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 20000
+          }
+        ]
+      }
+    ]
+  },
+  "out_of_gold": {
+    "offer_id": 3000217,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 2,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 6,
+    "items": [
+      {
+        "pack_id": 3000217,
+        "iap_id": "com.nmg.survivalhero.pack.outofgold",
+        "pack_name": "Out Of Gold",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 0.99
+        },
+        "discount_value": 625,
+        "item_list": [
+          {
+            "content": "PatrolGold",
+            "item_id": 2400016,
+            "item_name": "Patrol Gold",
+            "item_type": "PatrolGold",
+            "item_description": "Gain 1h of Patrol Gold",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 10
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 350
+          }
+        ]
+      }
+    ]
+  },
+  "need_more_upgrade": {
+    "offer_id": 3000218,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 2,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 6,
+    "items": [
+      {
+        "pack_id": 3000218,
+        "iap_id": "com.nmg.survivalhero.pack.needmoreupgrade",
+        "pack_name": "Need More Upgrade",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 0.99
+        },
+        "discount_value": 685,
+        "item_list": [
+          {
+            "content": "PatrolGold",
+            "item_id": 2400016,
+            "item_name": "Patrol Gold",
+            "item_type": "PatrolGold",
+            "item_description": "Gain 1h of Patrol Gold",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 10
+          },
+          {
+            "content": "Design",
+            "item_id": 2400001,
+            "item_name": "Random Scroll",
+            "item_type": "All",
+            "item_description": "Random Scroll",
+            "item_current_rarity": 1,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 50
+          }
+        ]
+      }
+    ]
+  },
+  "kick_start_299": {
+    "offer_id": 3000219,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 2,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 6,
+    "items": [
+      {
+        "pack_id": 3000219,
+        "iap_id": "com.nmg.survivalhero.kickstart.pack.299.3000219",
+        "pack_name": "Kick-Start Pack",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 2.99
+        },
+        "discount_value": 900,
+        "item_list": [
+          {
+            "content": "Key",
+            "item_id": 2400008,
+            "item_name": "S key",
+            "item_type": "Key",
+            "item_description": "Opens S Supply Crate",
+            "item_current_rarity": 7,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 4
+          },
+          {
+            "content": "Design",
+            "item_id": 2400001,
+            "item_name": "Random Scroll",
+            "item_type": "All",
+            "item_description": "Random Scroll",
+            "item_current_rarity": 1,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 50
+          },
+          {
+            "content": "PatrolGold",
+            "item_id": 2400016,
+            "item_name": "Patrol Gold",
+            "item_type": "PatrolGold",
+            "item_description": "Gain 1h of Patrol Gold",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 10
+          },
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 3
+          }
+        ]
+      }
+    ]
+  },
+  "kick_start_499": {
+    "offer_id": 3000220,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 2,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 6,
+    "items": [
+      {
+        "pack_id": 3000220,
+        "iap_id": "com.nmg.survivalhero.kickstart.pack.499.3000220",
+        "pack_name": "Kick-Start Pack",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 4.99
+        },
+        "item_list": [
+          {
+            "content": "Equipment",
+            "item_id": 1110000,
+            "item_name": "Revolver",
+            "item_type": "Weapon",
+            "item_description": "Sheriff's favourite weapon.",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 1
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 600
+          },
+          {
+            "content": "Key",
+            "item_id": 2400008,
+            "item_name": "S key",
+            "item_type": "Key",
+            "item_description": "Opens S Supply Crate",
+            "item_current_rarity": 7,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 6
+          }
+        ]
+      }
+    ]
+  },
+  "kick_start_shop": {
+    "offer_id": 3000221,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 2,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 6,
+    "items": [
+      {
+        "pack_id": 3000221,
+        "iap_id": "com.nmg.survivalhero.kickstart.shop.3000221",
+        "pack_name": "Kick-Start Pack",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "original_price": 19.99,
+          "discounted_price": 2.99,
+          "value": 2.99
+        },
+        "discount_value": 650,
+        "item_list": [
+          {
+            "content": "Equipment",
+            "item_id": 1110000,
+            "item_name": "Revolver",
+            "item_type": "Weapon",
+            "item_description": "Sheriff's favourite weapon.",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 1
+          },
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 300
+          },
+          {
+            "content": "Gold",
+            "item_id": 2400003,
+            "item_name": "Gold",
+            "item_type": "Gold",
+            "item_description": "Gold",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 20000
+          },
+          {
+            "content": "Key",
+            "item_id": 2400008,
+            "item_name": "S key",
+            "item_type": "Key",
+            "item_description": "Opens S Supply Crate",
+            "item_current_rarity": 7,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 3
+          }
+        ]
+      }
+    ]
+  },
+  "survivor_pack": {
+    "offer_id": 300000656,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 2,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 6,
+    "items": [
+      {
+        "pack_id": 300000656,
+        "iap_id": "com.nmg.survivalhero.pack.survivor.300000656",
+        "pack_name": "Survivor Pack",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 3.99
+        },
+        "discount_value": 700,
+        "item_list": [
+          {
+            "content": "Gem",
+            "item_id": 2400002,
+            "item_name": "Gem",
+            "item_type": "Gem",
+            "item_description": "Gem",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": false,
+            "value": 500
+          },
+          {
+            "content": "Key",
+            "item_id": 2400005,
+            "item_name": "Silver Key",
+            "item_type": "Key",
+            "item_description": "Opens Officer Crate",
+            "item_current_rarity": 3,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 6
+          },
+          {
+            "content": "Key",
+            "item_id": 2400006,
+            "item_name": "Gold Key",
+            "item_type": "Key",
+            "item_description": "Opens Executive Supply Crate",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "item_super": false,
+            "display_in_bag": true,
+            "value": 6
+          }
+        ]
+      }
+    ]
+  },
+  "undoubtedly_need_pack": {
+    "offer_id": 300000657,
+    "offer_start_condition": 0,
+    "offer_start_condition_value": null,
+    "offer_expiry_value": 2,
+    "offer_special_condition": 3,
+    "offer_special_condition_value": 6,
+    "items": [
+      {
+        "pack_id": 300000657,
+        "iap_id": "com.nmg.survivalhero.pack.undoubtedly.300000657",
+        "pack_name": "You will undoubtedly need this!",
+        "price": {
+          "_id": "643caeb88ed2f3482faaef48",
+          "price_type": "IAP",
+          "value": 2.99
+        },
+        "discount_value": 600,
+        "item_list": [
+          {
+            "content": "ReviveToken",
+            "item_id": 2400007,
+            "item_name": "Revive Token",
+            "item_type": "ReviveToken",
+            "item_description": "Miracle token that revives people",
+            "item_current_rarity": 4,
+            "is_supper": false,
+            "display_in_bag": true,
+            "value": 2
+          }
+        ]
+      }
+    ]
+  }
+}
