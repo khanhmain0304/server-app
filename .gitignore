@@ -83,7 +83,6 @@ keys/strong-rider-341416-d050a74dfad6.json
 k8s
 
 # Database config
-config/database.js
 
 .npmignore
 .npmrc
