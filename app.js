@@ -87,6 +87,6 @@ app.use(function (err, req, res, next) {
 setLimitSchedule.start();
 setBuffDailyChallenge.start();
 
-initGameConfigRedis();
+// initGameConfigRedis();
 
 module.exports = app;

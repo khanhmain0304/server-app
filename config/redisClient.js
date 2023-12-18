@@ -317,9 +317,9 @@ let redisGetMultiGameConfig = async (configs) => {
   return result;
 };
 
-let redisSetMultiGameConfig = async (objectConfig) => {
-  await redis.mset(objectConfig);
-};
+// let redisSetMultiGameConfig = async (objectConfig) => {
+//   await redis.mset(objectConfig);
+// };
 
 let redisSetTrackingCommonColumns = async (user_id, objectCommon) => {
   const key = TRACKING_COMMON + user_id;
@@ -543,7 +543,7 @@ module.exports = {
   redisGetGameConfig,
   redisSetGameConfig,
   redisGetMultiGameConfig,
-  redisSetMultiGameConfig,
+  // redisSetMultiGameConfig,
   redisRemoveUserEventRecords,
   redisSetMaxUserAndEventRecord,
   redisSetTrackingCommonColumns,

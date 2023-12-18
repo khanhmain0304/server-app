@@ -19,7 +19,7 @@ const initGameConfigRedis = async () => {
     const key = GAME_CONFIG + game_config.name + "_" + game_config.version;
     objectConfig[key] = JSON.stringify({ ...game_config.getInfo() });
   }
-  await redisSetMultiGameConfig(objectConfig);
+  // await redisSetMultiGameConfig(objectConfig);
 };
 
 const addGameConfig = async (req, res, next) => {

@@ -46,8 +46,8 @@ const Message = {
   NFT_NOT_FOUND: "NFT not found",
 
   // Item
-  ITEM_REQUIRE: "Name, image are required!",
-  ITEM_EXISTED: "Item Already Exist. Please Login",
+  ITEM_REQUIRE: "Item fields are required!",
+  ITEM_EXISTED: "Item Already Exist",
   CREATE_ITEM_FAIL: "Can't create item!",
   ITEM_NOT_FOUND: "Item not found!",
 
