@@ -1,3 +1,4 @@
+const mongoose = require("mongoose");
 const HTTP_STATUS_CODE = require("../config/http_status_code");
 const ERROR_CODE = require("../config/error_code");
 const User = require("../models/user");
@@ -31,7 +32,7 @@ const getAllProduct = async (req, res, next) => {
       sort.sortBy = sortOrder === "desc" ? -1 : 1;
     }
 
-    const products = await CategoryProduct.find(conditions).populate({ path: "category", model: "Category" }).populate({ path: "product", model: "Product" }).exec();
+    // const products = await CategoryProduct.find(conditions).populate({ path: "category", model: "Category" }).populate({ path: "product", model: "Product" }).exec();
     // .sort(sort)
     // .skip((page - 1) * pageSize)
     // .limit(pageSize);
@@ -39,6 +40,46 @@ const getAllProduct = async (req, res, next) => {
     // const mappedProducts = products.map((item) => {
     //   return { ...item.product.getInfo() };
     // });
+
+    // $lookup từ Product sang CategoryProduct, sau đó $lookup từ CategoryProduct sang Category
+    const products = await Product.aggregate([
+      {
+        $lookup: {
+          from: "categoryproducts", // Model CategoryProduct => categoryproducts
+          localField: "_id",
+          foreignField: "product",
+          as: "category_product",
+        },
+      },
+      {
+        $lookup: {
+          from: "categories", // Model Category => categories
+          localField: "category_product.category",
+          foreignField: "_id",
+          as: "category",
+        },
+      },
+      {
+        $unwind: "$category",
+      },
+      {
+        $match: { "category.tag": category },
+      },
+      {
+        $project: {
+          _id: 1,
+          name: 1,
+          description: 1,
+          price: 1,
+          inventory_quantity: 1,
+          imageUrl: 1,
+          is_deleted: 1,
+          createdAt: 1,
+          updatedAt: 1,
+          category: "$category",
+        },
+      },
+    ]);
 
     return new SuccessResponse(res, HTTP_STATUS_CODE.OK, ERROR_CODE.NONE, {
       products,
