@@ -84,8 +84,8 @@ app.use(function (err, req, res, next) {
   }
 });
 
-setLimitSchedule.start();
-setBuffDailyChallenge.start();
+// setLimitSchedule.start();
+// setBuffDailyChallenge.start();
 
 // initGameConfigRedis();
 
