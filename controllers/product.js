@@ -17,7 +17,11 @@ const getAllProduct = async (req, res, next) => {
 
     const check_category = await Category.findOne({ tag: category });
     if (check_category) {
-      conditions.category = check_category._id;
+      conditions["category.tag"] = category;
+    }
+
+    if (search) {
+      conditions.name = { $regex: search, $options: "i" };
     }
 
     if (minPrice && maxPrice) {
@@ -29,17 +33,10 @@ const getAllProduct = async (req, res, next) => {
     }
 
     if (sortBy) {
-      sort.sortBy = sortOrder === "desc" ? -1 : 1;
+      sort[sortBy] = sortOrder === "desc" ? -1 : 1;
+    } else {
+      sort.createdAt = -1;
     }
-
-    // const products = await CategoryProduct.find(conditions).populate({ path: "category", model: "Category" }).populate({ path: "product", model: "Product" }).exec();
-    // .sort(sort)
-    // .skip((page - 1) * pageSize)
-    // .limit(pageSize);
-
-    // const mappedProducts = products.map((item) => {
-    //   return { ...item.product.getInfo() };
-    // });
 
     // $lookup từ Product sang CategoryProduct, sau đó $lookup từ CategoryProduct sang Category
     const products = await Product.aggregate([
@@ -63,7 +60,7 @@ const getAllProduct = async (req, res, next) => {
         $unwind: "$category",
       },
       {
-        $match: { "category.tag": category },
+        $match: conditions,
       },
       {
         $project: {
@@ -79,10 +76,28 @@ const getAllProduct = async (req, res, next) => {
           category: "$category",
         },
       },
+      {
+        $sort: sort,
+      },
     ]);
+    // .skip((page - 1) * pageSize)
+    // .limit(pageSize);
 
     return new SuccessResponse(res, HTTP_STATUS_CODE.OK, ERROR_CODE.NONE, {
       products,
+    });
+  } catch (error) {
+    console.log(error);
+    return new ErrorResponse(res, HTTP_STATUS_CODE.INTERNAL_SERVER_ERROR, ERROR_CODE.SERVER_ERROR, Message.SERVER_ERROR);
+  }
+};
+
+const getProductDetail = async (req, res, next) => {
+  try {
+    const product = await Product.findById(req.params.id);
+
+    return new SuccessResponse(res, HTTP_STATUS_CODE.OK, ERROR_CODE.NONE, {
+      product,
     });
   } catch (error) {
     console.log(error);
@@ -129,7 +144,7 @@ const createProduct = async (req, res, next) => {
 
 const updateProduct = async (req, res, next) => {
   try {
-    const { name, description } = req.body;
+    const { name, description, price, inventory_quantity } = req.body;
 
     const product = await Product.findById(req.params.id);
 
@@ -138,7 +153,9 @@ const updateProduct = async (req, res, next) => {
     }
 
     product.name = !name ? product.name : name;
-    product.description = !name ? product.description : description;
+    product.description = !description ? product.description : description;
+    product.price = !price ? product.price : price;
+    product.inventory_quantity = !inventory_quantity ? product.inventory_quantity : inventory_quantity;
 
     await product.save();
 
@@ -170,6 +187,7 @@ const deleteProduct = async (req, res, next) => {
 
 module.exports = {
   getAllProduct,
+  getProductDetail,
   createProduct,
   updateProduct,
   deleteProduct,

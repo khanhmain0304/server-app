@@ -4,6 +4,7 @@ const router = express.Router();
 router.use("/", require("./user"));;
 router.use("/", require("./category"));
 router.use("/", require("./product"));
+router.use("/", require("./bill"));
 
 // router.use("/", require("./giftCode"));
 router.use("/admin", require("./admin"));

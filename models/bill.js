@@ -7,7 +7,7 @@ const BillProductSchema = new mongoose.Schema(
       type: mongoose.Schema.Types.ObjectId,
       ref: "Product",
     },
-    quantity: Number,
+    quantity: { type: Number, default: 0 },
   },
   { _id: false }
 );
@@ -18,8 +18,9 @@ const BillSchema = new Schema(
       type: mongoose.Schema.Types.ObjectId,
       ref: "User",
     },
-    totalAmount: { type: Number, default: 0 },
+    total_amount: { type: Number, default: 0 },
     products: [BillProductSchema],
+    is_deleted: { type: Boolean, default: false },
   },
   { versionKey: false, timestamps: true }
 );
@@ -31,8 +32,9 @@ BillSchema.pre(/^find/, function (next) {
 
 BillSchema.methods.getInfo = function getInfo() {
   return {
-    is_unlocked: this.is_unlocked,
-    play_remain: this.play_remain,
+    user: this.user,
+    total_amount: this.total_amount,
+    products: this.products,
   };
 };
 
