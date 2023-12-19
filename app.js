@@ -7,17 +7,17 @@ const swaggerOption = require("./docs");
 const apiv1Router = require("./routes/api");
 const apiMetadata = require("./routes/api/v1/metadata");
 const multer = require("multer");
-const { setLimitSchedule, setBuffDailyChallenge } = require("./helper/cron");
+// const { setLimitSchedule, setBuffDailyChallenge } = require("./helper/cron");
 const compression = require("compression");
 
 const HTTP_STATUS_CODE = require("./config/http_status_code");
 const ERROR_CODE = require("./config/error_code");
-const { initGameConfigRedis } = require("./controllers/gameConfig");
+// const { initGameConfigRedis } = require("./controllers/gameConfig");
 const env = process.env.NODE_ENV || "development";
 
 // MongoDB
 require("./config/database")();
-require("./config/redisClient");
+// require("./config/redisClient");
 
 // Limit
 const apiLimiter = rateLimit({

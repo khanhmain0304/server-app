@@ -17,11 +17,7 @@ module.exports = () => {
     //   useUnifiedTopology: true,
     // })
 
-    const uri =
-      "mongodb://" +
-      process.env.ATLAS_DB_HOST +
-      ":" +
-      process.env.ATLAS_DB_PORT;
+    const uri = "mongodb://" + process.env.ATLAS_DB_HOST + ":" + process.env.ATLAS_DB_PORT;
     connect(uri, {
       dbName: process.env.ATLAS_DB_NAME,
       user: process.env.ATLAS_DB_USER,
@@ -33,12 +29,26 @@ module.exports = () => {
         console.log("Connection estabislished with MongoDB");
       })
       .catch((error) => console.error(error.message));
-  } else {
+  } else if (process.env.DB_ENV === "development") {
     const uri = "mongodb://" + process.env.DB_URI + ":" + process.env.DB_PORT;
     connect(uri, {
       dbName: process.env.DB_NAME,
       user: process.env.DB_USER,
       pass: process.env.DB_PASS,
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+    })
+      .then(() => {
+        console.log("Connection estabislished with MongoDB");
+      })
+      .catch((error) => console.error(error.message));
+  } else {
+    const uri = "mongodb+srv://" + process.env.ATLAS_DB_USER + ":" + process.env.ATLAS_DB_PASS + "@" + process.env.ATLAS_DB_NAME + process.env.ATLAS_DB_URI;
+
+    connect(uri, {
+      dbName: process.env.ATLAS_DB_NAME,
+      user: process.env.ATLAS_DB_USER,
+      pass: process.env.ATLAS_DB_PASS,
       useNewUrlParser: true,
       useUnifiedTopology: true,
     })
