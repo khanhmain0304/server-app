@@ -42,7 +42,7 @@ app.disable("etag");
 
 app.use(
   cors({
-    origin: "*",
+    origin: ["*", "https://server-manage-bill-52d0ee56a9b3.herokuapp.com"],
   })
 );
 
