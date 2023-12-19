@@ -68,7 +68,9 @@
     "sprintf-js": "^1.1.2",
     "swagger-ui-express": "^4.3.0",
     "utf8": "^3.0.0",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
   },
   "devDependencies": {
     "morgan": "^1.10.0",
