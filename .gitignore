@@ -74,7 +74,6 @@ typings/
 
 # FuseBox cache
 .fusebox/
-.env.development
 .env.production
 cert/cert.pem
 cert/key.pem
