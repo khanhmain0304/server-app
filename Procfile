@@ -1,1 +1,1 @@
-web: nodemon -r dotenv/config index.js dotenv_config_path=.env.development
+web: node -r dotenv/config index.js dotenv_config_path=.env.development
