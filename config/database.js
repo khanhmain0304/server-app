@@ -43,7 +43,7 @@ module.exports = () => {
       })
       .catch((error) => console.error(error.message));
   } else {
-    const uri = "mongodb+srv://" + process.env.ATLAS_DB_USER + ":" + process.env.ATLAS_DB_PASS + "@" + process.env.ATLAS_DB_NAME + process.env.ATLAS_DB_URI;
+    const uri = process.env.ATLAS_DB_URI;
 
     connect(uri, {
       dbName: process.env.ATLAS_DB_NAME,
